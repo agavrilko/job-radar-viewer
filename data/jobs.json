@@ -1,0 +1,892 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-01T23:20:24.907040+00:00",
+  "run_id": "c5fdab69e0cc4cdcad2d6e9c00456510",
+  "coverage": "partial",
+  "sources": {
+    "apple": {
+      "status": "blocked",
+      "last_attempt_at": "2026-11-01T23:17:58.850239+00:00",
+      "last_success_at": null,
+      "found": 0
+    },
+    "google": {
+      "status": "success",
+      "last_attempt_at": "2026-11-01T23:17:59.072386+00:00",
+      "last_success_at": "2026-11-01T23:19:26.545710+00:00",
+      "found": 40
+    },
+    "linkedin": {
+      "status": "blocked",
+      "last_attempt_at": "2026-11-01T23:19:26.547913+00:00",
+      "last_success_at": null,
+      "found": 0
+    }
+  },
+  "jobs": [
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large-scale application design and architecture. 3 years of experience with Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 5 years of experience with data structures and algorithms. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.508836+00:00",
+      "id": "google:106608848810189510",
+      "last_seen_at": "2026-11-01T23:19:25.508836+00:00",
+      "last_verified_at": "2026-11-01T23:18:09.419711+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "106608848810189510",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large-scale application design and architecture. 3 years of experience with Android application development. Preferred qualificatio",
+      "title": "Senior Software Engineer, Mobile (Android), XR",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/106608848810189510-senior-software-engineer-mobile-android-xr",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree in Computer Science, Electrical Engineering, a related technical field, or equivalent practical experience. 5 years of experience with software development in one or more programming languages (e.g., C, C++, Kotlin, or Java). 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large-scale application design and architecture. 3 years of experience with Android application development or Android platform and Framework development. Experience with low-level systems programming, Hardware Abstraction Layers (HALs), or Linux interfaces. Preferred qualifications: Master's degree or PhD in Computer Science, Electrical Engineering, or a related technical field. 5 years of experience with data structures/algorithms, concurrency, memory management, and Android IPC/Binder optimization. 1 year of experience in a technical leadership role driving cross-functional system architecture decisions. Experience developing accessible technologies, assistive user experiences, or human-interface devices. Experience with Android Board Support Packages (BSP), Linux kernel drivers, or custom sensor integrations. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Beam is an AI-first 3D video communication platform developed by Google that enables remote conversations to feel like natural, in-person interactions. Formerly known as Project Starline, Beam combines advanced AI volumetric video modeling, spatial audio, and light-field display technology to provide lifelike depth, perspective, and eye contact without requiring headsets or 3D glasses. The team operates in a fast-paced environment handling complex challenges across real-time computing, machine perception, and hardware-software co-design. As a Engineer on Android System and Frameworks, you will drive low-level platform architecture across the Android stack, bridging custom hardware with upper-layer system services. You will deliver low-latency, power-efficient, and robust platform software across custom Hardware Abstraction Layer (HAL) interfaces (AIDL/HIDL), framework extensions, and runtime performance profiling, owning the foundational software powering the Beam experience. Labs is a group focused on incubating early-stage efforts in support of Google’s mission to organize the world’s information and make it universally accessible and useful. Our team exists to help discover and create new ways to advance our core products through exploration and the application of new technologies. We work to build new solutions that have the potential to transform how users interact with Google. Our goal is to drive innovation by developing new Google products and capabilities that deliver significant impact over longer timeframes. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write and test product or system development code in C, C++, and Kotlin/Java across low-level Android HALs, AIDL interfaces, and system services. Participate in, or lead design reviews with peers and cross-functional stakeholders (silicon vendors, BSP, hardware) to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt architecture specifications based on product/program updates, performance metrics, and user feedback. Triage product or system issues and debug/track/resolve by analyzing root causes and the impact on custom hardware, kernel, network, or service operations.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.525827+00:00",
+      "id": "google:106829872927515334",
+      "last_seen_at": "2026-11-01T23:19:25.525827+00:00",
+      "last_verified_at": "2026-11-01T23:18:11.473459+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Seattle, WA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "106829872927515334",
+      "summary": "Bachelor’s degree in Computer Science, Electrical Engineering, a related technical field, or equivalent practical experience. 5 years of experience with software development in one or more programming languages (e.g., C, C++, Kotlin, or Java). 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with ",
+      "title": "Senior Software Engineer, Android System and Frameworks, Beam",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/106829872927515334-senior-software-engineer-android-system-and-frameworks-beam",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large scale application design and architecture. 3 years of experience with Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or a related technical field. 5 years of experience with data structures and algorithms. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write and test product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.540751+00:00",
+      "id": "google:109692820817617606",
+      "last_seen_at": "2026-11-01T23:19:25.540751+00:00",
+      "last_verified_at": "2026-11-01T23:18:13.481154+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "San Bruno, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "109692820817617606",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large scale application design and architecture. 3 years of experience with Android application development. Preferred qualificatio",
+      "title": "Senior Software Engineer, Mobile, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/109692820817617606-senior-software-engineer-mobile-android",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree in Computer Science or a related technical field or equivalent experience. 5 years of software development experience with one or more general purpose programming languages including but not limited to: GO, Java, Python, C/C++, C#, Objective C, Python, JavaScript, Kotlin. Preferred qualifications: Excellent problem-solving skills and understanding of algorithms and their level of complexity. Excellent software and systems troubleshooting and debugging skills. Excellent written and verbal communication skills. About the job Google's software developers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for software developers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software developer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our software developers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Canada: $182000 - $186000 (CAD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Help design/scale/deliver/lead an automated application evaluation framework including: intelligent application crawlers using computer vision and LLMs, AI vision models to detect spatial layout issues, rendering distortions, overlapping UI elements, and input collision issues specific to the XR environment, and automated regression detectors that verify if new OS-level compatibility overrides resolve app issues without introducing regressions. Participate in the architectural design and implementation of a unified automated application runner for Android XR AppCompat. Build scalable application execution frameworks that run on physical devices, emulators, and cloud-hosted environments. Partner with Android and Android XR platform team to develop new capabilities to improve the application experiences in XR.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.571622+00:00",
+      "id": "google:111864505801024198",
+      "last_seen_at": "2026-11-01T23:19:25.571622+00:00",
+      "last_verified_at": "2026-11-01T23:18:17.457323+00:00",
+      "locations": [
+        "San Jose, CA, USA",
+        "Waterloo, ON, Canada"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "111864505801024198",
+      "summary": "Bachelor's degree in Computer Science or a related technical field or equivalent experience. 5 years of software development experience with one or more general purpose programming languages including but not limited to: GO, Java, Python, C/C++, C#, Objective C, Python, JavaScript, Kotlin. Preferred qualifications: Excellent problem-solving skills ",
+      "title": "Android XR Application Compatibility AI Technical Lead",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/111864505801024198-android-xr-application-compatibility-ai-technical-lead",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience with Android OS Internals. Preferred qualifications: Master's degree or PhD in Computer Science, or related technical field. 5 years of experience with data structures and algorithms. 3 years of experience with performance, large-scale systems data analysis, visualization tools, or debugging. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. In this role, you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions. The Platforms and Devices team encompasses Google's various computing software platforms across environments (desktop, mobile, applications), as well as our first party devices and services that combine the best of Google AI, software, and hardware. Teams across this area research, design, and develop new technologies to make our user's interaction with computing faster and more seamless, building innovative experiences for our users around the world.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write and test product or system development code. Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.613605+00:00",
+      "id": "google:113334240120054470",
+      "last_seen_at": "2026-11-01T23:19:25.613605+00:00",
+      "last_verified_at": "2026-11-01T23:18:21.469903+00:00",
+      "locations": [
+        "San Jose, CA, USA",
+        "Kirkland, WA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "113334240120054470",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience with Android OS Internals. Preferred qualifications: Master's degree or PhD in Computer Scie",
+      "title": "Senior Software Engineer, Android Internals, Platforms and Devices",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/113334240120054470-senior-software-engineer-android-internals-platforms-and-devices",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 8 years of experience with one or more general purpose programming languages (e.g., Java, C/C++, or Python). 5 years of experience with Linux Kernel, Operating Systems, Performance Analysis, Performance Optimization, Performance Tuning, and C++ or C coding. 3 years of experience with software design and architecture. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 8 years of experience with software development in C/C++, and with data structures and algorithms. 5 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, inputs, or hardware architecture. 3 years of experience in a technical leadership role leading project teams and setting technical direction. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Android is Google’s mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Architect, deliver of premium, desktop-class input experiences across Google’s unified Android and ChromeOS computing ecosystems. Own end-to-end technical roadmap across the multi-layered input stack spanning physical hardware matrices, firmware protocols (HID, HID++, USI 2.0 styluses, SPI/I2C touch controllers), Linux, Android GKI kernel-drivers, native C++ input processing pipelines, Java framework services. Design, scale foundational OS capabilities including public, system APIs for third-party peripheral, mouse button customization, next-generation keyboard standards featuring dedicated AI hardware triggers (Super G, quick insert-keys), cross-form-factor haptics for trackpads and styluses, heatmap-driven palm rejection algorithms, low-latency hardware-to-OS wake signaling. Be the primary technical conduit across system UI, input experience hardware engineering, and global Tier-1 OEM for new platform bring-up. Advocate next-generation hardware-in-the-loop test automation, input latency telemetry, drive operational excellence across release bug triaging and code- ownership to deliver flagship Google devices.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.643999+00:00",
+      "id": "google:115460677622997702",
+      "last_seen_at": "2026-11-01T23:19:25.643999+00:00",
+      "last_verified_at": "2026-11-01T23:18:25.466133+00:00",
+      "locations": [
+        "San Jose, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "115460677622997702",
+      "summary": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 8 years of experience with one or more general purpose programming languages (e.g., Java, C/C++, or Python). 5 years of experience with Linux Kernel, Operating Systems, Performance Analysis, Performance Optimization, Performance Tuning, and C++ or C",
+      "title": "Staff Software Engineer, Android Laptop and Tablet System Software, Platform Inputs",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/115460677622997702-staff-software-engineer-android-laptop-and-tablet-system-software-platform-inputs",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large scale application design and architecture. 3 years of experience with Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 5 years of experience with data structures and algorithms. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Android is Google’s mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.702499+00:00",
+      "id": "google:120619925482939078",
+      "last_seen_at": "2026-11-01T23:19:25.702499+00:00",
+      "last_verified_at": "2026-11-01T23:18:33.513648+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "120619925482939078",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large scale application design and architecture. 3 years of experience with Android application development. Preferred qualificatio",
+      "title": "Senior Software Engineer, Mobile (Android), Android Ecosystem",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/120619925482939078-senior-software-engineer-mobile-android-android-ecosystem",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience testing and launching software products. 5 years of experience with Android application development. 3 years of experience with software design and architecture. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 8 years of experience with data structures and algorithms. 3 years of experience in a technical leadership role leading project teams and setting technical direction. 3 years of experience working in a complex, matrixed organization involving cross-functional or cross-business projects. Experience designing client SDKs, developer libraries, or modular platforms integrated by third-party or original equipment manufacturer (OEM) partner applications. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. At Google Photos, our mission is to be the home for your life's content, safely stored and deeply understood, so your personal AI can help you thrive. The Photos Backup Android team in Mountain View builds the high-scale client infrastructure and partner integration platforms that power media backup for billions of users across Android. Google One (G1) is Google's membership for personal cloud storage and Google's cutting-edge AI features. G1 is one of Google's fastest growing subscriptions, with over 150 million subscribers. This is a unique opportunity to be part of a high-impact team, shaping the future of our subscriber experiences, premium features and business growth initiatives. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Set the technical goal and architectural roadmap for Android backup ecosystem integrations. Design and build client SDKs for original equipment manufacturer (OEM) backup integrations and evolve the backup engine to serve product needs. Optimize reliability, battery, memory, and network usage under strict Android OS constraints. Co-design robust client-server synchronization and partner cross-functionally to translate requirements into scalable solutions. Foster engineering excellence through code and architecture reviews, scaling best practices, and mentorship.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.731818+00:00",
+      "id": "google:122782407156736710",
+      "last_seen_at": "2026-11-01T23:19:25.731818+00:00",
+      "last_verified_at": "2026-11-01T23:18:37.500678+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "122782407156736710",
+      "summary": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience testing and launching software products. 5 years of experience with Android application development. 3 years of experience with software design and architecture. Preferred qualifications: Master’s degree or PhD in Engineering, ",
+      "title": "Staff Software Engineer, Mobile (Android), Photos Backup Ecosystems Integrations",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/122782407156736710-staff-software-engineer-mobile-android-photos-backup-ecosystems-integrations",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in C++, and with data structures/algorithms. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience with 3D graphics, OpenGL, and performance rendering. 3 years of experience with iOS application development. Experience in Programming Objective-C or Swift. Preferred qualifications: Master's degree or PhD in Computer Science or a related technical field. 3 years of experience with performance, large-scale systems data analysis, visualization tools or debugging. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. In this role, you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions. At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
+      "id": "google:125735636333142726",
+      "last_seen_at": "2026-11-01T23:19:25.760356+00:00",
+      "last_verified_at": "2026-11-01T23:18:41.512898+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "125735636333142726",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in C++, and with data structures/algorithms. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience with 3D graphics, OpenGL, and performance",
+      "title": "Senior Software Engineer, iOS Graphics, YouTube",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/125735636333142726-senior-software-engineer-ios-graphics-youtube",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience working with embedded operating systems. Experience with consumer product development and Android Platform/OS/Internals. Preferred qualifications: Master's degree or PhD in Computer Science or related technical field. 5 years of experience with data structures and algorithms. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a Senior Software Engineer on the Glasses Framework team, you will direct the technical design, implementation, and evolution of core platform software layers powering next-generation smart glasses. You will solve complex, low-power, and latency-critical engineering problems across a split-compute architecture—connecting lightweight glasses runtimes with host companion devices and Android OS frameworks. You will operate with technical initiative, setting the direction for critical framework components (such as microXR split compute, input routing and dispatch, immersive audio pipelines, uXR rendering, or LED), while mentoring early-career engineers and partnering closely with cross-functional BSP, Silicon, Product, and OEM engineering teams. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Architect, guide, and vet XR framework designs within the scope of the broader area, and write product or framework development code to solve ambiguous problems. Write robust, reliable, efficient, and testable software designed to run in environments that span bare-metal to cloud. Communicate, design, and implement decisions effectively through architecture/design documents and code. Mentor and train other team members on architecture and design techniques, coding standards, debugging complex system interactions, and engineering best practices and processes. Review code developed by other developers and provide feedback to ensure best practices. Contribute to the overall efficiency and productivity of the engineering team through code, process enhancements, and software development workflow improvements.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.789434+00:00",
+      "id": "google:131242196723475142",
+      "last_seen_at": "2026-11-01T23:19:25.789434+00:00",
+      "last_verified_at": "2026-11-01T23:18:45.492486+00:00",
+      "locations": [
+        "San Jose, CA, USA",
+        "Kirkland, WA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "131242196723475142",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience working with embedded operating systems. Experience with consumer product deve",
+      "title": "Senior Software Engineer, Embedded Systems, Firmware, Android XR",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/131242196723475142-senior-software-engineer-embedded-systems-firmware-android-xr",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with Android application development. 5 years of experience testing, and launching software products. 3 years of experience with software design and architecture. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 8 years of experience with data structures/algorithms. 3 years of experience in a technical leadership role leading project teams and setting technical direction. 3 years of experience working in an organization involving cross-functional, or cross-business projects. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions. At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Provide technical leadership on high-impact projects. Influence and coach a distributed team of engineers. Facilitate alignment and clarity across teams on goals, outcomes, and timelines. Manage project priorities, deadlines, and deliverables. Design, develop, test, deploy, maintain, and enhance large scale software solutions.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.804142+00:00",
+      "id": "google:133666085139292870",
+      "last_seen_at": "2026-11-01T23:19:25.804142+00:00",
+      "last_verified_at": "2026-11-01T23:18:47.485232+00:00",
+      "locations": [
+        "San Bruno, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "133666085139292870",
+      "summary": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with Android application development. 5 years of experience testing, and launching software products. 3 years of experience with software design and architecture. Preferred qualifications: Master’s degree or PhD in Engineering,",
+      "title": "Staff Software Engineer, Mobile (Android), YouTube",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133666085139292870-staff-software-engineer-mobile-android-youtube",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 5 years of coding experience in C/C++ programming. 3 years of experience with Android application development. Preferred qualifications: Experience designing, implementing, and debugging computer vision, image processing, signal processing, or computational photography algorithms. Experience in imaging related development on CPU, GPU, or DSP. Experience in digital image processing, digital signal processing, and linear algebra. Knowledge of imaging pipeline or computational photography. Demonstrated interest in photography and videography. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. You will design and ship algorithms that directly shape perceived photo quality in the Pixel HDR+ pipeline — the processing that turns merged sensor data into the photo users see. This includes detail enhancement and sharpening, upsampling for zoom, semantic-aware enhancement driven by on-device ML, the tuning framework that adapts these algorithms for new sensors and lenses each Pixel device, and bring them to production on constrained mobile hardware. You will work across C++, domain-specific image-processing languages, GPU compute, and ML frameworks, and partner with hardware and application teams to land features on the annual Pixel schedule. The Google Pixel team focuses on designing and delivering the world's most helpful mobile experience. The team works on shaping the future of Pixel devices and services through some of the most advanced designs, techniques, products, and experiences in consumer electronics. This includes bringing together the best of Google’s artificial intelligence, software, and hardware to build global smartphones and create transformative experiences for users across the world. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Design, prototype, and deploy innovative computational photography, image signal processing, and machine learning algorithms to advance the mobile camera imaging pipeline. Develop and optimize algorithms for detail and texture rendering, sharpening, upsampling, and optical or sensor artifact mitigation. Bridge classical image processing and deep learning by developing differentiable imaging components for end-to-end neural network training and hybrid on-device inference. Optimize and integrate algorithms into production software across mobile compute architectures (CPU, GPU, DSP, and custom neural accelerators) to meet strict latency, memory, and power targets. Collaborate with cross-functional teams (including hardware, optics, silicon, systems, research, and image quality evaluators) to co-design future camera architectures, enable new capabilities, and validate algorithms for consistent, high-precision image quality across sensors.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.833466+00:00",
+      "id": "google:138815997619380934",
+      "last_seen_at": "2026-11-01T23:19:25.833466+00:00",
+      "last_verified_at": "2026-11-01T23:18:51.507765+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "138815997619380934",
+      "summary": "Bachelor's degree or equivalent practical experience. 5 years of coding experience in C/C++ programming. 3 years of experience with Android application development. Preferred qualifications: Experience designing, implementing, and debugging computer vision, image processing, signal processing, or computational photography algorithms. Experience in ",
+      "title": "Senior Software Engineer, Computational Photography and HDR+, Pixel and XR Camera, Mobile (Android)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/138815997619380934-senior-software-engineer-computational-photography-and-hdr-pixel-and-xr-camera-mobile-android",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with iOS application development. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. Experience designing complex window management architectures and extensible system UI frameworks for iOS or spatial computing. Advanced experience in LLM integration, prompt engineering, and API and SDK design. Proven track record leading development of system-level features, managing overlapping platform challenges, and mentoring senior engineers. Proficiency in spatial interactions, 3D game engines, or performance optimization for resource-constrained hardware. Expert proficiency in reactive UI frameworks, especially SwiftUI. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. XR Human Interface team is a collection of experts in HCI (human computer interaction), system experiences, multimodal input and contextual learning that define how headsets and glasses interfaces evolve. As AI-driven agentic interactions are gaining momentum, we're right in the middle of creating new user interfaces that combine skills in mobile development and applied machine learning approaches. We build novel applications to help users make the most of spatial computing to bring helpful AI to their lives in the most effortless way possible. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Define the long-term technical roadmap and overall window management and system UI architecture for iOS Glasses. Architect solutions for system-level AI integration, spatial, AI-driven app lifecycles, and adaptation of existing platform solutions. Maintain a high bar for code quality and testability by writing critical-path iOS code and conducting architectural design reviews. Partner with UX, Product Management, and adjacent platform teams to enable rapid prototyping and deliver engineering feasibility analysis. Provide technical mentorship and architectural oversight to elevate the engineering team and foster a culture of excellence. Demonstrate and drive adoption of emerging AI workflow improvements to enhance productivity while preserving or improving quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.848732+00:00",
+      "id": "google:140123857305379526",
+      "last_seen_at": "2026-11-01T23:19:25.848732+00:00",
+      "last_verified_at": "2026-11-01T23:18:53.502546+00:00",
+      "locations": [
+        "San Jose, CA, USA",
+        "San Francisco, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "140123857305379526",
+      "summary": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with iOS application development. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. Experience designing complex window management architectures and extensible syst",
+      "title": "Staff Software Developer, iOS Glasses System Experience, XR",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/140123857305379526-staff-software-developer-ios-glasses-system-experience-xr",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 8 years of experience working with embedded operating systems. 3 years of experience with software design and architecture. Experience programming in C/C++. Experience with software development in the Linux Kernel. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 8 years of experience with data structures and algorithms. Experience building software in the Rust programming language. Experience with Android platforms. Experience with system software in any of the following areas - ARM/ARM64 architecture, compilers, firmware, operating systems, Linux kernel, filesystems/storage, device drivers, performance tuning, networking, tools, tests, virtualization, platform libraries. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Android is Google’s mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Work on core system components including memory management, scheduling, power, storage, virtualization, networking. Create and ship Generic Kernel Image (GKI) for billions of devices. Scale development across a growing number of verticals (Wear, Auto, TV, large screen, etc.) Contribute to various open source projects, such as Linux Kernel, STG, AOSP, LLVM, LTP. Create and maintain a reliable, secure and robust foundation for the Android software ecosystem.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.908473+00:00",
+      "id": "google:143200643027215046",
+      "last_seen_at": "2026-11-01T23:19:25.908473+00:00",
+      "last_verified_at": "2026-11-01T23:19:01.398401+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "143200643027215046",
+      "summary": "Bachelor's degree or equivalent practical experience. 8 years of experience working with embedded operating systems. 3 years of experience with software design and architecture. Experience programming in C/C++. Experience with software development in the Linux Kernel. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science",
+      "title": "Staff Software Engineer, Android Kernel and Systems",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/143200643027215046-staff-software-engineer-android-kernel-and-systems",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree in Computer Science, Human-Computer Interaction, Design, or equivalent practical experience. 6 years of experience in front-end development or UX engineering, including 3 years of experience using SwiftUI. Preferred qualifications: Master’s degree in Computer Science, Human-Computer Interaction, Design, or equivalent practical experience. 3 years of experience in technical leadership and managing projects. Experience partnering with UX Design teams. Experience working across full-tech stacks and production environments. Understanding of UX practices and processes, including user-centered design and research. About the job The web is what you make of it and our team is helping the world make more of the web. From open-source pros to user-experience extraordinaires, we develop products that help users connect, communicate and collaborate with others. Our consumer products and cloud platforms are giving millions of users at homes, businesses, universities and nonprofits around the world the tools that shape their web experience -- and changing the way they think about computing. In Google Search, we're reimagining what it means to search for information – any way and anywhere. To do that, we need to solve complex engineering challenges and expand our infrastructure, while maintaining a universally accessible and useful experience that people around the world rely on. In joining the Search team, you'll have an opportunity to make an impact on billions of people globally. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $159000 - $230000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Test concepts for iteration, research, and validation while delivering innovative, engaging prototypes and drive explorations of experiences across a portfolio of features and products in the app. Partner with senior members of the team, promote standards, and integrate changes into guidelines, and collaborate effectively across functional teams. Lead or contribute to key projects, ensure a holistic systems-thinking approach, advocate for user needs across platforms and applications, and foster a system-wide design mindset within the team.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.980441+00:00",
+      "id": "google:78657275467571910",
+      "last_seen_at": "2026-11-01T23:19:25.980441+00:00",
+      "last_verified_at": "2026-11-01T23:19:11.478302+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Los Angeles, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "78657275467571910",
+      "summary": "Bachelor’s degree in Computer Science, Human-Computer Interaction, Design, or equivalent practical experience. 6 years of experience in front-end development or UX engineering, including 3 years of experience using SwiftUI. Preferred qualifications: Master’s degree in Computer Science, Human-Computer Interaction, Design, or equivalent practical exp",
+      "title": "Senior iOS Developer, Search",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78657275467571910-senior-ios-developer-search",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in one or more programming languages. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Experience with front-end (web or mobile) and backend services/distributed systems. Preferred qualifications: Master's degree or PhD in Computer Science or related technical field. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job At Google DeepMind our mission is to build the world's first general-purpose learning agent. Central to this mission is the complex task of measuring the intelligence of our prototypes. As a Software Engineer, you will be working with the cutting edge AI agents developed by our exceptional team of Machine Learning and Neuroscience research scientists. Your responsibilities will include everything from creating systems for agent testing using 2D and 3D games to developing test problems within physics simulators. You will create graphical visualization of results, build competitive agent leaderboards and test new algorithms on robots. To succeed in this role you will need to have a strong foundation in software engineering and enjoy working on a wide range of challenging problems within a mission-driven team. Artificial intelligence will be one of humanity’s most transformative inventions. At Google DeepMind, we are a pioneering AI lab with exceptional interdisciplinary teams focused on advancing AI development to solve complex global challenges and accelerate high-quality product innovation for billions of users. We use our technologies for widespread public benefit and scientific discovery, ensuring safety and ethics are always our highest priority. We are pushing the boundaries across multiple domains. Our global teams offer diverse learning opportunities and varied career pathways for those driven to achieve exceptional results through collective effort.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write and test product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.996014+00:00",
+      "id": "google:79634996049912518",
+      "last_seen_at": "2026-11-01T23:19:25.996014+00:00",
+      "last_verified_at": "2026-11-01T23:19:13.481638+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "79634996049912518",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in one or more programming languages. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. Experience with front-end (web or mobile) and backend services/distrib",
+      "title": "Senior Software Engineer, Mobile, GeminiApp, DeepMind",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79634996049912518-senior-software-engineer-mobile-geminiapp-deepmind",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 5 years of experience in Linux Kernel development using the programming languages C/C++. Experience working on the Linux kernel. Experience in one or more of the following: test automation, refactoring code, test-driven development, build infrastructure, optimizing software, debugging, building tools and testing frameworks. Preferred qualifications: Experience with Linux or BSD kernels. Demonstrated knowledge of embedded systems development, RTOS concepts, device drivers and hardware/software integration. Extensive knowledge of Unix/Linux environments, embedded Linux. Extensive knowledge of Android or WebKit. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions. In this role, you will have experience in low-level computer systems, computer architecture, embedded systems, and kernel development. Key development areas will include the Linux (Android) kernel, device drivers, embedded firmware, Android userspace daemons, performance analysis, and Linux power management. You will collaborate across multidisciplinary domains through every stage of development from schematic reviews to final user experience. You will also have a history of open-source Linux contributions. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Develop Linux kernel drivers to enable new universal serial bus (USB)-connected XR devices and lead hardware bring-up for novel custom silicon. Research scalable USB software architectures, influence SoC architecture, and optimize USB use cases for performance and system health metrics. Abstract hardware interfaces for Android userspace, defining and delivering required hardware abstraction layer (HAL) and Android framework layers. Collaborate across product areas (PAs) to build impactful, user-facing features for split-compute XR systems (Compute Puck and HMD). Identify and fix systemic USB issues while leveraging agentic tools to analyze system behavior and optimize timing and performance.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:26.085144+00:00",
+      "id": "google:91392755443344070",
+      "last_seen_at": "2026-11-01T23:19:26.085144+00:00",
+      "last_verified_at": "2026-11-01T23:19:25.495688+00:00",
+      "locations": [
+        "San Jose, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "91392755443344070",
+      "summary": "Bachelor's degree or equivalent practical experience. 5 years of experience in Linux Kernel development using the programming languages C/C++. Experience working on the Linux kernel. Experience in one or more of the following: test automation, refactoring code, test-driven development, build infrastructure, optimizing software, debugging, building ",
+      "title": "Senior Embedded Software Engineer, Android OS",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/91392755443344070-senior-embedded-software-engineer-android-os",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large-scale application design and architecture. 3 years of experience with Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or a related technical field. 5 years of experience with data structures and algorithms. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write and test product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:26.025359+00:00",
+      "id": "google:83802267525751494",
+      "last_seen_at": "2026-11-01T23:19:26.025359+00:00",
+      "last_verified_at": "2026-11-01T23:19:17.497478+00:00",
+      "locations": [
+        "San Diego, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 50,
+      "source": "google",
+      "source_id": "83802267525751494",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience programming in Java, Kotlin, or C++. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with large-scale application design and architecture. 3 years of experience with Android application development. Preferred qualificatio",
+      "title": "Senior Software Engineer, Mobile, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/83802267525751494-senior-software-engineer-mobile-android",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience with Android application development. 2 years of experience programming in Java, Kotlin, or C++. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.500851+00:00",
+      "id": "google:103794099043082950",
+      "last_seen_at": "2026-11-01T23:19:25.500851+00:00",
+      "last_verified_at": "2026-11-01T23:18:07.549185+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "103794099043082950",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience with Android application development. 2 years of experience programming in Java, Kotlin, or C++. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience developin",
+      "title": "Software Engineer III, Mobile (Android), XR",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/103794099043082950-software-engineer-iii-mobile-android-xr",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in Swift, Objective-C, or C++. 2 years of experience with iOS application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
+      "id": "google:113305266270675654",
+      "last_seen_at": "2026-11-01T23:19:25.586236+00:00",
+      "last_verified_at": "2026-11-01T23:18:19.465988+00:00",
+      "locations": [
+        "Palo Alto, CA, USA",
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "113305266270675654",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in Swift, Objective-C, or C++. 2 years of experience with iOS application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience develop",
+      "title": "Software Engineer III, Mobile, iOS",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/113305266270675654-software-engineer-iii-mobile-ios",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 8 years of experience with security assessments or security design reviews or threat modeling. 8 years of experience with security engineering, computer and network security and security protocols. 8 years of coding experience in one or more general purpose languages. 3 years of experience leading teams in a technical capacity or leading technical risk analysis in an enterprise environment. Preferred qualifications: A track record of excellent published security research. The ability to demonstrate significant depth of understanding in one or more vulnerability research security fields. About the job Our Security team works to create and maintain the safest operating environment for Google's users and developers. Security Engineers work with network equipment and actively monitor our systems for attacks and intrusions. In this role, you will also work with software engineers to proactively identify and fix security flaws and vulnerabilities. There's no such thing as a safe system, only safer systems. Our Security team works to create and maintain the safest operating environment for Google's users and developers. As a Security Engineer, you help protect network boundaries, keep computer systems and network devices hardened against attacks and provide security services to protect highly sensitive data like passwords and customer information. Security Engineers work directly with network equipment and actively monitor our systems for attacks and intrusions. You also work with software engineers to proactively identify and fix security flaws and vulnerabilities. You use your industry experience to own and drive the resolution of complex security incidents, policy questions and technical security issues. We build tooling to scale security research, and create new methodologies for discovering high impact security vulnerabilities. We also use in-house exploit development to provide relevant and actionable guidance for long-term defenses and mitigations, and engage in non-technical work such as driving improvements to industry security processes and best practices. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Conduct vulnerability research and exploit development, specifically in (but not limited to) iOS, MacOS and XNU. Create tools and infrastructure that enables the team to scale up our research efforts. Engage the wider defensive community by publishing your results. Work with other security engineers on the analysis of, and response to vulnerabilities reported by other parties.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.672878+00:00",
+      "id": "google:117841477853160134",
+      "last_seen_at": "2026-11-01T23:19:25.672878+00:00",
+      "last_verified_at": "2026-11-01T23:18:29.485206+00:00",
+      "locations": [
+        "San Jose, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Mobile focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "117841477853160134",
+      "summary": "Bachelor's degree or equivalent practical experience. 8 years of experience with security assessments or security design reviews or threat modeling. 8 years of experience with security engineering, computer and network security and security protocols. 8 years of coding experience in one or more general purpose languages. 3 years of experience leadi",
+      "title": "Staff Security Engineer, Security Research",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/117841477853160134-staff-security-engineer-security-research",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in Java, Kotlin, or C++. 2 years of experience with Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.746351+00:00",
+      "id": "google:123634078502003398",
+      "last_seen_at": "2026-11-01T23:19:25.746351+00:00",
+      "last_verified_at": "2026-11-01T23:18:39.473846+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Palo Alto, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "123634078502003398",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in Java, Kotlin, or C++. 2 years of experience with Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience developin",
+      "title": "Software Engineer III, Mobile, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123634078502003398-software-engineer-iii-mobile-android",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 6 years of experience in front-end development, technical UX design, or prototyping. Experience in application development in one or more platform/area (e.g., web, iOS, Android, CompDes, XR). Preferred qualifications: 7 years of experience developing responsive, adaptive, and performant websites and applications. 6 years of experience as a front-end developer, UX Engineer, creative or design technologist, or in a prototyping design environment. Experience in designing, prototyping, and delivering high-quality user-facing features from idea to launch. Frontend development with backend integrations and rapid UX prototyping experience. Ability to translate mocks and wireframes into well-structured and responsive user interfaces. About the job At Google, we \"Focus on the user and all else will follow.\" Our UX Engineers are versatile, passionate, and driven to advance the vision for our design teams. Comfortable working across discipline lines, you will develop products and prototypes that bring innovative ideas to life. Joining a multi-disciplinary UX team, you will collaborate with Engineering and Product Management, using user insights to create industry-leading products. In a fast-paced environment, you will use your creativity, analytical skills, and knowledge of user-facing technologies to: create prototypes that define product experiences; launch innovative features; build tools to accelerate UX teams; and bridge design and engineering to ensure efficient, high-quality execution. The web is what you make of it and our team is helping the world make more of the web. From open-source pros to user-experience extraordinaires, we develop products that help users connect, communicate and collaborate with others. Our consumer products and cloud platforms are giving millions of users at homes, businesses, universities and nonprofits around the world the tools that shape their web experience -- and changing the way they think about computing. Chrome is dedicated to building a better, more open web. We’re focused on making a better browser (on both desktop and mobile) to help users take advantage of all the web has to offer in a safe and secure way.Chrome is available across all major platforms — iOS, Android, Windows, Mac, Linux and Chrome OS. We also built Chrome as an open source project so the entire web ecosystem could benefit from the latest innovations in speed, simplicity and security. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $159000 - $230000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Collaborate with cross-functional teams to design and prototype new features that enhance the user experience on Chrome. Model a feedback culture by providing and receiving constructive feedback. Navigate ambiguous product settings, using your problem-solving skills to identify and address user needs. Write and review code in Chrome's codebase.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.774449+00:00",
+      "id": "google:128664438688359110",
+      "last_seen_at": "2026-11-01T23:19:25.774449+00:00",
+      "last_verified_at": "2026-11-01T23:18:43.499663+00:00",
+      "locations": [
+        "Los Angeles, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Mobile focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "128664438688359110",
+      "summary": "Bachelor's degree or equivalent practical experience. 6 years of experience in front-end development, technical UX design, or prototyping. Experience in application development in one or more platform/area (e.g., web, iOS, Android, CompDes, XR). Preferred qualifications: 7 years of experience developing responsive, adaptive, and performant websites",
+      "title": "Senior UX Engineer, Chrome Desktop",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/128664438688359110-senior-ux-engineer-chrome-desktop",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience testing, and launching software products. 5 years of experience working with embedded operating systems. 3 years of experience with software design and architecture. Experience with real-time operating systems. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 8 years of experience with data structures and algorithms. 3 years of experience in a technical leadership role leading project teams and setting technical direction. 3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects. Experience with Android or iOS development. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. In XR Audio Platform, our mission is to develop a high quality and audio platform for XR Glasses and Headsets that weaves advanced algorithms into a scalable framework to support essential audio input, crisp communication, captivating media and breathtaking immersion. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Lead Wakeword development for XR Glasses and Headsets, influencing current and next-generation design and architecture. Develop quantitative and qualitative metrics to track wakeword and audio quality and performance and drive measurement and optimizations. Lead a direct and cross-functional team of engineers in execution and delivery of their individual components. Design and build audio capture Microcontroller Unit (MCU) and framework features that enable low-power Augmented Reality (AR) glasses. Deliver software and technical support towards the larger organizational goals.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.863650+00:00",
+      "id": "google:140173777710260934",
+      "last_seen_at": "2026-11-01T23:19:25.863650+00:00",
+      "last_verified_at": "2026-11-01T23:18:55.515096+00:00",
+      "locations": [
+        "San Jose, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Mobile focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "140173777710260934",
+      "summary": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience testing, and launching software products. 5 years of experience working with embedded operating systems. 3 years of experience with software design and architecture. Experience with real-time operating systems. Preferred qualif",
+      "title": "Staff Software Engineer, XR Audio Platform and Wakeword",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/140173777710260934-staff-software-engineer-xr-audio-platform-and-wakeword",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience with software development in C++ or Python. Experience with program analysis. Preferred qualifications: Master's degree or PhD in Computer Science or a related technical field. 2 years of experience with performance, large-scale systems data analysis, visualization tools, or debugging. 2 years of experience with data structures and algorithms in either an academic or industry setting. Experience with security or privacy. Experience with static or dynamic analysis. Experience with Android security or privacy. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Our team builds security and privacy analysis infrastructure for Google Play and Android to detect malicious and abusive apps. Together with partner teams across Android, Ads, Chrome, Search and Cloud, we help Google protect users with safe experiences on our app platform and ecosystem. This is a unique opportunity to be part of the team, which is responsible for building detection technologies to protect Android users from malware and abuse. Android is Google’s mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Build automated runtime analysis platform at Google scale using cloud virtualization infrastructure. Build full-stack solutions including app instrumentation, networking, app crawling, anti-cloaking, leveraging artificial intelligence (AI) where applicable, to build exceptional dynamic analysis-based detection and reverse-engineering solutions. Work broadly with security, privacy and abuse engineering and product teams to land impact protecting Android and Play users against malware and all kinds of mobile threats. Design and build Google-scale automations to scan Android apps with dynamic analysis. Collaborate with other teams in the organization and Google to deliver impact.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.894004+00:00",
+      "id": "google:142151103343928006",
+      "last_seen_at": "2026-11-01T23:19:25.894004+00:00",
+      "last_verified_at": "2026-11-01T23:18:59.513368+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "142151103343928006",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience with software development in C++ or Python. Experience with program analysis. Preferred qualifications: Master's degree or PhD in Computer Science or a related technical field. 2 years of experience with performance, large-scale systems data analysis, visualization tools, o",
+      "title": "Software Engineer, Program Analysis, Mobile Threat Analysis Platform",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/142151103343928006-software-engineer-program-analysis-mobile-threat-analysis-platform",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with software development in C++ programming language. 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture. 5 years of experience leading ML design and optimizing end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging, fine tuning). Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 8 years of experience with data structures and algorithms. 3 years of experience in a technical leadership role leading project teams and setting technical direction. 3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects. Experience in deploying on-device Machine Learning models. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Google AI Edge enables developers and Google products to deploy AI across mobile, web and embedded with with our AI edge stack (ai.google.dev/edge) - from low-code APIs to hardware specific acceleration libraries to achieve leading performance and device optionality at scale. Our team focuses on cross-platform infrastructure and solutions serving all of Google AI's biz needs. We serve Google's flagship apps across Android, iOS and Web with infrastructure, models and solutions (YouTube Shorts/Meet/Photos/Translate/Messages, etc.). We enable GDM with 0-day Gemma launches (Gemma 3n and 4 and variants such as EmbeddingGemma), and support our platforms (Chrome/Android) and Devices (Pixel/Watch). We also enable third-party developers and the ecosystem. The AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide. We're the driving team behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Enable one or more areas in Google AI Edge Developer Tools such as AI Edge Gallery (Gemma's showcase app for on-device Gemma 0-day), Developer Device Platform (Device farm with AI, enabling developers to test/eval/deploy apps and models across device), and AI Edge Eval (innovative eval framework for on-device model and harness). Train task-specific models of in-app AI enabling Gemma model/runtime co-design (quantization, conversion), build industry-leading on-device AI solutions (voice translate, generative image editing) Enable tooling of GTM for on-device Gemma 0-day (AI Edge Gallery), helping developers to test/eval/deploy across devices. Enable on-device deployment of key models across various accelerators (GPU/Pixel TPU/NPUs/CPU) on Android, Chrome, and more. Improve performance of on-device model inference via optimizations in the model presentation, on-device runtime and kernel implementation.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.923860+00:00",
+      "id": "google:143789852410684102",
+      "last_seen_at": "2026-11-01T23:19:25.923860+00:00",
+      "last_verified_at": "2026-11-01T23:19:03.504139+00:00",
+      "locations": [
+        "Sunnyvale, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Mobile focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "143789852410684102",
+      "summary": "Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with software development in C++ programming language. 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture. 5 years of experience leading ML design and",
+      "title": "Staff Software Engineer, On-Device Machine Learning",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/143789852410684102-staff-software-engineer-ondevice-machine-learning",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience with Android application development. 2 years of experience programming in Java, Kotlin, or C++. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Android is Google’s mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.937242+00:00",
+      "id": "google:75791736906883782",
+      "last_seen_at": "2026-11-01T23:19:25.937242+00:00",
+      "last_verified_at": "2026-11-01T23:19:05.509046+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "75791736906883782",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience with Android application development. 2 years of experience programming in Java, Kotlin, or C++. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience developin",
+      "title": "Software Engineer III, Mobile (Android), Android Ecosystem",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/75791736906883782-software-engineer-iii-mobile-android-android-ecosystem",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in C++. 2 years of experience programming in Java or Kotlin. 2 years of experience Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical field. 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging. 2 years of experience with data structures or algorithms in either an academic or industry setting. Experience developing accessible technologies. Proficiency in code and system health, diagnosis and resolution, and software test engineering. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions. Google is an engineering company at heart. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on users around the world. At Google, engineers not only revolutionize search, they routinely work on scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, social to local, Google engineers are changing the world one technological achievement after another. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $211000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:26.040019+00:00",
+      "id": "google:83912025851208390",
+      "last_seen_at": "2026-11-01T23:19:26.040019+00:00",
+      "last_verified_at": "2026-11-01T23:19:19.451445+00:00",
+      "locations": [
+        "San Bruno, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "83912025851208390",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in C++. 2 years of experience programming in Java or Kotlin. 2 years of experience Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical field. 2 years of experience with performance, large sca",
+      "title": "Software Engineer III, Mobile (Android), YouTube",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/83912025851208390-software-engineer-iii-mobile-android-youtube",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience in developing and maintaining backend software systems. 5 years of experience building, operating, or debugging distributed systems, event-driven architectures, or connected IoT device platforms. 5 years of experience with software development in Java. Preferred qualifications: Master's degree or PhD in Computer Science or related technical field. 5 years of experience across the stack with experience or strong enthusiasm for mobile/frontend development (Android Kotlin, iOS Swift, or TypeScript). Experience levereaging generative AI, developer agents, and modern LLM tooling to supercharge personal and team development velocity. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. The Google Home team focuses on hardware, software and services offerings for the home, ranging from thermostats to smart displays. The Home team researches, designs, and develops new technologies and hardware to make users’ homes more helpful. Our mission is the helpful home: to create a home that cares for the people inside it and the world around it. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Own full-stack feature delivery from device telemetry and cloud microservices down to UI in the Google Home App. Design, build, and operate resilient backend services managing high-volume real-time data, automated scheduling algorithms, and demand-response events that save gigawatt-hours of energy. Shape and implement the future of interoperable smart home ecosystems by integrating with Matter, Google Home Platform (GHP), and unified device models (UDDM). Integrate LLMs, AI agents, and automated diagnostic workflows (e.g., auto-RCA, AI-assisted code reviews) into development cycles to dramatically accelerate shipping velocity and maintain system reliability. Partner closely with Product Managers, UX Designers, Hardware NPI, Firmware Engineers, and external ecosystem partners to transform ambitious energy concepts into polished consumer realities.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:26.055329+00:00",
+      "id": "google:85162698416759494",
+      "last_seen_at": "2026-11-01T23:19:26.055329+00:00",
+      "last_verified_at": "2026-11-01T23:19:21.497393+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Mobile focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "85162698416759494",
+      "summary": "Bachelor’s degree or equivalent practical experience. 5 years of experience in developing and maintaining backend software systems. 5 years of experience building, operating, or debugging distributed systems, event-driven architectures, or connected IoT device platforms. 5 years of experience with software development in Java. Preferred qualificati",
+      "title": "Senior Software Engineer, Google Home, Energy Experiences",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/85162698416759494-senior-software-engineer-google-home-energy-experiences",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in Java or Kotlin. 2 years of experience Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical field. 2 years of experience with performance, systems data analysis, visualization tools, or debugging. 2 years of experience with data structures and algorithms in either an academic or industry setting. Experience developing accessible technologies. Experience in code and system health, diagnosis and resolution, and software test engineering. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. With your technical expertise, you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions. Android is Google’s mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:26.070303+00:00",
+      "id": "google:87534245139882694",
+      "last_seen_at": "2026-11-01T23:19:26.070303+00:00",
+      "last_verified_at": "2026-11-01T23:19:23.502144+00:00",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "87534245139882694",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in Java or Kotlin. 2 years of experience Android application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical field. 2 years of experience with performance, systems data analysis, visualization tools, or debu",
+      "title": "Software Engineer III, Mobile, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/87534245139882694-software-engineer-iii-mobile-android",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree. 2 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent. Experience in system design, system architecture, distributed systems, software engineering, and full-stack development. Experience leading cross-functional projects across multiple teams and stakeholders to align technical strategy and execute deliverables. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures or algorithms. Experience developing accessible technologies. Experience in systems programming or application development using Windows API. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Our mission is to secure every device that's accessing Google Workspace and enable enterprises with nuanced controls to secure their fleet. We also provide the Enterprise Mobility and Management solution for Google and other Workspace customers. We work across different PAs to secure and protect devices across various platforms (Android, iOS, Chrome OS, Chrome etc). AI will change the future of work in profound ways, and our products— Gmail, Docs, Drive, Calendar, Sheets, Vids and Meet are at the forefront. From pre-computed summaries for email threads, summaries for meetings, and videos created from a document using lifelike AI avatars, our AI opportunity is huge. Our mission is to meaningfully connect people so they can create, build, and grow together and as part of the team you can build how productivity tools should work 5-10 years into the future. You will work with model builders (Google DeepMind), work with exceptional leaders, and have the ability to impact billions of users across the world. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $147000 - $210000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Drive the development of distributed services (using Java and C++) that power Device Security related features. Address customer needs related to Google Credential Provider for Windows and Windows device management.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-01T23:19:25.878248+00:00",
+      "id": "google:141075597093675718",
+      "last_seen_at": "2026-11-01T23:19:25.878248+00:00",
+      "last_verified_at": "2026-11-01T23:18:57.502203+00:00",
+      "locations": [
+        "Sunnyvale, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Mobile focus requires review",
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 20,
+      "source": "google",
+      "source_id": "141075597093675718",
+      "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree. 2 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript ",
+      "title": "Software Engineer III, Workspace Device Security",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/141075597093675718-software-engineer-iii-workspace-device-security",
+      "verification": "open"
+    }
+  ]
+}
