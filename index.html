@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="A simple list of collected engineering vacancies, with source details and verification history.">
+  <title>Job Radar</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#jobs">Skip to jobs</a>
+  <main class="page">
+    <header class="page-header">
+      <div>
+        <p class="eyebrow"><span class="signal" aria-hidden="true"></span> YOUR DAILY JOB LIST</p>
+        <h1>Job Radar<span class="title-dot">.</span></h1>
+        <p class="intro">Engineering opportunities, all in one place.</p>
+      </div>
+      <button id="refresh" class="button" type="button">Refresh data <span aria-hidden="true">↻</span></button>
+    </header>
+
+    <section class="snapshot" aria-label="Collection information">
+      <div class="snapshot-top">
+        <p id="updated">Loading the latest snapshot…</p>
+        <a href="./data/jobs.json" class="subtle-link">View JSON <span aria-hidden="true">↗</span></a>
+      </div>
+      <p id="coverage" class="fine-print">Availability reflects the last verification, not a guarantee that a role is still open.</p>
+      <details id="source-details">
+        <summary>Source status &amp; snapshot details</summary>
+        <div id="sources" class="source-grid"></div>
+        <dl id="snapshot-details" class="record-grid"></dl>
+      </details>
+    </section>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+    <noscript><p class="status error">Enable JavaScript to load the jobs, or open <a href="./data/jobs.json">the jobs JSON</a> directly.</p></noscript>
+
+    <section class="list-section" aria-label="Job listings">
+      <div class="list-toolbar">
+        <h2 id="count">Jobs</h2>
+        <div class="search-wrap">
+          <label for="search" class="sr-only">Search all job details</label>
+          <input id="search" type="search" placeholder="Search title, company, location…" autocomplete="off" disabled>
+        </div>
+      </div>
+      <div id="jobs" class="jobs" tabindex="-1" aria-busy="true"></div>
+      <p id="empty" class="empty" hidden></p>
+    </section>
+    <footer>Read the details. Check the source. Find your next role.</footer>
+  </main>
+</body>
+</html>
