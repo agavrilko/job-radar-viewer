@@ -140,7 +140,6 @@ function renderSnapshot(data) {
   recordFields(el("snapshot-details"), Object.entries(data).filter(([key]) => !["jobs", "sources"].includes(key)));
 }
 async function load() {
-  el("refresh").disabled = true;
   el("jobs").setAttribute("aria-busy", "true");
   el("status").className = "status";
   el("status").textContent = "Loading jobs…";
@@ -163,15 +162,13 @@ async function load() {
   } catch (error) {
     el("status").className = "status error";
     const reason = error.name === "AbortError" ? "The request timed out." : error.message;
-    el("status").textContent = `Could not refresh jobs. ${reason} ${state.loaded ? "The previously loaded snapshot is still shown. " : ""}Check your connection and select Refresh data to retry.${location.protocol === "file:" ? " Open this page through a web server or GitHub Pages, rather than directly from disk." : ""}`;
+    el("status").textContent = `Could not load jobs. ${reason} Check your connection and reload the page to retry.${location.protocol === "file:" ? " Open this page through a web server or GitHub Pages, rather than directly from disk." : ""}`;
     if (!state.loaded) el("updated").textContent = "Snapshot unavailable";
   } finally {
     clearTimeout(timeout);
-    el("refresh").disabled = false;
     el("jobs").setAttribute("aria-busy", "false");
   }
 }
-el("refresh").addEventListener("click", load);
 el("search").addEventListener("input", renderJobs);
 el("companies-all").addEventListener("click", () => {
   state.excludedCompanies.clear();
