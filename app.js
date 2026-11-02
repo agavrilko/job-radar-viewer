@@ -1,7 +1,9 @@
 "use strict";
 
 const el = (id) => document.getElementById(id);
-const state = { jobs: [], loaded: false };
+const state = { jobs: [], loaded: false, companies: new Map(), excludedCompanies: new Set() };
+const companyName = (job) => String(job.company || "Company not provided").trim() || "Company not provided";
+const companyKey = (job) => companyName(job).toLocaleLowerCase();
 const labels = {
   id: "Record ID", source_id: "Source job ID", source: "Source", company_priority: "Company priority",
   score: "Relevance score", eligibility: "Eligibility", employment_type: "Employment type",
@@ -87,13 +89,39 @@ function jobCard(job, index) {
   card.append(details);
   return card;
 }
+function renderCompanies() {
+  const companies = new Map();
+  for (const job of state.jobs) {
+    const key = companyKey(job);
+    if (!companies.has(key)) companies.set(key, { name: companyName(job), count: 0 });
+    companies.get(key).count += 1;
+  }
+  state.companies = new Map([...companies].sort((a, b) => a[1].name.localeCompare(b[1].name)));
+  el("companies").replaceChildren();
+  for (const [key, info] of state.companies) {
+    const label = text("label", "", "company-option");
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.checked = !state.excludedCompanies.has(key);
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) state.excludedCompanies.delete(key);
+      else state.excludedCompanies.add(key);
+      renderJobs();
+    });
+    label.append(checkbox, text("span", info.name), text("span", String(info.count), "company-count"));
+    el("companies").append(label);
+  }
+  el("company-filter").disabled = false;
+}
 function renderJobs() {
   const query = el("search").value.trim().toLocaleLowerCase();
-  const jobs = state.jobs.filter((job) => !query || JSON.stringify(job).toLocaleLowerCase().includes(query));
-  el("count").textContent = query ? `${jobs.length} of ${state.jobs.length} jobs` : `${jobs.length} ${jobs.length === 1 ? "job" : "jobs"}`;
+  const selectedCount = [...state.companies.keys()].filter((key) => !state.excludedCompanies.has(key)).length;
+  el("company-summary").textContent = `${selectedCount} of ${state.companies.size} companies selected · Counts show all jobs in this snapshot`;
+  const jobs = state.jobs.filter((job) => !state.excludedCompanies.has(companyKey(job)) && (!query || JSON.stringify(job).toLocaleLowerCase().includes(query)));
+  el("count").textContent = query || selectedCount !== state.companies.size ? `${jobs.length} of ${state.jobs.length} jobs` : `${jobs.length} ${jobs.length === 1 ? "job" : "jobs"}`;
   el("jobs").replaceChildren(...jobs.map(jobCard));
   el("empty").hidden = jobs.length !== 0;
-  el("empty").textContent = state.jobs.length ? "No jobs match your search. Try another title, company or location." : "No jobs in this snapshot yet. Check the source status above for collection details.";
+  el("empty").textContent = !state.jobs.length ? "No jobs in this snapshot yet. Check the source status above for collection details." : !selectedCount ? "No companies selected. Check a company above or select all to show jobs." : "No jobs match your filters. Try a different search or select more companies.";
 }
 function renderSnapshot(data) {
   const age = Date.now() - new Date(data.generated_at).getTime();
@@ -127,6 +155,7 @@ async function load() {
     }
     renderSnapshot(data);
     state.jobs = data.jobs;
+    renderCompanies();
     state.loaded = true;
     el("search").disabled = false;
     renderJobs();
@@ -144,4 +173,14 @@ async function load() {
 }
 el("refresh").addEventListener("click", load);
 el("search").addEventListener("input", renderJobs);
+el("companies-all").addEventListener("click", () => {
+  state.excludedCompanies.clear();
+  renderCompanies();
+  renderJobs();
+});
+el("companies-none").addEventListener("click", () => {
+  state.excludedCompanies = new Set(state.companies.keys());
+  renderCompanies();
+  renderJobs();
+});
 load();

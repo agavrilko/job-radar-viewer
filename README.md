@@ -19,6 +19,12 @@ description and every original record field. Source health and snapshot metadata
 are available above the list. Dates use the browser's local time; record details
 also retain their original timestamps. Refresh reloads JSON without reloading the page.
 
+The Companies header lists every company in the loaded snapshot with its job count.
+All checkboxes start selected. Deselect companies to hide their jobs; this works
+together with text search. Select all/Clear all are available. Counts refer to the
+complete snapshot, so companies stay visible even when text search has no matches.
+Selections survive Refresh data for this page session; a new page load selects all.
+
 The page supports the existing schema-1 snapshot and schema-2 numbered snapshots.
 All source text is rendered as text, and job links accept only HTTP(S) URLs.
 There are no external libraries, fonts, build tools or API credentials.

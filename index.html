@@ -21,6 +21,18 @@
       <button id="refresh" class="button" type="button">Refresh data <span aria-hidden="true">↻</span></button>
     </header>
 
+    <fieldset id="company-filter" class="company-filter" disabled>
+      <legend>Companies</legend>
+      <div class="company-toolbar">
+        <p id="company-summary" class="fine-print">Loading companies…</p>
+        <div class="company-actions">
+          <button id="companies-all" class="filter-action" type="button">Select all</button>
+          <button id="companies-none" class="filter-action" type="button">Clear all</button>
+        </div>
+      </div>
+      <div id="companies" class="company-options"></div>
+    </fieldset>
+
     <section class="snapshot" aria-label="Collection information">
       <div class="snapshot-top">
         <p id="updated">Loading the latest snapshot…</p>
@@ -39,7 +51,7 @@
 
     <section class="list-section" aria-label="Job listings">
       <div class="list-toolbar">
-        <h2 id="count">Jobs</h2>
+        <h2 id="count" aria-live="polite">Jobs</h2>
         <div class="search-wrap">
           <label for="search" class="sr-only">Search all job details</label>
           <input id="search" type="search" placeholder="Search title, company, location…" autocomplete="off" disabled>

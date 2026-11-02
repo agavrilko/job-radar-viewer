@@ -26,6 +26,17 @@ h1 { margin: 0; font-size: clamp(2.25rem, 6vw, 3.3rem); font-weight: 650; letter
 .button:hover { border-color: #7e9bbc; }
 .button span { margin-left: 10px; font-size: 1.15rem; }
 .snapshot { padding: 20px 24px; border: 1px solid var(--line); border-radius: 10px; background: #edf1f4; font-size: .84rem; }
+.company-filter { margin: 0 0 24px; padding: 14px 20px 20px; min-width: 0; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+.company-filter legend { padding: 0 6px; font-size: .9rem; font-weight: 600; }
+.company-toolbar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 20px; margin-bottom: 10px; }
+.company-toolbar .fine-print { margin: 0; }
+.company-actions { display: flex; gap: 14px; }
+.filter-action { min-height: 44px; padding: 6px 0; border: 0; background: transparent; color: var(--blue); font-size: .8rem; text-decoration: underline; text-underline-offset: 3px; }
+.company-options { display: flex; flex-wrap: wrap; gap: 8px; }
+.company-option { display: flex; align-items: center; gap: 8px; min-height: 44px; max-width: 100%; padding: 8px 12px; border: 1px solid var(--line); border-radius: 7px; font-size: .83rem; cursor: pointer; overflow-wrap: anywhere; }
+.company-option:has(input:checked) { background: #eff4ff; border-color: #bbcef4; }
+.company-option input { width: 17px; height: 17px; flex: 0 0 auto; margin: 0; accent-color: var(--blue); }
+.company-count { color: var(--muted); font-size: .75rem; }
 .snapshot-top { display: flex; gap: 12px; justify-content: space-between; align-items: baseline; }
 .snapshot-top p { margin: 0; line-height: 1.6; }
 .subtle-link { white-space: nowrap; font-size: .79rem; }
