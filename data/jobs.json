@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T01:19:06.977303+00:00",
-  "run_id": "fb7b7d9ee4fb4b4ab04f33340a2b2698",
+  "generated_at": "2026-11-02T01:34:19.709085+00:00",
+  "run_id": "f5a824f25221442e870489f399cef3d7",
   "coverage": "partial",
   "sources": {
     "apple": {
       "status": "success",
-      "last_attempt_at": "2026-11-02T01:15:43.924098+00:00",
-      "last_success_at": "2026-11-02T01:17:35.498828+00:00",
+      "last_attempt_at": "2026-11-02T01:30:12.136371+00:00",
+      "last_success_at": "2026-11-02T01:32:04.416446+00:00",
       "found": 40
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-02T01:17:35.517880+00:00",
-      "last_success_at": "2026-11-02T01:19:04.627769+00:00",
+      "last_attempt_at": "2026-11-02T01:32:04.433082+00:00",
+      "last_success_at": "2026-11-02T01:33:33.551125+00:00",
       "found": 40
     },
     "linkedin": {
-      "status": "blocked",
-      "last_attempt_at": "2026-11-02T01:19:05.138357+00:00",
+      "status": "partial",
+      "last_attempt_at": "2026-11-02T01:33:33.949277+00:00",
       "last_success_at": null,
-      "found": 0
+      "found": 17
     }
   },
   "jobs": [
@@ -32,8 +32,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466295+00:00",
       "id": "apple:200648699-3956",
-      "last_seen_at": "2026-11-02T01:17:35.466295+00:00",
-      "last_verified_at": "2026-11-02T01:16:47.791781+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.370298+00:00",
+      "last_verified_at": "2026-11-02T01:31:28.996012+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -65,8 +65,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466922+00:00",
       "id": "apple:200662668-3956",
-      "last_seen_at": "2026-11-02T01:17:35.466922+00:00",
-      "last_verified_at": "2026-11-02T01:17:00.795014+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.369611+00:00",
+      "last_verified_at": "2026-11-02T01:31:14.602844+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -99,8 +99,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465656+00:00",
       "id": "apple:200664311-0836",
-      "last_seen_at": "2026-11-02T01:17:35.465656+00:00",
-      "last_verified_at": "2026-11-02T01:16:34.511658+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.368735+00:00",
+      "last_verified_at": "2026-11-02T01:31:01.375741+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -131,8 +131,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464165+00:00",
       "id": "apple:200685733-0836",
-      "last_seen_at": "2026-11-02T01:17:35.464165+00:00",
-      "last_verified_at": "2026-11-02T01:16:11.396194+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.367273+00:00",
+      "last_verified_at": "2026-11-02T01:30:39.071994+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -163,8 +163,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464932+00:00",
       "id": "apple:200662757-3543",
-      "last_seen_at": "2026-11-02T01:17:35.464932+00:00",
-      "last_verified_at": "2026-11-02T01:16:25.555539+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.368229+00:00",
+      "last_verified_at": "2026-11-02T01:30:52.556688+00:00",
       "locations": [
         "New York, United States",
         "Cupertino, California, United States",
@@ -198,8 +198,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-02T01:17:35.466590+00:00",
-      "last_verified_at": "2026-11-02T01:16:53.958431+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.369932+00:00",
+      "last_verified_at": "2026-11-02T01:31:22.870489+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -230,8 +230,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-02T01:19:04.054793+00:00",
-      "last_verified_at": "2026-11-02T01:17:49.920943+00:00",
+      "last_seen_at": "2026-11-02T01:33:32.926637+00:00",
+      "last_verified_at": "2026-11-02T01:32:18.886234+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -263,8 +263,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-02T01:17:35.464569+00:00",
-      "last_verified_at": "2026-11-02T01:16:19.576150+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.367624+00:00",
+      "last_verified_at": "2026-11-02T01:30:44.680655+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -296,8 +296,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-02T01:17:35.465562+00:00",
-      "last_verified_at": "2026-11-02T01:16:32.153032+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.368625+00:00",
+      "last_verified_at": "2026-11-02T01:30:58.835315+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -329,8 +329,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468478+00:00",
       "id": "apple:200654462-0836",
-      "last_seen_at": "2026-11-02T01:17:35.468478+00:00",
-      "last_verified_at": "2026-11-02T01:17:32.617807+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.372392+00:00",
+      "last_verified_at": "2026-11-02T01:32:04.320410+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -362,8 +362,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465893+00:00",
       "id": "apple:200662761-3543",
-      "last_seen_at": "2026-11-02T01:17:35.465893+00:00",
-      "last_verified_at": "2026-11-02T01:16:38.888830+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.369009+00:00",
+      "last_verified_at": "2026-11-02T01:31:06.008730+00:00",
       "locations": [
         "Cupertino, California, United States",
         "New York City, New York, United States",
@@ -397,8 +397,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468139+00:00",
       "id": "apple:200671616-0836",
-      "last_seen_at": "2026-11-02T01:17:35.468139+00:00",
-      "last_verified_at": "2026-11-02T01:17:27.309403+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.372193+00:00",
+      "last_verified_at": "2026-11-02T01:32:00.524286+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -425,13 +425,46 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "As a Development and Tools Engineer, you will be part of the Car Experience Systems Engineering team that defines and supports the development and adoption of how iPhone and vehicles communicate, enabling the user experiences used and loved by our customers every day the world over.\n\nApple’s Car Experience engineering group is looking for talented engineers to support developing new features and build high quality automotive system simulation tools. This role requires strong software engineering skills and a solid appreciation of how great user experiences require deep technical thought and consideration. You will need excellent communication and organizational skills, and the ability to work in a diverse group. You will work closely with cross-functional teams, with an ability to multitask, prioritize and follow through.\n\nYou will support the development and testing of new and existing automotive iOS features by creating reference designs, designing test and simulation tools, and communicating with automotive partners to support their integration efforts.\n\n5 years or more software development experience on iOS and/or macOS platforms using C/C++/Objective-C/Swift, with frameworks, application development, and user interface experience preferred. Experience creating system test and validation tools. Experience with developing software released to production environment. Experience with object-oriented programming and design.\n\nExperience with/understanding of wireless and networking technologies; video/graphics and audio processing is preferred. Experience developing interfaces used for automated tests preferred. Experience with Unix/Linux preferred.\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
+      "id": "apple:200675591-0836",
+      "last_seen_at": "2026-11-02T01:32:04.369122+00:00",
+      "last_verified_at": "2026-11-02T01:31:08.000202+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-08-05T01:45:33.665+00:00",
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 150400
+      },
+      "salary_match": "partial",
+      "score": 50,
+      "source": "apple",
+      "source_id": "200675591-0836",
+      "summary": "As a Development and Tools Engineer, you will be part of the Car Experience Systems Engineering team that defines and supports the development and adoption of how iPhone and vehicles communicate, enabling the user experiences used and loved by our customers every day the world over.\n\nApple’s Car Experience engineering group is looking for talented ",
+      "title": "iOS Developer Tools Engineer – Car Experience, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200675591-0836/ios-developer-tools-engineer-car-experience-wireless-technologies-ecosystems",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "Our Connectivity, Cell & Satellite team is looking for a highly motivated individual with excellent problem-solving skills to help create and seamlessly integrate technologies that enrich people's lives and deliver the absolute best user experience. Join our team and drive innovation that matters.\n\nIn this role, you'll be working on designing and implementing features for enabling Satellite communication when iPhone or Watch Ultra is off-grid to implementing features like RCS End-to-End encryption for making messaging more secure. Our team works on a wide array of problems, and if you're passionate about building cool stuff in a fast-paced environment, we may have the job for you.\n\nDesign and implementation of new features. Defining, planning, and designing the overall system architectures and protocols for our products. Work cross-functionally with other software teams. Debugging failures during field, interoperability, and type-approval testing.\n\n5+ years of industry experience. Strong experience writing C++ code in a POSIX environment. Broad experience in overall system design and implementation Solid understanding of multi-threaded programming and synchronization. Strong problem-solving and debugging skills. Bachelor's or Master's degree in Computer Science (or equivalent).\n\nDemonstrated experience mentoring other team members while leading projects. iOS Development experience, including experience with Objective-C/Swift and Apple development tools. Excellent communication and collaboration skills, with the ability to work independently or in small teams. Comfortable with juggling projects across different domains.\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466502+00:00",
       "id": "apple:200676229-0836",
-      "last_seen_at": "2026-11-02T01:17:35.466502+00:00",
-      "last_verified_at": "2026-11-02T01:16:51.911279+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.369829+00:00",
+      "last_verified_at": "2026-11-02T01:31:19.894324+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -463,8 +496,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464366+00:00",
       "id": "apple:200678192-0836",
-      "last_seen_at": "2026-11-02T01:17:35.464366+00:00",
-      "last_verified_at": "2026-11-02T01:16:15.549212+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.370927+00:00",
+      "last_verified_at": "2026-11-02T01:31:37.434072+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -500,8 +533,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467813+00:00",
       "id": "apple:200678192-3543",
-      "last_seen_at": "2026-11-02T01:17:35.467813+00:00",
-      "last_verified_at": "2026-11-02T01:17:19.383799+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.371680+00:00",
+      "last_verified_at": "2026-11-02T01:31:50.485194+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -611,8 +644,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466183+00:00",
       "id": "apple:200681110-3956",
-      "last_seen_at": "2026-11-02T01:17:35.466183+00:00",
-      "last_verified_at": "2026-11-02T01:16:45.394780+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.369460+00:00",
+      "last_verified_at": "2026-11-02T01:31:11.648009+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -644,8 +677,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.463529+00:00",
       "id": "apple:200692106-0836",
-      "last_seen_at": "2026-11-02T01:17:35.463529+00:00",
-      "last_verified_at": "2026-11-02T01:16:04.188207+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.366109+00:00",
+      "last_verified_at": "2026-11-02T01:30:31.856088+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -677,8 +710,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465999+00:00",
       "id": "apple:200690588-0836",
-      "last_seen_at": "2026-11-02T01:17:35.465999+00:00",
-      "last_verified_at": "2026-11-02T01:16:41.069603+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.368373+00:00",
+      "last_verified_at": "2026-11-02T01:30:54.437260+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -711,8 +744,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-02T01:17:35.464055+00:00",
-      "last_verified_at": "2026-11-02T01:16:08.799022+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.367144+00:00",
+      "last_verified_at": "2026-11-02T01:30:35.739795+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -745,8 +778,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468341+00:00",
       "id": "apple:200660654-3577",
-      "last_seen_at": "2026-11-02T01:17:35.468341+00:00",
-      "last_verified_at": "2026-11-02T01:17:29.884669+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.372293+00:00",
+      "last_verified_at": "2026-11-02T01:32:02.337080+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -779,8 +812,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467136+00:00",
       "id": "apple:200670523-3543",
-      "last_seen_at": "2026-11-02T01:17:35.467136+00:00",
-      "last_verified_at": "2026-11-02T01:17:05.021871+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.370531+00:00",
+      "last_verified_at": "2026-11-02T01:31:34.278034+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -814,8 +847,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-02T01:17:35.464774+00:00",
-      "last_verified_at": "2026-11-02T01:16:23.398457+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.368054+00:00",
+      "last_verified_at": "2026-11-02T01:30:49.775936+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -848,8 +881,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465753+00:00",
       "id": "apple:200682051-3956",
-      "last_seen_at": "2026-11-02T01:17:35.465753+00:00",
-      "last_verified_at": "2026-11-02T01:16:36.229396+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.368848+00:00",
+      "last_verified_at": "2026-11-02T01:31:03.532983+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -882,8 +915,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-02T01:17:35.466706+00:00",
-      "last_verified_at": "2026-11-02T01:16:56.040704+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.370069+00:00",
+      "last_verified_at": "2026-11-02T01:31:24.954893+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -917,8 +950,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-02T01:17:35.464682+00:00",
-      "last_verified_at": "2026-11-02T01:16:21.399726+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.367942+00:00",
+      "last_verified_at": "2026-11-02T01:30:47.676694+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -946,13 +979,13 @@
     {
       "company": "Apple",
       "company_priority": 0,
-      "description": "At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Are you interested in building the next generation of iOS apps? The Journal team at Apple is looking for talented iOS App developers to join a small team of highly skilled engineers to build world class applications across all of Apple’s platforms. As a member of our team, you'll be responsible for building features for upcoming releases, prototyping new feature concepts, and making sure our users always have a great experience.\n\nThis position requires deep knowledge of Swift and UIKit/SwiftUI. You must be comfortable with rapidly evolving designs and requirements, and have excellent interpersonal skills. Throughout the process, you will work collaboratively with our world-class team of engineers, partner with designers, and coordinate with other teams at Apple including the iOS and macOS teams.\n\nImplementing new features Prototyping new ideas to help with initial feature definition Communicating ideas to the Apple design team and other cross functional teams Participating in architecture and code reviews Exploring new frameworks and technologies and how they can aid in implementing new features Building internal tools as needed to help ship high quality software\n\n2+ years of experience with Swift and/or Objective-C design patterns 2+ years of experience with UIKit and/or SwiftUI Talent for cleanly architecting UI features Experience with AI assisted development tools Excellent oral and written communication skills BS in Computer Science or equivalent\n\nPassion for quality and attention to detail Aptitude to independently learn new technologies Enthusiasm for delivering exceptional product experiences\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "description": "At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Are you interested in building the next generation of iOS apps? The Journal team at Apple is looking for talented iOS App developers to join a small team of highly skilled engineers to build world class applications across all of Apple’s platforms. As a member of our team, you'll be responsible for building features for upcoming releases, prototyping new feature concepts, and making sure our users always have a great experience.\n\nThis position requires deep knowledge of Swift and UIKit/SwiftUI. You must be comfortable with rapidly evolving designs and requirements, and have excellent interpersonal skills. Throughout the process, you will work collaboratively with our world-class team of engineers, partner with designers, and coordinate with other teams at Apple including the iOS and macOS teams.\n\nImplementing new features Prototyping new ideas to help with initial feature definition Communicating ideas to the Apple design team and other cross functional teams Participating in architecture and code reviews Exploring new frameworks and technologies and how they can aid in implementing new features Building internal tools as needed to help ship high quality software\n\n2+ years of experience with Swift and/or Objective-C design patterns 2+ years of experience with UIKit and/or SwiftUI Talent for cleanly architecting UI features Experience with AI assisted development tools Excellent oral and written communication skills BS in Computer Science or equivalent\n\nPassion for quality and attention to detail Aptitude to independently learn new technologies Enthusiasm for delivering exceptional product experiences\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467924+00:00",
       "id": "apple:200689757-0836",
-      "last_seen_at": "2026-11-02T01:17:35.467924+00:00",
-      "last_verified_at": "2026-11-02T01:17:22.371172+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.371875+00:00",
+      "last_verified_at": "2026-11-02T01:31:52.649456+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -966,8 +999,8 @@
       "salary": {
         "basis": "annual_base",
         "currency": "USD",
-        "max": 277600,
-        "min": 150400
+        "max": 263300,
+        "min": 142300
       },
       "salary_match": "partial",
       "score": 30,
@@ -986,8 +1019,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467240+00:00",
       "id": "apple:200689757-3543",
-      "last_seen_at": "2026-11-02T01:17:35.467240+00:00",
-      "last_verified_at": "2026-11-02T01:17:07.620144+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.371124+00:00",
+      "last_verified_at": "2026-11-02T01:31:40.464985+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1021,8 +1054,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468007+00:00",
       "id": "apple:200676418-3543",
-      "last_seen_at": "2026-11-02T01:17:35.468007+00:00",
-      "last_verified_at": "2026-11-02T01:17:24.862562+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.372098+00:00",
+      "last_verified_at": "2026-11-02T01:31:57.039643+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1055,8 +1088,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-02T01:17:35.467320+00:00",
-      "last_verified_at": "2026-11-02T01:17:09.419020+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.370405+00:00",
+      "last_verified_at": "2026-11-02T01:31:31.764441+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1089,8 +1122,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466088+00:00",
       "id": "apple:200682395-3543",
-      "last_seen_at": "2026-11-02T01:17:35.466088+00:00",
-      "last_verified_at": "2026-11-02T01:16:42.948792+00:00",
+      "last_seen_at": "2026-11-02T01:32:04.369339+00:00",
+      "last_verified_at": "2026-11-02T01:31:09.852352+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1123,8 +1156,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-02T01:19:04.169645+00:00",
-      "last_verified_at": "2026-11-02T01:18:05.918275+00:00",
+      "last_seen_at": "2026-11-02T01:33:33.051068+00:00",
+      "last_verified_at": "2026-11-02T01:32:34.847292+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -1150,8 +1183,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.848732+00:00",
       "id": "google:140123857305379526",
-      "last_seen_at": "2026-11-02T01:19:04.067558+00:00",
-      "last_verified_at": "2026-11-02T01:17:51.907160+00:00",
+      "last_seen_at": "2026-11-02T01:33:32.942274+00:00",
+      "last_verified_at": "2026-11-02T01:32:21.133160+00:00",
       "locations": [
         "San Jose, CA, USA",
         "San Francisco, CA, USA"
@@ -1178,8 +1211,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.980441+00:00",
       "id": "google:78657275467571910",
-      "last_seen_at": "2026-11-02T01:19:04.096254+00:00",
-      "last_verified_at": "2026-11-02T01:17:55.940639+00:00",
+      "last_seen_at": "2026-11-02T01:33:32.973651+00:00",
+      "last_verified_at": "2026-11-02T01:32:24.811503+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Los Angeles, CA, USA"
@@ -1206,8 +1239,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-02T01:19:04.040799+00:00",
-      "last_verified_at": "2026-11-02T01:17:47.930706+00:00",
+      "last_seen_at": "2026-11-02T01:33:32.908410+00:00",
+      "last_verified_at": "2026-11-02T01:32:16.857694+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -1234,8 +1267,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-02T01:19:04.082430+00:00",
-      "last_verified_at": "2026-11-02T01:17:53.928642+00:00",
+      "last_seen_at": "2026-11-02T01:33:32.958595+00:00",
+      "last_verified_at": "2026-11-02T01:32:22.823170+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -1263,8 +1296,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:26.055329+00:00",
       "id": "google:85162698416759494",
-      "last_seen_at": "2026-11-02T01:19:04.154257+00:00",
-      "last_verified_at": "2026-11-02T01:18:03.955201+00:00",
+      "last_seen_at": "2026-11-02T01:33:33.035457+00:00",
+      "last_verified_at": "2026-11-02T01:32:32.849735+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -1282,7 +1315,368 @@
       "title": "Senior Software Engineer, Google Home, Energy Experiences",
       "url": "https://www.google.com/about/careers/applications/jobs/results/85162698416759494-senior-software-engineer-google-home-energy-experiences",
       "verification": "open"
+    },
+    {
+      "company": "Eight Sleep",
+      "company_priority": 1,
+      "description": "Join the Sleep Fitness Movement At Eight Sleep, we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Our products power peak mental, physical, and emotional performance by transforming every night of sleep into a personalized, data-driven recovery experience. We are trusted by high performers, professional athletes, and health-conscious consumers in over 30 countries worldwide. Recognized as one of Fast Company's Most Innovative Companies in 2019, 2022, and 2023, 2026 and twice named to TIME's “Best Inventions of the Year.” We operate like a high-performance team: fast, focused, and motivated by impact. We don’t just ship; we iterate, refine, and obsess over the details that help our members sleep better and wake up stronger. Every role at Eight Sleep is a chance to create cutting-edge technology, collaborate with world-class talent, and help shape a future where sleep isn’t passive - it’s a powerful tool for living better. If you’re tired of the ordinary and driven to build at the edge of what’s possible, this is your moment. Join us and lead the movement that’s transforming how the world sleeps and what we’re all capable of when we wake up. High Standards. No Apologies. We operate with intensity because our mission demands it. At Eight Sleep, we bring the same mindset as the world’s top performers: focused, relentless, and always pushing to be in the top 1% of our craft. Think Kobe Bryant’s mamba mentality, applied to bold ideas, next-gen tech, and flawless execution. This isn’t a 9-to-5. Our team is deeply committed, often putting in 60+ hours a week –not because we’re told to, but because we’re invested. We’re here to build fast, push limits, and deliver without compromise. If you thrive under pressure and want to do the most meaningful work of your career, you’ll feel right at home. If you’re looking for something easier –this isn’t it. The Role The mobile app is our primary point of interaction with members. It allows users to control and configure our product and helps them gain insights. You will work very closely with other Engineers (backend, firmware, ML), departments (R&D, Growth, Hardware), and Executives (CEO, CPO, VPs). We are looking for an experienced Senior iOS Software Engineer to join our Engineering team. The ideal candidate has experience within a hyper-growth start-up that has shipped pixel-perfect mobile apps with beautiful animations. We want someone with a high bar for product quality, technical prowess, and a passion for health tech and wellness. You will conduct code reviews, ensure code quality, and optimize the app performance to enhance the experience of our members. What You'll Need To Succeed 6+ years of shipping high-quality features for native iOS apps Expertise with Swift Mastery of SwiftUI and Combine Experience working with various architectures and modularized projects BA/BS in Computer Science or equivalent experience Preferred Experience Familiarity with Swift's evolution in recent years Familiarity with CI/CD, codegen/projectgen tools Experience working at a consumer products company focusing on health and wellness. Experience working with App Extensions (Apple Watch, Widgets, Siri) Why join Eight Sleep? Innovation in a culture of excellence Join us in a workplace where innovation isn’t just encouraged - it’s a standard. Our flagship product, the Pod, is a testament to our culture of excellence, beloved by hundreds of thousands of customers worldwide. At Eight Sleep, you will be part of a team that continuously pushes the boundaries of technology in sleep fitness. Immediate responsibility and accelerated career growth From your first day, you’ll take on substantial responsibilities that have a direct impact on our core business and product success. We are a small team that empowers you to own your projects and see the tangible effects of your efforts, enhancing both your professional growth and our company’s trajectory. Your path will be challenging but rewarding, perfect for those who thrive in fast-paced environments aiming for high standards. Collaboration with exceptional talent Work alongside other bright minds like you: at Eight Sleep exceptional intelligence and a passion for breakthroughs are the norms. Our team members are not only experts in their fields but also avid innovators who thrive in our dynamic, fast-paced environment. Equitable Compensation And Continuous Equity Investment We extend equity participation to every full-time team member, recognizing and rewarding your direct contributions to our success. This includes periodic equity refreshments based on performance, ensuring that as Eight Sleep grows and succeeds, so do you – perfectly aligning your achievements with the broader triumphs of the company. Your Own Pod - And Other Great Benefits Every Eight Sleep employee receives the very product that defines our mission: a Pod of their own. If you join us you’ll get your own Pod, along with*: Full access to health, vision, and dental insurance for you and your dependents Supplemental life insurance Flexible PTO Commuter benefits to ease your daily commute Paid parental leave List of benefits may vary depending on your location At Eight Sleep we continually celebrate the diverse community different individuals cultivate. As an equal opportunity employer, we stay true to our values by ensuring everyone feels they can flourish and grow. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Compensation Range: $200K - $235K",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.312609+00:00",
+      "id": "linkedin:4415103800",
+      "last_seen_at": "2026-11-02T01:34:18.312609+00:00",
+      "last_verified_at": "2026-11-02T01:34:16.627142+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-05-19T02:10:18.000Z",
+      "reasons": [],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 235000,
+        "min": 200000
+      },
+      "salary_match": "full",
+      "score": 80,
+      "source": "linkedin",
+      "source_id": "4415103800",
+      "summary": "Join the Sleep Fitness Movement At Eight Sleep, we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Our products power peak mental, physical, and emotion",
+      "title": "Senior Software Engineer - Mobile (iOS)",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-mobile-ios-at-eight-sleep-4415103800",
+      "verification": "open"
+    },
+    {
+      "company": "Verily Health",
+      "company_priority": 1,
+      "description": "Who We Are Verily Health is a data platform and technology company purpose-built to power AI-enabled precision health solutions that accelerate research and improve care for individuals and communities. Uniquely positioned at the intersection of technology, data science, and healthcare, Verily transforms multimodal health data into insights, models, and actions that make healthcare more personalized, predictive, and precise. Description Mobile is at the heart of Verily’s mission of unifying cutting-edge research and healthcare. You will own features of Verily Me, our patient-facing app, and will work closely with Product, UX, Test, and compliance owners to deliver a best-in-class health experience. Your work will help our users manage their chronic health conditions and general health while participating in important clinical research. Responsibilities Design, implement, launch and maintain critical user-facing features in an iOS app that is core to Verily’s business, with opportunities for end-to-end and cross-platform feature development. Participate in code reviews, design reviews, and technical discussions. Collaborate extensively across engineering teams (mobile, BE, FE) and with cross-functional teams (e.g. UX, PM, Test, QE) to deliver high quality, regulated, and impactful software. Align with Android engineers to ensure cross-platform consistency, and find opportunities to improve mobile developer productivity. Work closely with Product, UX and Quality on defining requirements, designing mocks, and implementing regulatory protocols. Help all functions understand engineering tradeoffs to ensure smooth implementation across the system. Qualifications Minimum Qualifications Strong CS fundamentals with BS Computer Science degree OR equivalent combination of experience and education. 5+ years of experience in developing iOS mobile applications in an industry setting. Strong communication and collaboration skills. Native app development experience in Swift and SwiftUI. Preferred Qualifications Knowledge of modern iOS frameworks and architecture (e.g. TCA). Passionate about UX with a high empathy for users. Familiarity with automated testing. Some experience with full-stack development, including backend services and web frontends. Enthusiasm for building high-quality, public-facing iOS apps. We’d love to see your hobby project on the App Store! Qualified applicants must not require employer sponsored work authorization now or in the future for employment in the United States. The US base salary range for this full-time position is $208,000 - $234,500 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus or benefits. Verily Health Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311288+00:00",
+      "id": "linkedin:4454451077",
+      "last_seen_at": "2026-11-02T01:34:18.311288+00:00",
+      "last_verified_at": "2026-11-02T01:33:52.783999+00:00",
+      "locations": [
+        "San Bruno, CA, US"
+      ],
+      "posted_at": "2026-10-08T22:56:22.000Z",
+      "reasons": [],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 234500,
+        "min": 208000
+      },
+      "salary_match": "full",
+      "score": 80,
+      "source": "linkedin",
+      "source_id": "4454451077",
+      "summary": "Who We Are Verily Health is a data platform and technology company purpose-built to power AI-enabled precision health solutions that accelerate research and improve care for individuals and communities. Uniquely positioned at the intersection of technology, data science, and healthcare, Verily transforms multimodal health data into insights, models",
+      "title": "Senior iOS Software Engineer, Verily Me",
+      "url": "https://www.linkedin.com/jobs/view/senior-ios-software-engineer-verily-me-at-verily-health-4454451077",
+      "verification": "open"
+    },
+    {
+      "company": "GEICO",
+      "company_priority": 1,
+      "description": "At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose. When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers. GEICO is seeking an experienced Engineer with a passion for building high-performance, low-latency platforms and applications. You will help drive our insurance business transformation as we redefine experiences for our customers. Our Senior Staff Engineer is a technical leader and member of the engineering staff, working across the organization to provide a friction-less experience to our customers and maintain the highest standards of protection and availability. Our team thrives and succeeds in delivering high-quality technology products and services in a hyper-growth environment where priorities shift quickly. The ideal candidate has broad and deep technical knowledge, typically ranging from front-end UIs through back-end systems and all points in between. As a Senior Staff Engineer, You Will Focus on multiple areas and provide leadership to engineering teams Own complete solution across its entire life cycle Influence and build vision with product managers, team members, stakeholders, and other engineering teams to solve complex problems for building enterprise-class business applications Accountable for the quality, usability, and performance of technical solution Lead in design sessions and code reviews to elevate the quality of engineering across the organization Utilize programming languages like Kotlin, Swift, JavaScript, TypeScript, Dart Mentor team members professionally to help them realize their full potential Consistently share best practices and improve processes within and across teams Qualifications Expertise and specialization in at least two modern programming languages such as Kotlin, Swift, JavaScript, TypeScript, Dart In-depth knowledge of CS data structures and algorithms Knowledge of dependency injection, state management, and reactive programming (Streams, Coroutines, RX) Knowledge of developer tooling across the software development life cycle (task management, source code, building, deployment, operations, real-time communication) Deep understanding of modern architecture and design patterns Strong understanding of testing strategies and debugging practices Passion for solving complex problems Excellent communication skills Ability to excel in a fast-paced, startup-like environment Experience 8+ years of professional software development experience in Mobile and Web frameworks/SDKs such as Flutter, Android, iOS, React, and Angular Experience building production applications using Flutter and Dart. Experience working with modern mobile and web software design patterns. Experience building the architecture and design (architecture, design patterns, reliability, and scaling) of new and current systems Experience with CI/CD and infrastructure as code Experience developing against REST APIs Experience building features and components in a large codebase. Experience with application monitoring tools and performance assessments Education Bachelor’s degree in Computer Science, Information Systems, or equivalent education or work experience IVRPOLYX Annual Salary $120,000.00 - $260,000.00 The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations. At this time, GEICO will not sponsor a new applicant for employment authorization for this position. The GEICO Pledge Great Company: At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs. We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives. Great Careers: We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels. Great Culture: We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose. As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers. Great Rewards: We offer compensation and benefits built to enhance your physical well-being, mental and emotional health and financial future. Comprehensive Total Rewards program that offers personalized coverage tailor-made for you and your family’s overall well-being. Financial benefits including market-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition-based incentives; and tuition assistance. Access to additional benefits like mental healthcare as well as fertility and adoption assistance. Supports flexibility- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year. The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled. GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311220+00:00",
+      "id": "linkedin:4418828708",
+      "last_seen_at": "2026-11-02T01:34:18.311220+00:00",
+      "last_verified_at": "2026-11-02T01:33:50.727446+00:00",
+      "locations": [
+        "Palo Alto, CA, US"
+      ],
+      "posted_at": "2026-10-24T10:18:43.000Z",
+      "reasons": [],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 260000,
+        "min": 120000
+      },
+      "salary_match": "partial",
+      "score": 70,
+      "source": "linkedin",
+      "source_id": "4418828708",
+      "summary": "At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company thro",
+      "title": "Senior Staff Engineer - Flutter",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-engineer-flutter-at-geico-4418828708",
+      "verification": "open"
+    },
+    {
+      "company": "GEICO",
+      "company_priority": 1,
+      "description": "Why Join GEICO? At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive on relentless innovation to exceed our customers' expectations while making a real impact on local communities nationwide. Founded in 1936, GEICO is a member of the Berkshire Hathaway family of companies and one of the largest auto insurers in the United States. When you join our company, we want you to feel valued, supported, and proud to work here. That's why we offer the GEICO Pledge: Great Company, Great Culture, Great Rewards, and Great Careers. At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose. When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers. GEICO is seeking an experienced Engineer with a passion for building high-performance, low-latency platforms and applications. You will help drive our insurance business transformation as we redefine experiences for our customers. Our Staff Engineer is a technical leader and member of the engineering staff, working across the organization to provide a friction-less experience to our customers and maintain the highest standards of protection and availability. Our team thrives and succeeds in delivering high-quality technology products and services in a hyper-growth environment where priorities shift quickly. The ideal candidate has broad and deep technical knowledge, typically ranging from front-end UIs through back-end systems and all points in between. As a Staff Engineer, You Will: Focus on multiple areas and provide leadership to engineering teams Own complete solution across its entire life cycle Influence and build vision with product managers, team members, stakeholders, and other engineering teams to solve complex problems for building enterprise-class business applications Accountable for the quality, usability, and performance of technical solution Lead in design sessions and code reviews to elevate the quality of engineering across the organization Utilize programming languages like Kotlin, Swift, JavaScript, TypeScript, Dart Mentor team members professionally to help them realize their full potential Consistently share best practices and improve processes within and across teams Qualifications Expertise and specialization in at least two modern programming languages such as Kotlin, Swift, JavaScript, TypeScript, Dart In-depth knowledge of CS data structures and algorithms Knowledge of dependency injection, state management, and reactive programming (Streams, Coroutines, RX) Knowledge of developer tooling across the software development life cycle (task management, source code, building, deployment, operations, real-time communication) Deep understanding of modern architecture and design patterns Strong understanding of testing strategies and debugging practices Passion for solving complex problems Excellent communication skills Ability to excel in a fast-paced, startup-like environment Experience 8+ years of professional software development experience in Mobile and Web frameworks/SDKs such as Flutter, Android, iOS, React, and Angular Experience building production applications using Flutter and Dart. Experience working with modern mobile and web software design patterns. Experience building the architecture and design (architecture, design patterns, reliability, and scaling) of new and current systems Experience with CI/CD and infrastructure as code Experience developing against REST APIs Experience building features and components in a large codebase. Experience with application monitoring tools and performance assessments Education Bachelor’s degree in Computer Science, Information Systems, or equivalent education or work experience Annual Salary $115,000.00 - $230,000.00 The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations. At this time, GEICO will not sponsor a new applicant for employment authorization for this position. The GEICO Pledge: Great Company: At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs. We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives. Great Careers: We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels. Great Culture: We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose. As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers. Great Rewards: We offer compensation and benefits built to enhance your physical well-being, mental and emotional health and financial future. Comprehensive Total Rewards program that offers personalized coverage tailor-made for you and your family’s overall well-being. Financial benefits including market-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition-based incentives; and tuition assistance. Access to additional benefits like mental healthcare as well as fertility and adoption assistance. Supports flexibility- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year. The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled. GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants. Annual Salary $115,000.00 - $230,000.00 The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations. At this time, GEICO will not sponsor a new applicant for employment authorization for this position. The GEICO Pledge: Great Company: Protecting customers through life’s twists and turns with innovation and integrity. Great Careers: Personalized development programs, mentorship, and certification assistance. Great Culture: Inclusive and collaborative culture rooted in shared success. Great Rewards: Competitive pay, benefits, and flexibility to support your well-being and future. The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled. GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311458+00:00",
+      "id": "linkedin:4453705945",
+      "last_seen_at": "2026-11-02T01:34:18.311458+00:00",
+      "last_verified_at": "2026-11-02T01:33:56.668497+00:00",
+      "locations": [
+        "Palo Alto, CA, US"
+      ],
+      "posted_at": "2026-10-19T09:50:45.000Z",
+      "reasons": [],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 230000,
+        "min": 115000
+      },
+      "salary_match": "partial",
+      "score": 70,
+      "source": "linkedin",
+      "source_id": "4453705945",
+      "summary": "Why Join GEICO? At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive on relentless innovation to exceed our customers' expectations while making a real impact on local ",
+      "title": "Staff Engineer - Flutter (HYBRID)",
+      "url": "https://www.linkedin.com/jobs/view/staff-engineer-flutter-hybrid-at-geico-4453705945",
+      "verification": "open"
+    },
+    {
+      "company": "Athelas",
+      "company_priority": 1,
+      "description": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-native platform integrated with 60+ EHRs. Healthcare carries a $1 trillion administrative burden and we're at the center of transforming it. Today, 500,000+ clinicians across 500+ healthcare organizations nationwide trust Commure to handle $25B+ in annual claims and support over 200 million patient interactions. Our latest $70M raise at a $7B valuation reflects the confidence the market has placed in this mission. We've also been named to the Fortune Future 50 list and the 2026 AI Breakthrough Awards for “Overall NLP Company of the Year.” Our team works directly alongside clinicians, not through layers of process, which means the gap between what you build and its impact on patient care is immediate. We move fast, deploy daily, and take full ownership from early thinking to production. If you're energized by hard problems, high stakes, and a team that holds itself to a high bar, you'll find your people here. The future of healthcare is being built right now. Come deliver this transformation. About The Role We’re building a next-generation ambient AI platform for healthcare, helping clinicians focus on patient care by automatically capturing, understanding, and structuring clinical conversations in real time. Mobile is at the center of this experience. Our apps support clinicians throughout their workflows, from capturing long-form conversations and reviewing AI-generated documentation to completing follow-up actions and coordinating care. We’re hiring an iOS Engineer to help shape and build these experiences. You’ll own meaningful product areas from idea to launch, working closely with product, design, AI, and backend teams to turn emerging technology into intuitive, dependable mobile workflows. This role is for an engineer who thinks deeply about the people using the product, not only whether a feature works, but whether it feels fast, clear, trustworthy, and natural in a clinical environment. You’ll spend most of your time building product experiences and owning the end to end delivery of these novel AI first workflows. Your work may also involve native mobile infrastructure challenges, and solving them to allow the product to scale. Our mobile application is primarily built in Flutter, with native Swift/iOS integrations where platform-specific capabilities are required. Flutter experience is helpful but not required. We value strong mobile product judgment, native platform depth, and the ability to learn across the stack. What You’ll Do Build and own high-impact mobile experiences for clinicians, from early product exploration through launch, measurement, and iteration. Develop new interaction patterns for AI-native healthcare software, including: Real-time transcription and ambient documentation AI-assisted review, editing, and clinical workflows Multimodal inputs and intelligent recommendations Agentic actions that help clinicians complete work Offline and low-connectivity care experiences Work closely with clinicians, product managers, and designers to understand real-world workflows and translate them into simple, thoughtful mobile experiences. Partner with AI and backend engineers to bring model capabilities into production in ways that are responsive, understandable, and trustworthy. Contribute across our Flutter application and its native Swift/iOS integrations. Own the quality of what you ship, including performance, accessibility, reliability, analytics, testing, observability, and release readiness. Prototype quickly, learn from real usage, and refine experiences based on qualitative and quantitative feedback. Help shape mobile product and technical strategy as the Ambient AI product line grows. Mentor other engineers and raise the bar for mobile engineering, product thinking, and craft across the team. Occasionally contribute to adjacent surfaces such as our web application or Chrome extension when a workflow spans platforms. What You Have 4+ years of professional mobile development experience, with meaningful ownership of user-facing products or features. Deep experience in iOS or cross-platform mobile development. Strong native expertise in Swift/iOS, including platform conventions, app lifecycle, permissions, background execution, and performance. Experience working in or a willingness to ramp onto a Flutter-based codebase. A track record of taking mobile experiences from ambiguous ideas to polished, production-ready products. Strong product judgment and attention to interaction details, usability, performance, and overall craft. An understanding that reliability is part of the user experience, particularly for workflows involving recording, connectivity, background execution, or sensitive data. Experience collaborating closely with product, design, backend, data, or AI teams. Comfort moving between product features and the underlying mobile systems required to support them. An ownership mindset and bias for action. You identify important problems, create clarity, and drive work through completion. Nice to Haves Experience building AI-native, conversational, or real-time product experiences. Experience with audio or video capture, streaming, transcription, or background recording. Experience with offline-first applications, sync engines, resilient local persistence, or conflict handling. Flutter and Dart experience, including Riverpod or similar state-management patterns. Experience designing or contributing to mobile design systems and reusable component libraries. Familiarity with mobile experimentation, product analytics, and measuring feature adoption or usability. Experience improving startup time, responsiveness, memory usage, battery consumption, or crash rates. Experience with mobile observability, CI/CD, testing, release automation, or App Store and Play Store workflows. Exposure to healthcare, HIPAA, SOC 2, privacy, security, or other regulated environments. Light JavaScript, TypeScript, Chrome extension, or web application experience. Why Join Build a product that directly gives clinicians more time to focus on their patients. Create new mobile interaction patterns at the intersection of AI, healthcare, and real-world clinical workflows. Work across the full product lifecycle, from understanding user problems to shipping and improving the experience. Solve distinctive mobile challenges involving real-time audio, offline behavior, multimodal AI, and agentic workflows. Have meaningful influence over mobile product direction, technical architecture, and engineering culture. Join at a stage where individual engineers can shape both what we build and how we build it. Grow into broader mobile product or technical leadership as the team and product expand. Please be aware that all official communication from us will come exclusively from email addresses ending in @ commure.com . Any emails from other domains are not affiliated with our organization. Employees will act in accordance with the organization’s information security policies, to include but not limited to protecting assets from unauthorized access, disclosure, modification, destruction or interference nor execute particular security processes or activities. Employees will report to the information security office any confirmed or potential events or other risks to the organization. Employees will be required to attest to these requirements upon hire and on an annual basis. Compensation Range: $170K - $230K",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311755+00:00",
+      "id": "linkedin:4461537491",
+      "last_seen_at": "2026-11-02T01:34:18.311755+00:00",
+      "last_verified_at": "2026-11-02T01:34:04.651774+00:00",
+      "locations": [
+        "Mountain View, CA, US"
+      ],
+      "posted_at": "2026-09-01T01:56:47.000Z",
+      "reasons": [],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 230000,
+        "min": 170000
+      },
+      "salary_match": "partial",
+      "score": 70,
+      "source": "linkedin",
+      "source_id": "4461537491",
+      "summary": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM proc",
+      "title": "Senior iOS Engineer, Ambient AI",
+      "url": "https://www.linkedin.com/jobs/view/senior-ios-engineer-ambient-ai-at-athelas-4461537491",
+      "verification": "open"
+    },
+    {
+      "company": "Athelas",
+      "company_priority": 1,
+      "description": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-native platform integrated with 60+ EHRs. Healthcare carries a $1 trillion administrative burden and we're at the center of transforming it. Today, 500,000+ clinicians across 500+ healthcare organizations nationwide trust Commure to handle $25B+ in annual claims and support over 200 million patient interactions. Our latest $70M raise at a $7B valuation reflects the confidence the market has placed in this mission. We've also been named to the Fortune Future 50 list and the 2026 AI Breakthrough Awards for “Overall NLP Company of the Year.” Our team works directly alongside clinicians, not through layers of process, which means the gap between what you build and its impact on patient care is immediate. We move fast, deploy daily, and take full ownership from early thinking to production. If you're energized by hard problems, high stakes, and a team that holds itself to a high bar, you'll find your people here. The future of healthcare is being built right now. Come deliver this transformation. About The Role We’re building a next-generation ambient AI platform for healthcare, helping clinicians focus on patient care by automatically capturing, understanding, and structuring clinical conversations in real time. Mobile is at the center of this experience. Our apps support clinicians throughout their workflows, from capturing long-form conversations and reviewing AI-generated documentation to completing follow-up actions and coordinating care. We’re hiring an iOS Engineer to help shape and build these experiences. You’ll own meaningful product areas from idea to launch, working closely with product, design, AI, and backend teams to turn emerging technology into intuitive, dependable mobile workflows. This role is for an engineer who thinks deeply about the people using the product, not only whether a feature works, but whether it feels fast, clear, trustworthy, and natural in a clinical environment. You’ll spend most of your time building product experiences and owning the end to end delivery of these novel AI first workflows. Your work may also involve native mobile infrastructure challenges, and solving them to allow the product to scale. Our mobile application is primarily built in Flutter, with native Swift/iOS integrations where platform-specific capabilities are required. Flutter experience is helpful but not required. We value strong mobile product judgment, native platform depth, and the ability to learn across the stack. What You’ll Do Build and own high-impact mobile experiences for clinicians, from early product exploration through launch, measurement, and iteration. Develop new interaction patterns for AI-native healthcare software, including: Real-time transcription and ambient documentation AI-assisted review, editing, and clinical workflows Multimodal inputs and intelligent recommendations Agentic actions that help clinicians complete work Offline and low-connectivity care experiences Work closely with clinicians, product managers, and designers to understand real-world workflows and translate them into simple, thoughtful mobile experiences. Partner with AI and backend engineers to bring model capabilities into production in ways that are responsive, understandable, and trustworthy. Contribute across our Flutter application and its native Swift/iOS integrations. Own the quality of what you ship, including performance, accessibility, reliability, analytics, testing, observability, and release readiness. Prototype quickly, learn from real usage, and refine experiences based on qualitative and quantitative feedback. Help shape mobile product and technical strategy as the Ambient AI product line grows. Mentor other engineers and raise the bar for mobile engineering, product thinking, and craft across the team. Occasionally contribute to adjacent surfaces such as our web application or Chrome extension when a workflow spans platforms. What You Have 4+ years of professional mobile development experience, with meaningful ownership of user-facing products or features. Deep experience in iOS or cross-platform mobile development. Strong native expertise in Swift/iOS, including platform conventions, app lifecycle, permissions, background execution, and performance. Experience working in or a willingness to ramp onto a Flutter-based codebase. A track record of taking mobile experiences from ambiguous ideas to polished, production-ready products. Strong product judgment and attention to interaction details, usability, performance, and overall craft. An understanding that reliability is part of the user experience, particularly for workflows involving recording, connectivity, background execution, or sensitive data. Experience collaborating closely with product, design, backend, data, or AI teams. Comfort moving between product features and the underlying mobile systems required to support them. An ownership mindset and bias for action. You identify important problems, create clarity, and drive work through completion. Nice to Haves Experience building AI-native, conversational, or real-time product experiences. Experience with audio or video capture, streaming, transcription, or background recording. Experience with offline-first applications, sync engines, resilient local persistence, or conflict handling. Flutter and Dart experience, including Riverpod or similar state-management patterns. Experience designing or contributing to mobile design systems and reusable component libraries. Familiarity with mobile experimentation, product analytics, and measuring feature adoption or usability. Experience improving startup time, responsiveness, memory usage, battery consumption, or crash rates. Experience with mobile observability, CI/CD, testing, release automation, or App Store and Play Store workflows. Exposure to healthcare, HIPAA, SOC 2, privacy, security, or other regulated environments. Light JavaScript, TypeScript, Chrome extension, or web application experience. Why Join Build a product that directly gives clinicians more time to focus on their patients. Create new mobile interaction patterns at the intersection of AI, healthcare, and real-world clinical workflows. Work across the full product lifecycle, from understanding user problems to shipping and improving the experience. Solve distinctive mobile challenges involving real-time audio, offline behavior, multimodal AI, and agentic workflows. Have meaningful influence over mobile product direction, technical architecture, and engineering culture. Join at a stage where individual engineers can shape both what we build and how we build it. Grow into broader mobile product or technical leadership as the team and product expand. Please be aware that all official communication from us will come exclusively from email addresses ending in @ commure.com . Any emails from other domains are not affiliated with our organization. Employees will act in accordance with the organization’s information security policies, to include but not limited to protecting assets from unauthorized access, disclosure, modification, destruction or interference nor execute particular security processes or activities. Employees will report to the information security office any confirmed or potential events or other risks to the organization. Employees will be required to attest to these requirements upon hire and on an annual basis. Compensation Range: $170K - $230K",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.312396+00:00",
+      "id": "linkedin:4461538504",
+      "last_seen_at": "2026-11-02T01:34:18.312396+00:00",
+      "last_verified_at": "2026-11-02T01:34:10.722553+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-09-01T01:56:46.000Z",
+      "reasons": [],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 230000,
+        "min": 170000
+      },
+      "salary_match": "partial",
+      "score": 70,
+      "source": "linkedin",
+      "source_id": "4461538504",
+      "summary": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM proc",
+      "title": "Senior iOS Engineer, Ambient AI",
+      "url": "https://www.linkedin.com/jobs/view/senior-ios-engineer-ambient-ai-at-athelas-4461538504",
+      "verification": "open"
+    },
+    {
+      "company": "VSCO®",
+      "company_priority": 1,
+      "description": "About VSCO For years, we've helped photographers create their work. Now we're building what comes next. VSCO exists for photographers. Not as a side feature, not as an afterthought, but as the whole point. We build the connected system photographers rely on, and we've spent over a decade earning the trust of a global creative community that takes the craft seriously. Photography is at an inflection point. AI is reshaping what's possible for creative work, and that's where our mission shines. VSCO is building the full photographer's workflow: from creating and editing your work, to delivering it to clients, to running your business. All of it built thoughtfully, with photographers leading the way. We believe the future of photography tools creates more space for creativity, handling the busy work so photographers can focus on the craft. If you care about craft, community, and what technology can unlock for creative people, this is the work. We're a mission-driven and focused company where your work ships quickly, is meaningful, and reaches tens of millions of people worldwide. You'll have a real say in what we build and how we build it. We hire people who don't wait to be asked, naturally connect the dots, care about the quality of what they ship, and believe the best outcomes come from building together. About The Role If you are passionate about iOS development and excited to join a dynamic team of creators, we encourage you to apply for this position and help us empower creators worldwide. At VSCO, you'll have the opportunity to collaborate with talented individuals who share your passion for innovation and creativity. We're building an ecosystem of end-to-end tools for photographers, enhancing our existing product while creating entirely new tools and services. This is a crucial role for someone who will help define and drive that vision forward, shaping the way our users create, connect and earn. Join us in shaping the future of mobile technology and making a meaningful impact on the global creative community. As a Staff Engineer, you are first and foremost a technologist. You'll be in the trenches with the team — writing code, solving hard problems, and staying current with the latest technologies. But your impact goes beyond individual contributions. You'll act as a technical leader who guides the team through complex challenges, champions best practices, and anticipates what's coming around the corner so the team can stay ahead. You think about scalability, long-term maintainability, and future features — even while the rest of the team is focused on shipping today's work. You'll mentor engineers, raise the bar on quality, and enable others' success. In This Role, You Will Lead decision making on forward-thinking architectural decisions. Align technical choices with company goals, and be pragmatic enough to choose the faster path when the business demands it. Watch for what is coming down the pike in mobile development. Lead by example: write clean, testable, maintainable Swift and Objective-C code. Push for rigorous testing, solid CI practices, and high standards across the codebase. Mentor and elevate the team: guide engineers through tricky bugs, design decisions, and architectural trade-offs. Coach, teach, and create space for others to grow. Drive code quality through PR reviews, pushing work toward completion in an encouraging way. Your critical feedback motivates authors to improve their work and reach approval. Champion AI-assisted development. You’ve used AI tools extensively in your own workflow and actively mentor others to adopt them. You see AI as a multiplier for the team's velocity and quality. Architect and implement performant, intuitive solutions for the interactive manipulation of images, video, and mixed media, enabling rich creative expression on mobile devices. Contribute to the release process: help manage and improve our release cadence, including feature flagging, release management best practices, and get the process smooth and predictable. Collaborate across the organization: work closely with Product, Design, and business stakeholders. Translate complex technical concepts into clear language for non-technical audiences. Willing to blur the lines: you are willing to step outside your defined role when the work demands it. Whether it's jumping into an unfamiliar part of the stack or pitching in on cross-platform efforts, you are flexible to help where needed. Qualifications 5+ years of professional experience building iOS applications in Swift and/or Objective-C Experience owning projects end-to-end from initial prototypes to customer roll out Professional experience working on mobile consumer applications at scale Experience collaborating with other engineers: iOS, Android, server, and web Track record of mentoring engineers and raising team-wide code quality Experience with feature flagging, release management, and observability tools (Datadog, Crashlytics, etc.) Strong cross-functional collaboration skills (you've worked closely with designers, product managers, and business stakeholders) Comfort with AI-assisted development workflows and a desire to push what's possible Nice to haves Experience with React Native Experience working with media manipulation frameworks on iOS such as AVFoundation, Core Image/Video/Audio, and Metal Experience with OpenGL, 3D rendering, and matrix-based transformations. Experience integrating third-party tools for media manipulation. Familiarity with Android to facilitate cross-platform design discussions. Note: You don't need to check every box. If you're excited about this role and think you'd be a strong fit, we encourage you to apply — even if your experience doesn't match every qualification listed above. Job Perks Hybrid work with an office in San Francisco, CA Regular in-person events to connect and collaborate Competitive salary & equity Medical, dental, and vision insurance for employees and families Flexible Time Off Company-paid parental, medical and caregiver leave Other perks including mental health resources and tech reimbursements Compensation The base salary for this position will vary based on several factors, such as relevant experience, location and your approved internal leveling assessed during the interview process. The base salary range for this role is $230,000 - $260,000. Salary is one component of our total compensation package. This position also qualifies for equity (i.e. stock options) and is eligible for discretionary bonuses based on performance. The benefits available for this position include flexible time off, a 401K retirement plan, insurance (medical, dental, vision, life/AD&D, short and long term disability), and 11 paid holidays. We also provide paid sick time as required by state and local law. Additional benefits and perks contained in our standard employee benefits package are also offered for this position.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311027+00:00",
+      "id": "linkedin:4214156833",
+      "last_seen_at": "2026-11-02T01:34:18.311027+00:00",
+      "last_verified_at": "2026-11-02T01:33:46.706406+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-10-16T13:26:45.000Z",
+      "reasons": [],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "linkedin",
+      "source_id": "4214156833",
+      "summary": "About VSCO For years, we've helped photographers create their work. Now we're building what comes next. VSCO exists for photographers. Not as a side feature, not as an afterthought, but as the whole point. We build the connected system photographers rely on, and we've spent over a decade earning the trust of a global creative community that takes t",
+      "title": "Staff Software Engineer, iOS",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-ios-at-vsco%C2%AE-4214156833",
+      "verification": "open"
+    },
+    {
+      "company": "Credit Genie",
+      "company_priority": 1,
+      "description": "Company Credit Genie is a mobile-first financial wellness platform designed to help individuals take control of their financial future. We leverage artificial intelligence to provide personalized insights and are building a financial ecosystem by offering tools and services that provide instant access to cash, and building credit. Our goal is to empower every customer to achieve long-term financial stability. Founded in 2019 by Ed Harycki, former Swift Capital Founder (acquired by PayPal in 2017). Backed by Khosla Ventures and led by industry pioneers from companies such as; PayPal, Square, and Cash App, we are well positioned to build the future of inclusive finance through cutting-edge technology and customer-centric solutions. Overview We are looking for a Staff iOS Engineer to help architect our Mobile Apps for the next 2-3 years of growth. The ideal candidate should have experience leading the design and development of mobile apps with high quality, stability, and low latency. Are you passionate about building high-quality iOS apps and excited by the challenge of adding new products and features? As a Staff iOS Engineer, you'll lead key components of our mobile app as we expand into brand new product areas. You'll collaborate closely with cross-functional teams to ensure our mobile app scales and evolves to meet the needs of millions of users. What You'll Do Collaborate with designers, product managers, and engineers to architect new products and define a compelling UX that functions well within an iOS mobile app Provide iOS mobile app expertise, helping improve the team's development practices, design patterns, deployment processes, and customer experience Work with stakeholders from product, marketing, etc. on initiatives aligning with our KPIs and business priorities Write code for app design, features, components, and integrations in a clean, readable, and reusable fashion Contribute to all phases of the development lifecycle Participate in standard engineering practices such as code reviews, stand-ups, planning meetings, and product/technology demos Stay abreast of emerging technologies and industry trends, evaluating their potential to enhance the Credit Genie product suite and maintain our competitive edge Mentor and develop other engineers on the team Requirements 8+ years of professional mobile development Proficient in Swift (We use Swift 6) Deep understanding of mobile app UX best practices Experience leading large-scale projects and partnering directly with product, marketing, and engineering teams in a highly iterative environment Ability to propose, refine, implement, and update UX/product solutions to ensure they meet customer needs Proficiency in taking design mocks (including Figma files) and coding them in-app using Swift Strong analytical and problem-solving skills Excellent communication skills Nice to Have Experience working on personal finance management (PFM) products. Understanding of UX design concepts (e.g. density, diversity) and the languages, systems, principles, and processes used in design creation Comfort using design prototyping tools (e.g. Figma, Invision, Origami, or Sketch) Ability to maintain a style guide, SwiftUI, and brand Familiarity with consumer credit risk and the customer life cycle Benefits And Perks Our goal is to provide a comprehensive offering of benefits and perks that promote better financial, mental, and physical wellness. We believe working alongside each other in person is the best way to build a great product and foster a strong company culture. Our expectation is that employees are in the office five days a week, allowing for optimal collaboration, inclusivity, and productivity. At the same time, we understand that life happens and recognize the importance of flexibility. We are committed to supporting our employees when circumstances arise that require remote work or adjusted schedules. Our goal is to ensure everyone can effectively balance personal and professional responsibilities while maintaining our collaborative and productive environment. Here are some highlights of our benefits and perks offerings, feel free to ask your recruiting partner for more details on our comprehensive offering for employees. 100% company-paid medical, dental, and vision coverage for you and your dependents on your first day of employment. Receive up to $100 per month in fitness reimbursement or enjoy a complimentary full membership to LifeTime Fitness or Equinox. 401(k) with a 3.5% match and immediate vesting Meal program available for both lunch and dinner Pre-tax benefits, including a $1,000 HSA match Life and accidental insurance Flexible PTO Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience. Base salary is just one part of your total compensation and rewards package at Credit Genie. You may also be eligible to participate in the bonus and equity programs. You will also have access to comprehensive medical, vision, and dental coverage, a 401(k) retirement plan with company match, short & long term disability insurance, life insurance, and flexible PTO along with many other benefits and perks. Credit Genie is a proud Equal Opportunity Employer where we welcome and celebrate differences. We are committed to providing a workspace that is safe and inclusive, where everyone feels supported, connected, and inspired to do their best work. If you require any accommodations to participate in our recruitment process, please inform us of your needs when we contact you to schedule an interview.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.312474+00:00",
+      "id": "linkedin:4337751650",
+      "last_seen_at": "2026-11-02T01:34:18.312474+00:00",
+      "last_verified_at": "2026-11-02T01:34:12.787491+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-10-27T17:33:30.000Z",
+      "reasons": [],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "linkedin",
+      "source_id": "4337751650",
+      "summary": "Company Credit Genie is a mobile-first financial wellness platform designed to help individuals take control of their financial future. We leverage artificial intelligence to provide personalized insights and are building a financial ecosystem by offering tools and services that provide instant access to cash, and building credit. Our goal is to em",
+      "title": "Staff iOS Engineer",
+      "url": "https://www.linkedin.com/jobs/view/staff-ios-engineer-at-credit-genie-4337751650",
+      "verification": "open"
+    },
+    {
+      "company": "Grindr",
+      "company_priority": 1,
+      "description": "About The Team Grindr is an AI-native platform powering how millions of gay people connect globally. With 15M+ monthly users, 130B+ annual messages, and a team of fewer than 200, we move fast, stay lean, and tackle technical problems at a scale few companies ever see. The Monetization team at Grindr builds the products and systems that keep Grindr thriving as the world's largest social network for the LGBTQ+ community. We own the full premium experience: subscription tiers like Grindr XTRA, Unlimited, and Edge, one-off purchases, pricing and packaging, checkout, and the experimentation systems behind them. As an iOS engineer on Monetization, you’ll shape the everyday experience of our users. You’ll lead the charge in architecting and implementing A/B tests for our core Monetization features, modernizing our iOS stack, and partnering closely with our backend and Android teams to define how Grindr’s core product evolves. At Grindr, we operate in Grindr Mode. Moderately hardcore day to day, truly hardcore when it counts. It’s about doing great work without burning out. Outcomes over outputs. Smart, driven people who raise your bar, with room to live full lives. This is a hybrid role based in our Palo Alto office and will require you to be in person Tuesdays and Thursdays. About The Job Working collaboratively with a brilliant cross-functional, cross-timezone team to make Grindr the best app it can be for its users Able to work across multiple work streams and use ambiguity as an opportunity for high-level thinking Create innovation by guiding data-driven decisions to adopt new technologies, architectures, and workflow through A/B testing and real-time observability Elevate your team's technical proficiency; help your team adopt new tools and ways of working We are building the iOS application towards a core architecture using Swift, SwiftUI, a MVVM presentation architecture, FactoryKit for dependency injection, and Swift Concurrency for async and parallel code. You will be evolving and maintaining the software architecture for current and future needs in order to develop highly innovative, consumer-facing mobile products, while supporting the product roadmap Role Requirements You love taking ownership. You think beyond your team and know how to implement change across your organization You have at least 6 years of experience building complex iOS applications You have a well-built technical experience that inspires individual contributors' creativity and innovation You have experience with product leadership and technical decision-making and know how to leverage that for good judgments and tradeoffs between product and code You have been working closely with various levels of business stakeholders, from the c-suite, VP level, and down You can jump into the code on a deep level but can also contribute to long-term initiatives by mentoring your team Strong practical knowledge of software engineering best practices and design patterns such as MVVM, Coordinator, one-way data flow, modular architecture, performance optimization & metrics Experience with Architecture at scale and have worked with different tech stacks outside of mobile Benefits And Perks Health, Dental & Vision Full premium coverage for you. Partial coverage for dependents. Family Formation Up to $300,000 in fertility and family-building support, covering IVF, surrogacy, egg freezing, and adoption. Retirement: 401(k) with 6% match and immediate vesting. Compensation: Industry-competitive compensation, company bonus, and equity for every employee. Gender-Affirming Care : Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more. Time Off & Rest Flexible vacation policy. Two company-wide rest weeks per year. Other Benefits: Monthly stipends for cell phone, internet, wellness, food, and commuting, breakfast/lunch About Grindr Grindr is building the Global Gayborhood in your Pocket. With more than 15 million monthly active users, Grindr has become a fundamental part of the gay community and is charting a path to make the world more free, equal, and just. As a public company, we're moving into the next chapter: becoming an AI-native organization that's redefining what's possible for our community. We're embedding AI into our product and operations, moving with startup speed while operating at scale. Everything we do is rooted in impact for our users and outcomes for the business. This isn't social work, it’s impact through excellence. Business success is what gives us the power to serve our community and the seat at tables others can't reach. How we work is defined by Grindr Mode, our operating model that's moderately hardcore day-to-day and truly hardcore when it counts. We think like owners, drive real outcomes, create clarity through action, and push each other to go further than we thought possible. We’re headquartered in West Hollywood with offices in the Bay Area, Chicago, and New York. Our work extends beyond the product through Grindr for Equality, our social impact initiative that's partnered with 100+ community organizations globally to advance safety, health, and human rights for LGBTQ+ people worldwide. We're profitable, growing, and building a team of smart, driven people who bring different backgrounds, experiences, and perspectives to the work. Want to build technology at a massive scale that serves millions? Come join us! Grindr is an equal-opportunity employer. To learn more about how we handle the personal data of applicants, visit our Employee and Candidate Privacy Policy.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311358+00:00",
+      "id": "linkedin:4474584105",
+      "last_seen_at": "2026-11-02T01:34:18.311358+00:00",
+      "last_verified_at": "2026-11-02T01:33:54.683317+00:00",
+      "locations": [
+        "Palo Alto, CA, US"
+      ],
+      "posted_at": "2026-10-23T15:17:45.000Z",
+      "reasons": [],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "linkedin",
+      "source_id": "4474584105",
+      "summary": "About The Team Grindr is an AI-native platform powering how millions of gay people connect globally. With 15M+ monthly users, 130B+ annual messages, and a team of fewer than 200, we move fast, stay lean, and tackle technical problems at a scale few companies ever see. The Monetization team at Grindr builds the products and systems that keep Grindr ",
+      "title": "Staff Software Engineer, iOS",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-ios-at-grindr-4474584105",
+      "verification": "open"
+    },
+    {
+      "company": "Sandisk",
+      "company_priority": 1,
+      "description": "Sandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that we have the power to shape. Sandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for innovation, performance and quality. Sandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to the Flash memory it needs to keep our world moving forward. Description Sandisk builds the storage products that hold the world's most important data, from the photos on your phone to the footage on professional film sets. Our consumer companion app is how millions of people manage, back up, and get more out of their Sandisk drives, cards, and SSDs. We're looking for a Senior Flutter Developer to own the client-side architecture and business logic of that app. The Role You'll be a senior technical voice on the Flutter side of the app. This role is about depth: knowing Flutter's framework internals well enough to make non-obvious tradeoffs, structuring a large codebase so it stays understandable as it grows, and modeling complex consumer-facing business logic cleanly. Your focus is above the platform channel. Everything from how the app is architected, to how state flows, how business rules are expressed, and how features are built on top of a foundation you help define. Essential Duties And Responsibilities Own the architecture of the Flutter app: state management, navigation, modularization, layering between UI, business logic, and data Design and implement the business logic that powers consumer workflows: backup, sync, device management, media organization Make framework-level decisions and explain the tradeoffs: when to use what state management primitive, how to structure rebuilds, where to put async boundaries, how to model navigation Set the patterns the rest of the team follows for things like error handling, async orchestration, caching, and testing Identify and fix subtle Flutter issues such as unnecessary rebuilds, BuildContext misuse, lifecycle bugs, leaked subscriptions, hot-path inefficiencies Define the boundary between the Flutter app and the platform team's native layer through stable, well-typed Dart interfaces Profile and optimize where it matters; including startup, large lists, memory pressure, background work Lead code reviews, write design docs, and mentor mid-level and junior developers on Flutter and architecture Qualifications Required: 5+ years of mobile development experience, with at least 3 years shipping production Flutter/Dart apps at non-trivial scale Deep understanding of Flutter's framework internals: the widget/element/render tree, build and layout phases, rebuild semantics, BuildContext lifetime, keys, slivers, focus Strong fluency with at least one serious state management approach (Riverpod, Bloc, Redux, signals, or hand-rolled) and the judgment to know when each fits Track record of designing the architecture of a Flutter app, not just contributing features, but defining the patterns others use Comfort modeling complex business logic in Dart: domain models, async flows, error handling, edge cases Strong opinions on testing strategy for Flutter and where each type of test earns its keep Experience with performance profiling using Flutter DevTools and reasoning about UI vs raster thread cost Strong written and verbal English communication; better than AI writing is required Preferred Background in apps with substantial offline state, sync, or background processing Experience evolving a large Flutter codebase across major framework or Dart version upgrades Open-source contributions to Flutter or the surrounding ecosystem Experience collaborating with a separate platform/native team via well-defined Dart interfaces Windows or Desktop app development experience Additional Information Sandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the Equal Employment Opportunity is the Law poster. Sandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution. Sandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at jobs.accommodations@sandisk.com to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311129+00:00",
+      "id": "linkedin:4478737703",
+      "last_seen_at": "2026-11-02T01:34:18.311129+00:00",
+      "last_verified_at": "2026-11-02T01:33:48.640646+00:00",
+      "locations": [
+        "Milpitas, CA, US"
+      ],
+      "posted_at": "2026-10-30T11:50:17.000Z",
+      "reasons": [],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 50,
+      "source": "linkedin",
+      "source_id": "4478737703",
+      "summary": "Sandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that w",
+      "title": "Senior Software Engineer - Consumer Flutter Application",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-consumer-flutter-application-at-sandisk-4478737703",
+      "verification": "open"
+    },
+    {
+      "company": "Reddit, Inc.",
+      "company_priority": 1,
+      "description": "Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet's largest sources of information. For more information, visit www.redditinc.com. The Reddit Consumer Engineering organization builds and scales the products that Redditors use directly to discover content, participate in communities, and connect with others. Sitting at the intersection of large-scale distributed systems and core user journeys, Product Backend Engineers in Consumer Engineering partner directly with Product Managers, Designers, Data Scientists, ML Engineers, and Frontend Engineers to build, experiment with, and scale features that power how hundreds of millions of users discover, join, navigate, and engage with Reddit. This centralized role hires across several high-impact consumer teams, including: Core Product & Feeds: Home Experience, Recommendations & Content Discovery, Contribution Community & Presence: Reddit Pro, Youth Experience & Teen Safety, Creator Tools Growth & Engagement: Authentication, Notifications, Social Sharing, SEO, Onboarding. Monetization & Conversion: Paid User Acquisition, Conversion Funnel Optimization Identity & Security: Account Management, Trust & Safety What You'll Do Build and evolve user-facing iOS experiences that help people discover, consume, create, and engage with content and communities. Lead projects through the full development lifecycle, from product definition and technical design to implementation, experimentation, launch, and ongoing improvement. Partner with product, design, data science, ML, backend, and platform teams to shape strategy, translate technical capabilities into intuitive experiences, and deliver measurable user impact. Improve iOS architecture, performance, reliability, accessibility, developer workflows, and engineering standards while mentoring teammates and driving cross-functional technical initiatives. Who You Might Be An experienced iOS engineer who has built and shipped consumer-facing native applications at scale using Swift. A strategic, product-minded partner who connects technical decisions to user and business outcomes and can lead through ambiguity. A clear and collaborative communicator who can explain complex tradeoffs, influence stakeholders, and build alignment across teams. A curious, adaptable, and ownership-oriented teammate who embraces experimentation, learns from setbacks, improves processes, and helps others succeed. Technical Qualifications Professional experience developing native iOS applications with Swift and a strong understanding of iOS frameworks and application architecture. Ability to write idiomatic, readable, reusable, and testable code, with strong skills in debugging, performance optimization, reliability, and maintainability. Experience designing mobile systems and interfaces, evaluating architectural tradeoffs, and building scalable features from APIs through user-facing UI. Experience with experimentation, feature flags, instrumentation, analytics, and product or quality-of-experience metrics; familiarity with AVFoundation, VideoToolbox, HLS, media playback, recommendation systems, accessibility, or ML-integrated products is a plus. Pay Transparency: This job posting may span more than one career level. In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/. To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below. The base salary range for this position is: $190,800—$267,100 USD In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable. We will not sell your personal information or disclose it to any third party for their marketing purposes. We will delete any recording of your interview promptly after making a hiring decision. For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors. Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve. Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.",
+      "eligibility": "needs_review",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.310192+00:00",
+      "id": "linkedin:4476984558",
+      "last_seen_at": "2026-11-02T01:34:18.310192+00:00",
+      "last_verified_at": "2026-11-02T01:33:44.802570+00:00",
+      "locations": [
+        "Remote — San Francisco, CA, US"
+      ],
+      "posted_at": "2026-10-29T10:19:44.000Z",
+      "reasons": [
+        "California remote eligibility not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "linkedin",
+      "source_id": "4476984558",
+      "summary": "Reddit is a community of communities. It's built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit ",
+      "title": "Senior iOS Software Engineer, Consumer Engineering",
+      "url": "https://www.linkedin.com/jobs/view/senior-ios-software-engineer-consumer-engineering-at-reddit-inc-4476984558",
+      "verification": "open"
+    },
+    {
+      "company": "Plaud",
+      "company_priority": 1,
+      "description": "About Plaud Inc. Plaud is building the real-world AI interface for professionals to amplify intelligence, elevate productivity and performance, loved by over 3,000,000 users worldwide since 2023. With a mission to amplify human intelligence, Plaud captures, structures, and compounds the intelligence generated in conversations — so humans can think better, decide faster, and execute with clarity. Plaud Inc. is a Delaware-incorporated, San Francisco-based company. With ISO 27701, GDPR, SOC 2 Type II, HIPAA, and EN 18031 compliance, Plaud is committed to the highest standards of data security and privacy protection. To learn more about Plaud, please visit https://www.plaud.ai and follow along on Instagram, X, Facebook, LinkedIn, and YouTube. Why You Should Join Us Plaud is building the next generation intelligence infrastructure and interfaces to capture, extract, and utilize intelligence from what people say, hear, see, and think. Plaud is a bootstrapped, skyrocketing, profitable company with a $300M revenue run rate achieved in just three years. Define the next-gen paradigm for human-AI interaction. Gain exposure to cutting-edge AI for Pro tools and play a direct role in our global expansion. Work with passionate teammates who value innovation, collaboration, and customer success. Grow your career in a culture that champions continuous learning and fast career development. Market-competitive compensation, global exposure, and a vibrant, creativity-fueled work atmosphere. What You Will Do Design and develop core features of the Plaud App with a strong focus on functionality, performance, reliability, and user experience, leveraging AI-assisted tools to improve development efficiency and code quality. Build, maintain, and optimize software–hardware connectivity and data transmission flows between mobile applications and physical devices, ensuring robustness and scalability. Implement and optimize data interactions across the mobile app, hardware devices, firmware, and backend systems, applying AI-assisted analysis and automation to improve stability and performance. Collaborate closely with hardware, firmware, backend, product, and design teams to deliver end-to-end features and ensure seamless integration across the system. Contribute to technical design, code quality, and long-term maintainability of the codebase, while proactively exploring and adopting AI-driven practices to enhance engineering productivity. Skills, Qualifications And Experience We Look For Solid experience in mobile application development, with strong coding fundamentals and system design capabilities across complex feature areas. Strong background in mobile app development on iOS, Android, or Flutter-based cross-platform solutions, with a deep understanding of platform-specific constraints and best practices. Proven experience building and maintaining software–hardware connectivity and data interaction layers, such as BLE, Wi-Fi, and custom device communication protocols. Strong ability to debug, optimize, and maintain complex, multi-component systems spanning mobile apps, devices, firmware, and backend services. A highly collaborative mindset with demonstrated end-to-end ownership of features, and a proactive approach to embracing and applying AI technologies and AI-assisted tools to improve development efficiency, code quality, and delivery velocity. What We Offer Meaningful Ownership An Employee Stock Ownership Plan (ESOP) that gives a real stake in Plaud’s long-term success. High-Impact Environment Work in a fast-moving, product-driven environment where your ideas directly shape the future of AI productivity. Comprehensive Health & Retirement Benefits Top-tier medical, dental, and vision insurance for employees and dependents, supported by a generous employer subsidy, plus a 401(k) retirement plan with company matching for full-time employees. Time Off & Workplace Benefits Unlimited PTO, plus 13 paid holidays, 12 weeks of fully paid parental leave for all parents, a hybrid work model with a minimum of three in-office days per week, and access to high-quality office snacks, drinks, and equipment. Cutting-Edge AI Tools for Productivity Access to best-in-class AI tools, including Cursor, GPT models, Gemini, Claude, and other frontier AI systems to maximize engineering and execution efficiency. Best-in-Class Equipment Choice of top-spec laptops, high-performance workstation setups, and cutting-edge Plaud devices for all new hires. Team & Culture Annual company offsites, team events, and a culture that values craftsmanship, ownership, and velocity. 【For Pay Transparency】Compensation Description (Annually) The base salary range for this position in the selected city is $140,000 - $267,000 annually. Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and equity.",
+      "eligibility": "needs_review",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311678+00:00",
+      "id": "linkedin:4424263660",
+      "last_seen_at": "2026-11-02T01:34:18.311678+00:00",
+      "last_verified_at": "2026-11-02T01:34:02.680956+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-10-31T11:55:21.000Z",
+      "reasons": [
+        "Native iOS/Flutter focus requires review"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "linkedin",
+      "source_id": "4424263660",
+      "summary": "About Plaud Inc. Plaud is building the real-world AI interface for professionals to amplify intelligence, elevate productivity and performance, loved by over 3,000,000 users worldwide since 2023. With a mission to amplify human intelligence, Plaud captures, structures, and compounds the intelligence generated in conversations — so humans can think ",
+      "title": "Senior Mobile Engineer",
+      "url": "https://www.linkedin.com/jobs/view/senior-mobile-engineer-at-plaud-4424263660",
+      "verification": "open"
+    },
+    {
+      "company": "Uber",
+      "company_priority": 1,
+      "description": "About The Role What we do The Experimentation team provides cutting edge tooling and methodologies for all teams at Uber to make rapid decisions for their product iterations. Experimentation is an exciting domain that combines multiple disciplines of Software Engineering (Backend, Distributed Systems, Mobile, Web, Data Infra), Data Science, and Product Design. Every major launch across any of Uber’s Rides, Delivery, Earner, Freight, and Uber For Business (U4B) organizations leverages the Experimentation platform to determine how new features impact key business metrics. Virtually all Engineers, Scientists, and Product Managers at the company use our platform on a daily basis to launch, monitor, test, and make changes to Uber’s ecosystem. Why it matters Velocity with Confidence: By automating experiment design, rollout, and analysis, we reduce the cost of iteration and let teams validate the impact of features our members love. Company Wide Reach: Virtually every engineer, data scientist, and product manager touches our platform daily to launch, monitor, and refine Uber’s ecosystem. Business Impact at Scale: Decisions backed by our tooling safeguard core metrics while empowering innovators to push boundaries. What You’ll Do Your main responsibilities will be: Be responsible for the design, implementation, and delivery of complex projects Build highly reliable and resilient features in our iOS Mobile SDK Collaborate with cross-functional mobile developer teams to enable and support the business Identify and fix bugs and reliability of current systems Bring in your passionate self and positively impact the team around you Basic Qualifications Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 5-years full-time Software Engineering work experience, WHICH INCLUDES 3-years total technical software engineering experience in one or more of the following specialized areas: iOS development Swift programming Objective C programming Note the 3-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated. Preferred Qualifications Experience in other mobile platform engineering teams (versus product engineering teams) Deep iOS SDK/Framework Development: Experience in architecting and optimizing complex mobile libraries, with a strong focus on low-level performance, caching, and storage behavior to ensure the core platform is fast and reliable. Platform Tooling and Automation: Expertise in building developer utilities, CI/CD pipelines, or sophisticated tooling that automates processes like feature rollout, validation, and auto-rollback to improve developer safety and velocity. Experimentation Systems: Experience or interest in working on the core logic behind feature flags, A/B testing, and rollout control, helping to shape the future of how new features are delivered to millions of users. For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year. You will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits. Ready to Ride? This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you. You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements. Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.",
+      "eligibility": "needs_review",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-02T01:34:18.311526+00:00",
+      "id": "linkedin:4480559243",
+      "last_seen_at": "2026-11-02T01:34:18.311526+00:00",
+      "last_verified_at": "2026-11-02T01:33:58.732446+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-10-16T21:22:40.000Z",
+      "reasons": [
+        "Seniority equivalence requires review"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "linkedin",
+      "source_id": "4480559243",
+      "summary": "About The Role What we do The Experimentation team provides cutting edge tooling and methodologies for all teams at Uber to make rapid decisions for their product iterations. Experimentation is an exciting domain that combines multiple disciplines of Software Engineering (Backend, Distributed Systems, Mobile, Web, Data Infra), Data Science, and Pro",
+      "title": "Sr Software Engineer- iOS, Experimentation",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-ios-experimentation-at-uber-4480559243",
+      "verification": "open"
     }
   ],
-  "update_sequence": 1
+  "update_sequence": 2
 }
