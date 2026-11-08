@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T19:22:41.133253+00:00",
-  "run_id": "a4a03ebd8c444f919566d22c9b50fe96",
+  "generated_at": "2026-11-08T17:59:41.106188+00:00",
+  "run_id": "a906552b924344b4a5e11ac5f763d4d8",
   "coverage": "partial",
   "sources": {
     "apple": {
       "status": "success",
-      "last_attempt_at": "2026-11-07T19:17:38.964155+00:00",
-      "last_success_at": "2026-11-07T19:19:52.533070+00:00",
+      "last_attempt_at": "2026-11-08T17:55:23.765805+00:00",
+      "last_success_at": "2026-11-08T17:57:27.476765+00:00",
       "found": 40
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-07T19:19:52.543608+00:00",
-      "last_success_at": "2026-11-07T19:21:09.750976+00:00",
+      "last_attempt_at": "2026-11-08T17:57:27.485347+00:00",
+      "last_success_at": "2026-11-08T17:58:44.774363+00:00",
       "found": 34
     },
     "linkedin": {
-      "status": "success",
-      "last_attempt_at": "2026-11-07T19:21:10.250741+00:00",
+      "status": "partial",
+      "last_attempt_at": "2026-11-08T17:58:45.200253+00:00",
       "last_success_at": "2026-11-07T19:22:39.225146+00:00",
-      "found": 40
+      "found": 22
     }
   },
   "jobs": [
@@ -55,10 +55,43 @@
       "description": "“I believe, if you zoom out into the future, and you look back, and you ask the question, ‘What was Appleʼs greatest contribution to mankind?ʼ it will be about health.” —Tim Cook, 2019. We build the engine that powers every health or fitness application from Apple and our third party developers. We hear from our users that we are helping them live better, get stronger, remember to care for themselves, and even save their lives. Weʼre doing it while keeping their health data safe, accessible and private, and weʼre pushing the technology and health care industries to do the same. If you are looking for a role where you can use and develop your engineering acumen while changing the world for the better, then look no further! We are looking for talented engineers to keep HealthKit – the very heart of everything related to health and fitness on Apple platforms – secure, efficient, and ever-growing. We work with hardware and software teams throughout Apple as well as our developer ecosystem to deliver ever more functionality that is deeply integrated with iOS, watchOS and all the rest without sacrificing privacy, power, or performance.\n\nAs a member of the team, youʼll have the opportunity to work cross-functionally to expand the functionality of the Health app and HealthKit framework. We collaborate across Apple feature teams, hardware teams, domain experts like doctors and fitness experts, and our third party developer ecosystem. Our primary responsibilities are delivering new health and fitness features, designing solutions for distributed health data storage, performance, OS integration, and API design and delivery.\n\nDeveloping innovative solutions for efficiently syncing health data across multiple Apple platforms. Designing and tuning features for use by millions of users on power and performance constrained devices. Designing and delivering comprehensive test suites in collaboration with our quality assurance and engineering teams. Designing logical, scalable, forward-thinking APIs that serve our developersʼ needs. Participating in peer review of architecture, API, and individual software changes. Collaborating with and advising other teams across Apple, including Design, Privacy, and Security, as well as domain experts in health and fitness.\n\nBS Computer Science or equivalent experience Strong foundation in Computer Science fundamentals 8 years of experience working in Objective-C, Swift, C++ or similar high level programming languages Strong understanding of algorithms and data structures Solid background in object-oriented architecture and design Deep understanding of systems-level concepts like multi-threading and interprocess communication Expertise with debugging tools and performance tuning Knowledge of iOS programming and Apple technologies such as Grand Central Dispatch, CloudKit, or XPC Activity/Services Strong communication skills, including ability to collaborate in a diversity of backgrounds and experiences Willingness to learn and improve, and also mentor and support other team members Highly organized, maintaining patience and composure to effectively operate within ambiguity Experience delivering libraries, frameworks or APIs Experience with distributed systems design, development and support\n\nExperience with SQL and database technologies Familiarity with Fitness, Wellness or Medical concepts\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,000 and $308,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
+      "first_seen_at": "2026-11-08T17:57:27.393962+00:00",
+      "id": "apple:200648699-3543",
+      "last_seen_at": "2026-11-08T17:57:27.393962+00:00",
+      "last_verified_at": "2026-11-08T17:57:18.432916+00:00",
+      "locations": [
+        "San Diego, California, United States",
+        "Sunnyvale, California, United States"
+      ],
+      "posted_at": "2026-03-04T17:59:08.855+00:00",
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 308500,
+        "min": 175000
+      },
+      "salary_match": "partial",
+      "score": 70,
+      "source": "apple",
+      "source_id": "200648699-3543",
+      "summary": "“I believe, if you zoom out into the future, and you look back, and you ask the question, ‘What was Appleʼs greatest contribution to mankind?ʼ it will be about health.” —Tim Cook, 2019. We build the engine that powers every health or fitness application from Apple and our third party developers. We hear from our users that we are helping them live ",
+      "title": "Senior iOS Frameworks Engineer - HealthKit",
+      "url": "https://jobs.apple.com/en-us/details/200648699-3543/senior-ios-frameworks-engineer-healthkit",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
+      "description": "“I believe, if you zoom out into the future, and you look back, and you ask the question, ‘What was Appleʼs greatest contribution to mankind?ʼ it will be about health.” —Tim Cook, 2019. We build the engine that powers every health or fitness application from Apple and our third party developers. We hear from our users that we are helping them live better, get stronger, remember to care for themselves, and even save their lives. Weʼre doing it while keeping their health data safe, accessible and private, and weʼre pushing the technology and health care industries to do the same. If you are looking for a role where you can use and develop your engineering acumen while changing the world for the better, then look no further! We are looking for talented engineers to keep HealthKit – the very heart of everything related to health and fitness on Apple platforms – secure, efficient, and ever-growing. We work with hardware and software teams throughout Apple as well as our developer ecosystem to deliver ever more functionality that is deeply integrated with iOS, watchOS and all the rest without sacrificing privacy, power, or performance.\n\nAs a member of the team, youʼll have the opportunity to work cross-functionally to expand the functionality of the Health app and HealthKit framework. We collaborate across Apple feature teams, hardware teams, domain experts like doctors and fitness experts, and our third party developer ecosystem. Our primary responsibilities are delivering new health and fitness features, designing solutions for distributed health data storage, performance, OS integration, and API design and delivery.\n\nDeveloping innovative solutions for efficiently syncing health data across multiple Apple platforms. Designing and tuning features for use by millions of users on power and performance constrained devices. Designing and delivering comprehensive test suites in collaboration with our quality assurance and engineering teams. Designing logical, scalable, forward-thinking APIs that serve our developersʼ needs. Participating in peer review of architecture, API, and individual software changes. Collaborating with and advising other teams across Apple, including Design, Privacy, and Security, as well as domain experts in health and fitness.\n\nBS Computer Science or equivalent experience Strong foundation in Computer Science fundamentals 8 years of experience working in Objective-C, Swift, C++ or similar high level programming languages Strong understanding of algorithms and data structures Solid background in object-oriented architecture and design Deep understanding of systems-level concepts like multi-threading and interprocess communication Expertise with debugging tools and performance tuning Knowledge of iOS programming and Apple technologies such as Grand Central Dispatch, CloudKit, or XPC Activity/Services Strong communication skills, including ability to collaborate in a diversity of backgrounds and experiences Willingness to learn and improve, and also mentor and support other team members Highly organized, maintaining patience and composure to effectively operate within ambiguity Experience delivering libraries, frameworks or APIs Experience with distributed systems design, development and support\n\nExperience with SQL and database technologies Familiarity with Fitness, Wellness or Medical concepts\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,000 and $308,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466295+00:00",
       "id": "apple:200648699-3956",
-      "last_seen_at": "2026-11-07T19:19:52.431614+00:00",
-      "last_verified_at": "2026-11-07T19:19:08.273823+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.338040+00:00",
+      "last_verified_at": "2026-11-08T17:56:07.125993+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -90,8 +123,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.452462+00:00",
       "id": "apple:200662668-3543",
-      "last_seen_at": "2026-11-07T19:19:52.452462+00:00",
-      "last_verified_at": "2026-11-07T19:19:40.834729+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.381030+00:00",
+      "last_verified_at": "2026-11-08T17:57:04.511945+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -124,8 +157,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466922+00:00",
       "id": "apple:200662668-3956",
-      "last_seen_at": "2026-11-07T19:19:52.442200+00:00",
-      "last_verified_at": "2026-11-07T19:19:25.525133+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.326039+00:00",
+      "last_verified_at": "2026-11-08T17:55:51.437489+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -254,8 +287,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099520+00:00",
       "id": "apple:200592178-0836",
-      "last_seen_at": "2026-11-06T20:13:10.125020+00:00",
-      "last_verified_at": "2026-11-06T20:12:29.129196+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.375170+00:00",
+      "last_verified_at": "2026-11-08T17:56:56.006285+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -322,8 +355,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-07T19:19:52.420907+00:00",
-      "last_verified_at": "2026-11-07T19:18:50.556375+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.341940+00:00",
+      "last_verified_at": "2026-11-08T17:56:12.522035+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -354,8 +387,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-07T19:21:09.055789+00:00",
-      "last_verified_at": "2026-11-07T19:20:06.989017+00:00",
+      "last_seen_at": "2026-11-08T17:58:44.054141+00:00",
+      "last_verified_at": "2026-11-08T17:57:41.930471+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -387,8 +420,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-07T19:19:52.347684+00:00",
-      "last_verified_at": "2026-11-07T19:18:00.699316+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.268153+00:00",
+      "last_verified_at": "2026-11-08T17:55:43.876576+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -420,8 +453,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-07T19:19:52.402326+00:00",
-      "last_verified_at": "2026-11-07T19:18:17.824710+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.332050+00:00",
+      "last_verified_at": "2026-11-08T17:55:58.469700+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -453,8 +486,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468478+00:00",
       "id": "apple:200654462-0836",
-      "last_seen_at": "2026-11-07T19:19:52.415662+00:00",
-      "last_verified_at": "2026-11-07T19:18:39.520967+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.355834+00:00",
+      "last_verified_at": "2026-11-08T17:56:31.861028+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -486,8 +519,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.101084+00:00",
       "id": "apple:200656112-0836",
-      "last_seen_at": "2026-11-06T20:13:10.132592+00:00",
-      "last_verified_at": "2026-11-06T20:12:50.609984+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.386920+00:00",
+      "last_verified_at": "2026-11-08T17:57:11.673023+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -554,8 +587,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T20:20:52.036534+00:00",
       "id": "apple:200662789-0836",
-      "last_seen_at": "2026-11-06T20:13:10.141441+00:00",
-      "last_verified_at": "2026-11-06T20:13:08.731229+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.399981+00:00",
+      "last_verified_at": "2026-11-08T17:57:25.786933+00:00",
       "locations": [
         "Boulder, Colorado, United States",
         "Culver City, California, United States",
@@ -591,8 +624,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468139+00:00",
       "id": "apple:200671616-0836",
-      "last_seen_at": "2026-11-07T19:19:52.455799+00:00",
-      "last_verified_at": "2026-11-07T19:19:45.551589+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.362876+00:00",
+      "last_verified_at": "2026-11-08T17:56:40.330125+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -690,8 +723,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464366+00:00",
       "id": "apple:200678192-0836",
-      "last_seen_at": "2026-11-07T19:19:52.412261+00:00",
-      "last_verified_at": "2026-11-07T19:18:34.896972+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.343630+00:00",
+      "last_verified_at": "2026-11-08T17:56:16.083965+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -722,13 +755,13 @@
     {
       "company": "Apple",
       "company_priority": 0,
-      "description": "At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. You bring passion, and dedication to your job and there is no telling what you could accomplish. The Creativity Apps team is looking for an engineer with expertise in Apple platforms to help architect and build media management and collaboration features for creative tools. You’ll be working with the world-class teams behind Final Cut Pro, Logic Pro, and iWork to create next-generation tools for creators.\n\nThis is a great opportunity to be one of the early members of a new engineering team! You will be responsible for setting the direction and architecture of new and innovative collaborative features for the creative space. You will work with human interface designers, quality assurance teams, and the cross functional teams to go beyond code and will influence everything from user interface to project planning. The ideal candidate should have experience in iOS development, cloud technologies, care about long term sustainable software development, and can drive features from concept all the way to delivery. This position also requires a self-motivated individual with excellent interpersonal skills to effectively collaborate with all levels of the organization.\n\nArchitect and build media management and collaboration features for Final Cut Pro, Logic Pro, and iWork Set the technical direction for new and innovative features in creative tools Partner with human interface designers, QA teams, and cross-functional partners throughout the full development lifecycle Drive features from concept through delivery, taking end-to-end ownership\n\n2+ years proven experience shipping high quality, tested code on iOS and / or macOS Strong understanding of architectural patterns commonly used in programming for Apple platforms Solid grasp of computer science fundamentals and object-oriented design Strong proficiency in Swift and at least one UI framework (SwiftUI, UIKit, AppKit) Ability to work with ambiguity and take ownership of product features Willingness to ask for help and learn from others Committed to encouraging an open and inclusive work environment Strong communication, collaboration, and project management skills Bachelor’s Degree in Computer Science or equivalent experience.\n\nDemonstrated interest in one of Apple's apps for creative pros & enthusiasts (Final Cut Pro, Logic Pro, iMovie, GarageBand) Experience with modern concurrency in Swift, including async / await and actors Proficiency with Swift Testing and / or XCTest Demonstrated commitment to accessibility and localization\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $134,700 and $249,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "description": "At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. You bring passion, and dedication to your job and there is no telling what you could accomplish. The Creativity Apps team is looking for an engineer with expertise in Apple platforms to help architect and build media management and collaboration features for creative tools. You’ll be working with the world-class teams behind Final Cut Pro, Logic Pro, and iWork to create next-generation tools for creators.\n\nThis is a great opportunity to be one of the early members of a new engineering team! You will be responsible for setting the direction and architecture of new and innovative collaborative features for the creative space. You will work with human interface designers, quality assurance teams, and the cross functional teams to go beyond code and will influence everything from user interface to project planning. The ideal candidate should have experience in iOS development, cloud technologies, care about long term sustainable software development, and can drive features from concept all the way to delivery. This position also requires a self-motivated individual with excellent interpersonal skills to effectively collaborate with all levels of the organization.\n\nArchitect and build media management and collaboration features for Final Cut Pro, Logic Pro, and iWork Set the technical direction for new and innovative features in creative tools Partner with human interface designers, QA teams, and cross-functional partners throughout the full development lifecycle Drive features from concept through delivery, taking end-to-end ownership\n\n2+ years proven experience shipping high quality, tested code on iOS and / or macOS Strong understanding of architectural patterns commonly used in programming for Apple platforms Solid grasp of computer science fundamentals and object-oriented design Strong proficiency in Swift and at least one UI framework (SwiftUI, UIKit, AppKit) Ability to work with ambiguity and take ownership of product features Willingness to ask for help and learn from others Committed to encouraging an open and inclusive work environment Strong communication, collaboration, and project management skills Bachelor’s Degree in Computer Science or equivalent experience.\n\nDemonstrated interest in one of Apple's apps for creative pros & enthusiasts (Final Cut Pro, Logic Pro, iMovie, GarageBand) Experience with modern concurrency in Swift, including async / await and actors Proficiency with Swift Testing and / or XCTest Demonstrated commitment to accessibility and localization\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $134,700 and $249,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467813+00:00",
       "id": "apple:200678192-3543",
-      "last_seen_at": "2026-11-07T19:19:52.408740+00:00",
-      "last_verified_at": "2026-11-07T19:18:27.971527+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.370935+00:00",
+      "last_verified_at": "2026-11-08T17:56:50.357790+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -744,8 +777,8 @@
       "salary": {
         "basis": "annual_base",
         "currency": "USD",
-        "max": 263300,
-        "min": 142300
+        "max": 277600,
+        "min": 150400
       },
       "salary_match": "partial",
       "score": 50,
@@ -764,8 +797,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467556+00:00",
       "id": "apple:200678194-0836",
-      "last_seen_at": "2026-11-07T19:19:52.398323+00:00",
-      "last_verified_at": "2026-11-07T19:18:12.412934+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.357863+00:00",
+      "last_verified_at": "2026-11-08T17:56:35.142771+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -801,8 +834,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468677+00:00",
       "id": "apple:200678194-3543",
-      "last_seen_at": "2026-11-07T19:19:52.417561+00:00",
-      "last_verified_at": "2026-11-07T19:18:43.034147+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.383107+00:00",
+      "last_verified_at": "2026-11-08T17:57:07.391601+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -904,8 +937,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099839+00:00",
       "id": "apple:200692906-0836",
-      "last_seen_at": "2026-11-07T19:19:52.424566+00:00",
-      "last_verified_at": "2026-11-07T19:18:58.187446+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.368813+00:00",
+      "last_verified_at": "2026-11-08T17:56:47.406793+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -937,8 +970,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465999+00:00",
       "id": "apple:200690588-0836",
-      "last_seen_at": "2026-11-07T19:19:52.433304+00:00",
-      "last_verified_at": "2026-11-07T19:19:10.944421+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.340002+00:00",
+      "last_verified_at": "2026-11-08T17:56:09.991245+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -971,8 +1004,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-07T19:19:52.397711+00:00",
-      "last_verified_at": "2026-11-07T19:18:05.444404+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.323785+00:00",
+      "last_verified_at": "2026-11-08T17:55:48.477339+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1005,8 +1038,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468341+00:00",
       "id": "apple:200660654-3577",
-      "last_seen_at": "2026-11-07T19:19:52.448973+00:00",
-      "last_verified_at": "2026-11-07T19:19:35.845416+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.388799+00:00",
+      "last_verified_at": "2026-11-08T17:57:13.921175+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1074,8 +1107,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467136+00:00",
       "id": "apple:200670523-3543",
-      "last_seen_at": "2026-11-07T19:19:52.400417+00:00",
-      "last_verified_at": "2026-11-07T19:18:15.677741+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.397930+00:00",
+      "last_verified_at": "2026-11-08T17:57:22.514725+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1109,8 +1142,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-07T19:19:52.405258+00:00",
-      "last_verified_at": "2026-11-07T19:18:22.602673+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.336033+00:00",
+      "last_verified_at": "2026-11-08T17:56:04.312067+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1143,8 +1176,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.419038+00:00",
       "id": "apple:200677373-0836",
-      "last_seen_at": "2026-11-07T19:19:52.419038+00:00",
-      "last_verified_at": "2026-11-07T19:18:48.028095+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.360441+00:00",
+      "last_verified_at": "2026-11-08T17:56:38.034355+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1177,8 +1210,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.095920+00:00",
       "id": "apple:200679514-0836",
-      "last_seen_at": "2026-11-06T20:13:10.114423+00:00",
-      "last_verified_at": "2026-11-06T20:11:43.443070+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.351800+00:00",
+      "last_verified_at": "2026-11-08T17:56:26.391502+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1247,8 +1280,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465753+00:00",
       "id": "apple:200682051-3956",
-      "last_seen_at": "2026-11-07T19:19:52.413971+00:00",
-      "last_verified_at": "2026-11-07T19:18:37.201259+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.345825+00:00",
+      "last_verified_at": "2026-11-08T17:56:18.788449+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1281,8 +1314,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-07T19:19:52.422856+00:00",
-      "last_verified_at": "2026-11-07T19:18:54.840554+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.353884+00:00",
+      "last_verified_at": "2026-11-08T17:56:29.234637+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1316,8 +1349,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-07T19:19:52.403608+00:00",
-      "last_verified_at": "2026-11-07T19:18:20.659897+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.334060+00:00",
+      "last_verified_at": "2026-11-08T17:56:01.520732+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1488,8 +1521,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467924+00:00",
       "id": "apple:200689757-0836",
-      "last_seen_at": "2026-11-07T19:19:52.438533+00:00",
-      "last_verified_at": "2026-11-07T19:19:20.095022+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.377156+00:00",
+      "last_verified_at": "2026-11-08T17:56:58.644348+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1523,8 +1556,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467240+00:00",
       "id": "apple:200689757-3543",
-      "last_seen_at": "2026-11-07T19:19:52.428143+00:00",
-      "last_verified_at": "2026-11-07T19:19:03.579370+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.364947+00:00",
+      "last_verified_at": "2026-11-08T17:56:42.865069+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1548,6 +1581,74 @@
       "summary": "At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Are you interested in building the next generation of iOS apps? The Journal team at Apple is looking for talented iOS App developers to join a small ",
       "title": "Software Engineer - Journal Team",
       "url": "https://jobs.apple.com/en-us/details/200689757-3543/software-engineer-journal-team",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
+      "description": "Imagine what you could do at Apple. Here, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Do you want to help deliver the next amazing Apple product? As a Software Engineer on the Apple Watch Safety & Communications team, you’ll bring your top notch engineering skills and eye for quality to help deliver a peace of mind, reliable, and expertly-polished out-of-box-experience for every Apple Watch user. This role is perfect for a collaborative engineer who is passionate about the intersection of technology & safety.\n\nAs a member of the team you will work closely with Design, Quality Assurance, Marketing, and other Engineering teams to help define the future of our products. You'll take collaborative ownership of the development and quality of a number of important facets of watchOS and iOS focused on Safety including Crash Detection, Fall Detection.\n\nCollaborating closely with the Design team to open up the boundaries of human-computer interactions. Crafting efficient solutions tailored to the constraints of a small, low power device. Working closely with teams across all of Apple to architect robust and maintainable systems that will stand the test of time. Coordinating with our QA and Automation partner teams for full test coverage to ensure that we meet the high expectations our users have come to expect.\n\nBS CE/CS or equivalent experience. 5+ years of related experience Excellent Swift and Objective-C coding ability. Ability to jump between and learn a variety of programming languages and technologies (Objective-C, Swift, SwiftUI, Assembly, Python, C, ML technologies). A proven record of completing projects on-time and to-specification. Excellent communication and collaborative skills. Enthusiasm about working on a cross functional team. Upbeat, adaptable, helpful, and results oriented.\n\nExperience contributing to at least one shipping application or framework. Operating Systems knowledge, hands-on experience with inter-process communication.\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-08T17:57:27.385037+00:00",
+      "id": "apple:200693720-0836",
+      "last_seen_at": "2026-11-08T17:57:27.385037+00:00",
+      "last_verified_at": "2026-11-08T17:57:09.411094+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-11-05T19:17:25.255+00:00",
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 150400
+      },
+      "salary_match": "partial",
+      "score": 30,
+      "source": "apple",
+      "source_id": "200693720-0836",
+      "summary": "Imagine what you could do at Apple. Here, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Do you want to help deliver the next amazing Apple product? As a Software Engineer on the Apple Watch Safety & Communic",
+      "title": "Software Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200693720-0836/software-engineer-watch-software",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
+      "description": "Apple's privacy engineering team is responsible for designing and enforcing the controls that keep user data protected across every Apple platform. As generative AI and intelligent features reshape how people interact with technology, the expectations for privacy engineering are evolving rapidly. We are looking for exceptional systems engineers who want to define how privacy works in an AI-driven world -- ensuring that powerful new capabilities never come at the cost of user trust.\n\nYou will design, implement, and debug production systems in C, Objective-C, and Swift that power privacy controls across Apple platforms (iOS, iPadOS, macOS, watchOS, visionOS, Apple TV, and HomePod). Your work will span architecting permission frameworks, strengthening privacy architecture against evolving threat vectors, and building foundational components that operate across operating systems. A critical part of this role is tackling the new privacy challenges introduced by generative AI technologies. You will work on problems like controlling how on-device models and intelligent features access sensitive user data; designing permission and consent frameworks for AI-driven workflows; enforcing data minimization and sandboxing for on-device AI models; and building privacy-preserving on-device inference into our systems from the ground up. These are emerging challenges at the forefront of the industry.\n\nProficiency in C, Objective-C, C++, or Swift Experience designing system-level APIs and background daemons Strong Unix-like systems programming knowledge Experience building reliable daemons with robust lifecycle management Experience designing fault-tolerant error handling for long-running system daemons Clear technical communication skills Familiarity with AI-powered tools and the ability to incorporate them effectively into day-to-day workflows is required.\n\n5+ years professional software engineering experience - System architecture design experience for privacy or security software - Cross-functional technical leadership experience - macOS or Unix systems programming background Full software development lifecycle experience Relational database and local storage design familiarity Practical experience using generative AI tools in an engineering workflow (e.g., AI-assisted code generation, LLM-powered debugging) Ability to reason about the privacy and data-access implications of machine learning systems at the systems level Experience with responsible AI development practices, including AI safety, privacy-preserving machine learning, or designing guardrails and safety mechanisms for intelligent features\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-08T17:57:27.329770+00:00",
+      "id": "apple:200643254-3543",
+      "last_seen_at": "2026-11-08T17:57:27.329770+00:00",
+      "last_verified_at": "2026-11-08T17:55:56.045253+00:00",
+      "locations": [
+        "San Diego, California, United States"
+      ],
+      "posted_at": "2026-08-31T23:27:00.503+00:00",
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 263300,
+        "min": 142300
+      },
+      "salary_match": "partial",
+      "score": 20,
+      "source": "apple",
+      "source_id": "200643254-3543",
+      "summary": "Apple's privacy engineering team is responsible for designing and enforcing the controls that keep user data protected across every Apple platform. As generative AI and intelligent features reshape how people interact with technology, the expectations for privacy engineering are evolving rapidly. We are looking for exceptional systems engineers who",
+      "title": "Sr. Software Frameworks Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200643254-3543/sr-software-frameworks-engineer-sensing-connectivity",
       "verification": "open"
     },
     {
@@ -1592,8 +1693,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468007+00:00",
       "id": "apple:200676418-3543",
-      "last_seen_at": "2026-11-06T20:13:10.139873+00:00",
-      "last_verified_at": "2026-11-06T20:13:04.999547+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.372938+00:00",
+      "last_verified_at": "2026-11-08T17:56:53.701154+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1626,8 +1727,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-07T19:19:52.440427+00:00",
-      "last_verified_at": "2026-11-07T19:19:22.291523+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.379078+00:00",
+      "last_verified_at": "2026-11-08T17:57:01.616768+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1728,8 +1829,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.675843+00:00",
       "id": "apple:200692542",
-      "last_seen_at": "2026-11-07T19:19:52.459063+00:00",
-      "last_verified_at": "2026-11-07T19:19:50.790149+00:00",
+      "last_seen_at": "2026-11-08T17:57:27.391686+00:00",
+      "last_verified_at": "2026-11-08T17:57:15.953321+00:00",
       "locations": [
         "California, United States"
       ],
@@ -1830,8 +1931,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-07T19:21:09.133825+00:00",
-      "last_verified_at": "2026-11-07T19:20:14.900362+00:00",
+      "last_seen_at": "2026-11-08T17:58:44.134736+00:00",
+      "last_verified_at": "2026-11-08T17:57:49.929991+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -1885,8 +1986,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.980441+00:00",
       "id": "google:78657275467571910",
-      "last_seen_at": "2026-11-07T19:21:09.023099+00:00",
-      "last_verified_at": "2026-11-07T19:20:02.967205+00:00",
+      "last_seen_at": "2026-11-08T17:58:44.016790+00:00",
+      "last_verified_at": "2026-11-08T17:57:37.909915+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Los Angeles, CA, USA"
@@ -1913,8 +2014,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-07T19:21:09.034425+00:00",
-      "last_verified_at": "2026-11-07T19:20:04.985253+00:00",
+      "last_seen_at": "2026-11-08T17:58:44.031432+00:00",
+      "last_verified_at": "2026-11-08T17:57:39.879631+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -1941,8 +2042,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-07T19:21:09.093359+00:00",
-      "last_verified_at": "2026-11-07T19:20:10.951601+00:00",
+      "last_seen_at": "2026-11-08T17:58:44.094346+00:00",
+      "last_verified_at": "2026-11-08T17:57:45.898985+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -1998,8 +2099,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312609+00:00",
       "id": "linkedin:4415103800",
-      "last_seen_at": "2026-11-07T19:22:39.102458+00:00",
-      "last_verified_at": "2026-11-07T19:21:52.993906+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.513227+00:00",
+      "last_verified_at": "2026-11-08T17:59:27.922928+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2028,8 +2129,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311288+00:00",
       "id": "linkedin:4454451077",
-      "last_seen_at": "2026-11-07T19:22:39.079623+00:00",
-      "last_verified_at": "2026-11-07T19:21:28.880147+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.487586+00:00",
+      "last_verified_at": "2026-11-08T17:59:03.858805+00:00",
       "locations": [
         "San Bruno, CA, US"
       ],
@@ -2058,8 +2159,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311220+00:00",
       "id": "linkedin:4418828708",
-      "last_seen_at": "2026-11-07T19:22:39.076161+00:00",
-      "last_verified_at": "2026-11-07T19:21:26.906306+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.485391+00:00",
+      "last_verified_at": "2026-11-08T17:59:02.114947+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2088,8 +2189,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311458+00:00",
       "id": "linkedin:4453705945",
-      "last_seen_at": "2026-11-07T19:22:39.083839+00:00",
-      "last_verified_at": "2026-11-07T19:21:33.077851+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.491885+00:00",
+      "last_verified_at": "2026-11-08T17:59:08.063375+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2118,8 +2219,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311755+00:00",
       "id": "linkedin:4461537491",
-      "last_seen_at": "2026-11-07T19:22:39.091369+00:00",
-      "last_verified_at": "2026-11-07T19:21:41.010277+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.500514+00:00",
+      "last_verified_at": "2026-11-08T17:59:15.877022+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -2148,8 +2249,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312396+00:00",
       "id": "linkedin:4461538504",
-      "last_seen_at": "2026-11-07T19:22:39.097270+00:00",
-      "last_verified_at": "2026-11-07T19:21:47.101435+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.506842+00:00",
+      "last_verified_at": "2026-11-08T17:59:21.892413+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2238,8 +2339,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311129+00:00",
       "id": "linkedin:4478737703",
-      "last_seen_at": "2026-11-07T19:22:39.074139+00:00",
-      "last_verified_at": "2026-11-07T19:21:24.980941+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.483136+00:00",
+      "last_verified_at": "2026-11-08T17:58:59.921385+00:00",
       "locations": [
         "Milpitas, CA, US"
       ],
@@ -2268,8 +2369,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311027+00:00",
       "id": "linkedin:4214156833",
-      "last_seen_at": "2026-11-07T19:22:39.071997+00:00",
-      "last_verified_at": "2026-11-07T19:21:22.998230+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.480485+00:00",
+      "last_verified_at": "2026-11-08T17:58:58.166345+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2293,8 +2394,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312474+00:00",
       "id": "linkedin:4337751650",
-      "last_seen_at": "2026-11-07T19:22:39.099147+00:00",
-      "last_verified_at": "2026-11-07T19:21:48.943002+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.508941+00:00",
+      "last_verified_at": "2026-11-08T17:59:24.067604+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2318,8 +2419,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311358+00:00",
       "id": "linkedin:4474584105",
-      "last_seen_at": "2026-11-07T19:22:39.081709+00:00",
-      "last_verified_at": "2026-11-07T19:21:30.988230+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.489731+00:00",
+      "last_verified_at": "2026-11-08T17:59:05.885921+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2457,8 +2558,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710142+00:00",
       "id": "linkedin:4410339271",
-      "last_seen_at": "2026-11-07T19:22:39.105953+00:00",
-      "last_verified_at": "2026-11-07T19:21:56.886914+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.517366+00:00",
+      "last_verified_at": "2026-11-08T17:59:31.881397+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2489,8 +2590,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710365+00:00",
       "id": "linkedin:4435897172",
-      "last_seen_at": "2026-11-07T19:22:39.109698+00:00",
-      "last_verified_at": "2026-11-07T19:22:00.967200+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.521501+00:00",
+      "last_verified_at": "2026-11-08T17:59:35.931994+00:00",
       "locations": [
         "Remote — Los Angeles, CA, US"
       ],
@@ -2543,8 +2644,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.310192+00:00",
       "id": "linkedin:4476984558",
-      "last_seen_at": "2026-11-07T19:22:39.068944+00:00",
-      "last_verified_at": "2026-11-07T19:21:21.243220+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.478264+00:00",
+      "last_verified_at": "2026-11-08T17:58:55.971140+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -2570,8 +2671,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710025+00:00",
       "id": "linkedin:4482416520",
-      "last_seen_at": "2026-11-07T19:22:39.104026+00:00",
-      "last_verified_at": "2026-11-07T19:21:55.032382+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.515296+00:00",
+      "last_verified_at": "2026-11-08T17:59:29.990869+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -2597,8 +2698,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311678+00:00",
       "id": "linkedin:4424263660",
-      "last_seen_at": "2026-11-07T19:22:39.089752+00:00",
-      "last_verified_at": "2026-11-07T19:21:38.997923+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.498398+00:00",
+      "last_verified_at": "2026-11-08T17:59:13.985500+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2705,8 +2806,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311526+00:00",
       "id": "linkedin:4480559243",
-      "last_seen_at": "2026-11-07T19:22:39.085108+00:00",
-      "last_verified_at": "2026-11-07T19:21:35.057721+00:00",
+      "last_seen_at": "2026-11-08T17:59:39.494067+00:00",
+      "last_verified_at": "2026-11-08T17:59:10.021993+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2806,5 +2907,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 7
+  "update_sequence": 8
 }
