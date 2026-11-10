@@ -1,25 +1,25 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T20:11:20.040087+00:00",
-  "run_id": "8a46f83a6b5445269788f5b41a1dc461",
+  "generated_at": "2026-11-10T20:24:14.188015+00:00",
+  "run_id": "8b56282a002e485387848e2724bf5183",
   "coverage": "partial",
   "sources": {
     "apple": {
       "status": "success",
-      "last_attempt_at": "2026-11-09T20:05:19.184543+00:00",
-      "last_success_at": "2026-11-09T20:08:28.851356+00:00",
+      "last_attempt_at": "2026-11-10T20:18:59.232687+00:00",
+      "last_success_at": "2026-11-10T20:21:23.395206+00:00",
       "found": 40
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-09T20:08:28.861073+00:00",
-      "last_success_at": "2026-11-09T20:09:48.190074+00:00",
+      "last_attempt_at": "2026-11-10T20:21:23.403804+00:00",
+      "last_success_at": "2026-11-10T20:22:42.731697+00:00",
       "found": 35
     },
     "linkedin": {
       "status": "success",
-      "last_attempt_at": "2026-11-09T20:09:49.529615+00:00",
-      "last_success_at": "2026-11-09T20:11:18.578519+00:00",
+      "last_attempt_at": "2026-11-10T20:22:43.203899+00:00",
+      "last_success_at": "2026-11-10T20:24:12.484846+00:00",
       "found": 40
     }
   },
@@ -57,8 +57,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-08T17:57:27.393962+00:00",
       "id": "apple:200648699-3543",
-      "last_seen_at": "2026-11-09T20:08:28.714040+00:00",
-      "last_verified_at": "2026-11-09T20:06:24.262483+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.255599+00:00",
+      "last_verified_at": "2026-11-10T20:19:59.488409+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -123,8 +123,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.452462+00:00",
       "id": "apple:200662668-3543",
-      "last_seen_at": "2026-11-09T20:08:28.725692+00:00",
-      "last_verified_at": "2026-11-09T20:06:53.647145+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.265676+00:00",
+      "last_verified_at": "2026-11-10T20:20:12.020505+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -287,8 +287,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-09T20:08:28.764910+00:00",
       "id": "apple:200686243-0836",
-      "last_seen_at": "2026-11-09T20:08:28.764910+00:00",
-      "last_verified_at": "2026-11-09T20:07:57.898945+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.293491+00:00",
+      "last_verified_at": "2026-11-10T20:20:47.876873+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -314,13 +314,45 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "At Apple, we build products and services that enrich the everyday lives of millions of people around the world. Our Services team is at the forefront of delivering intelligent, delightful experiences powered by Generative AI. We are looking for a senior iOS frameworks engineer to design and build the foundational on-device systems that power features across Apple's services ecosystem — from daemons and frameworks to cloud synchronization and metrics infrastructure.\n\nAs a senior member of the Services engineering team, you will own critical on-device framework and daemon components that enable Generative AI experiences across Apple platforms. This role is focused on platform-level engineering ie: building the systems, services, and infrastructure that sit beneath the UI layer and power intelligent features at scale.\n\nDesigning and implementing frameworks, daemons, and system services that form the backbone of Services experiences on Apple platforms Building efficient inter-process communication layers using XPC to enable secure, performant data exchange between system components Architecting and implementing CloudKit-based data synchronization to deliver seamless cross-device experiences Designing robust interfaces to REST endpoints and backend services, ensuring reliability and graceful degradation Building and maintaining metrics and telemetry frameworks to measure feature health, performance, and user engagement Driving architectural decisions across the team, participating in peer review of architecture, API design, and individual software changes Mentoring and supporting other engineers on the team, raising the bar for engineering quality and technical depth\n\nBachelor's or Master's degree in Computer Science or a related field 6+ years of software engineering experience on client-side or platform-level iOS systems Strong proficiency in Swift and Objective-C, with experience shipping production-quality frameworks, daemons, or system APIs Strong systems programming expertise, including concurrency, multithreading, memory management, and performance tuning Understanding of systems-level concepts such as inter-process communication (XPC), process lifecycle management, and resource constraints Experience integrating client applications with RESTful APIs and cloud services Proficiency with development tools such as Xcode, LLDB, Instruments, and Git Strong communication skills, including the ability to collaborate across a diversity of backgrounds and experiences Highly organized, maintaining patience and composure to effectively operate within ambiguity\n\nExperience with CloudKit or similar distributed data synchronization technologies Experience designing and delivering libraries, frameworks, or public/internal APIs Strong debugging skills across the OS stack — frameworks, daemons, and supporting services Experience optimizing software for performance, energy efficiency, and resource constraints on mobile platforms Familiarity with metrics and telemetry frameworks, including instrumentation, data collection pipelines, and analytics Experience with AI/ML principles or developing software that interfaces with large language models Experience with SQL and database technologies Track record of mentoring engineers and driving technical direction within a team\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-10T20:21:23.307917+00:00",
+      "id": "apple:200692779-0836",
+      "last_seen_at": "2026-11-10T20:21:23.307917+00:00",
+      "last_verified_at": "2026-11-10T20:21:08.506658+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-11-01T04:09:13.068+00:00",
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 324800,
+        "min": 184700
+      },
+      "salary_match": "partial",
+      "score": 70,
+      "source": "apple",
+      "source_id": "200692779-0836",
+      "summary": "At Apple, we build products and services that enrich the everyday lives of millions of people around the world. Our Services team is at the forefront of delivering intelligent, delightful experiences powered by Generative AI. We are looking for a senior iOS frameworks engineer to design and build the foundational on-device systems that power featur",
+      "title": "Senior iOS App Development Engineer - Services Special Project",
+      "url": "https://jobs.apple.com/en-us/details/200692779-0836/senior-ios-app-development-engineer-services-special-project",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "Apple devices have revolutionized how people live, connect, and work. It’s not by chance! By thoughtfully blending intuitive, innovative system software with beautiful hardware, we design and build a uniquely delightful user experience. As the System Experience team, we lead the charge in building this experience. Help us dramatically improve the experience of every iPhone, iPad, and Mac user who wants to manage digital wellbeing – adults, parents, teens, and children. Partner with an energetic, hard-working, fun team of engineers, cross-functional teams, and world-class designers to deliver the best system experiences on the planet.\n\nWe’re the Screen Time team, and we exist to facilitate digital wellbeing whether you’re a parent caring for your child, a teen looking to establish healthy habits, or an adult trying to be more intentional about your boundaries. We’re looking for a senior Engineer to help lead our team as it builds and ships the next generation of digital wellbeing features at Apple. At Apple, we’ve created the most compelling personal computing devices in human history. We want these devices to promote the overall wellbeing of our customers — especially children — by facilitating healthy experiences on their devices. Our challenge is to deliver an experience that is simple to use and understand even as our system’s features get more advanced. As a Staff Engineer on the Screen Time team, your responsibilities will include: - Evolving and realizing the technical vision for Screen Time and working cross-functionality to align on that vision with partner teams - Breaking down the most complex technical challenges into the right phases and abstractions so the work can be distributed across the team - Purposefully and intentionally investing in the growth of junior engineers The implications of succeeding in this role are huge — together, we have the agency to shape healthy habits for billions of people now and into the future!\n\nBachelor of Computer Science or equivalent skills and work experience Track record of success — you have 10+ years of SwiftUI/Swift or UIKit/AppKit/Objective-C software engineering experience with impact to show for it Stellar engineering quality & output — you separate concerns and define well-abstracted interfaces, delivering performant, well-tested, maintainable code with appropriate failure modes Technical leadership — you exemplify “what good looks like” in code, in documentation, making and delivering on commitments, and prioritization Critical thinking with influence — you systematically evaluate the tradeoffs associated with each potential solution to a problem, make an informed decision, and articulate these things well to influence others, driving impact\n\nCustomer focus — you make high-quality, user-centric product decisions Platform API design — you’re proficient at designing, building, and supporting a platform, understanding customer needs and constraints Mentorship — you make everyone around you better and purposefully invest in the growth of your peers — especially junior engineers Drive for customer impact — you are deeply motivated to build the best essential user experiences for billions of users\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $216,200 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099520+00:00",
       "id": "apple:200592178-0836",
-      "last_seen_at": "2026-11-09T20:08:28.732730+00:00",
-      "last_verified_at": "2026-11-09T20:07:01.167000+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.263207+00:00",
+      "last_verified_at": "2026-11-10T20:20:08.541491+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -387,8 +419,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-09T20:08:28.695481+00:00",
-      "last_verified_at": "2026-11-09T20:05:57.663140+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.232611+00:00",
+      "last_verified_at": "2026-11-10T20:19:33.103872+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -419,8 +451,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-09T20:09:47.426227+00:00",
-      "last_verified_at": "2026-11-09T20:08:43.315381+00:00",
+      "last_seen_at": "2026-11-10T20:22:41.949396+00:00",
+      "last_verified_at": "2026-11-10T20:21:38.148416+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -452,8 +484,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-09T20:08:28.612304+00:00",
-      "last_verified_at": "2026-11-09T20:05:42.351985+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.152244+00:00",
+      "last_verified_at": "2026-11-10T20:19:19.774673+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -485,8 +517,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-09T20:08:28.709529+00:00",
-      "last_verified_at": "2026-11-09T20:06:18.762868+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.235235+00:00",
+      "last_verified_at": "2026-11-10T20:19:35.631629+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -518,8 +550,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468478+00:00",
       "id": "apple:200654462-0836",
-      "last_seen_at": "2026-11-09T20:08:28.690860+00:00",
-      "last_verified_at": "2026-11-09T20:05:51.259368+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.226859+00:00",
+      "last_verified_at": "2026-11-10T20:19:28.021395+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -551,8 +583,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.101084+00:00",
       "id": "apple:200656112-0836",
-      "last_seen_at": "2026-11-09T20:08:28.746181+00:00",
-      "last_verified_at": "2026-11-09T20:07:23.862895+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.273372+00:00",
+      "last_verified_at": "2026-11-10T20:20:21.533793+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -619,8 +651,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T20:20:52.036534+00:00",
       "id": "apple:200662789-0836",
-      "last_seen_at": "2026-11-09T20:08:28.758109+00:00",
-      "last_verified_at": "2026-11-09T20:07:40.235685+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.287991+00:00",
+      "last_verified_at": "2026-11-10T20:20:41.274393+00:00",
       "locations": [
         "Boulder, Colorado, United States",
         "Culver City, California, United States",
@@ -656,8 +688,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468139+00:00",
       "id": "apple:200671616-0836",
-      "last_seen_at": "2026-11-09T20:08:28.721174+00:00",
-      "last_verified_at": "2026-11-09T20:06:47.042426+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.301520+00:00",
+      "last_verified_at": "2026-11-10T20:20:57.289315+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -689,8 +721,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-09T20:08:28.751178+00:00",
       "id": "apple:200674686-0836",
-      "last_seen_at": "2026-11-09T20:08:28.751178+00:00",
-      "last_verified_at": "2026-11-09T20:07:29.749614+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.280385+00:00",
+      "last_verified_at": "2026-11-10T20:20:30.636457+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -755,8 +787,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
       "id": "apple:200675591-0836",
-      "last_seen_at": "2026-11-09T20:08:28.727905+00:00",
-      "last_verified_at": "2026-11-09T20:06:56.221318+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.268531+00:00",
+      "last_verified_at": "2026-11-10T20:20:14.813047+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -895,8 +927,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467556+00:00",
       "id": "apple:200678194-0836",
-      "last_seen_at": "2026-11-09T20:08:28.753555+00:00",
-      "last_verified_at": "2026-11-09T20:07:33.139962+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.310968+00:00",
+      "last_verified_at": "2026-11-10T20:21:12.116608+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -969,8 +1001,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.447273+00:00",
       "id": "apple:200691192-3956",
-      "last_seen_at": "2026-11-09T20:08:28.771511+00:00",
-      "last_verified_at": "2026-11-09T20:08:18.041389+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.315953+00:00",
+      "last_verified_at": "2026-11-10T20:21:18.277240+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1035,8 +1067,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099839+00:00",
       "id": "apple:200692906-0836",
-      "last_seen_at": "2026-11-09T20:08:28.702811+00:00",
-      "last_verified_at": "2026-11-09T20:06:07.563273+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.242875+00:00",
+      "last_verified_at": "2026-11-10T20:19:45.600135+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1068,8 +1100,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465999+00:00",
       "id": "apple:200690588-0836",
-      "last_seen_at": "2026-11-08T17:57:27.340002+00:00",
-      "last_verified_at": "2026-11-08T17:56:09.991245+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.245385+00:00",
+      "last_verified_at": "2026-11-10T20:19:47.889332+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1102,8 +1134,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-09T20:08:28.688377+00:00",
-      "last_verified_at": "2026-11-09T20:05:48.952776+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.223836+00:00",
+      "last_verified_at": "2026-11-10T20:19:25.071183+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1136,8 +1168,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468341+00:00",
       "id": "apple:200660654-3577",
-      "last_seen_at": "2026-11-09T20:08:28.760346+00:00",
-      "last_verified_at": "2026-11-09T20:07:42.756096+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.318060+00:00",
+      "last_verified_at": "2026-11-10T20:21:21.672789+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1170,8 +1202,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.665118+00:00",
       "id": "apple:200670523-0836",
-      "last_seen_at": "2026-11-09T20:08:28.718958+00:00",
-      "last_verified_at": "2026-11-09T20:06:38.327200+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.260705+00:00",
+      "last_verified_at": "2026-11-10T20:20:05.333167+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1205,8 +1237,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467136+00:00",
       "id": "apple:200670523-3543",
-      "last_seen_at": "2026-11-09T20:08:28.769340+00:00",
-      "last_verified_at": "2026-11-09T20:08:09.347832+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.298897+00:00",
+      "last_verified_at": "2026-11-10T20:20:54.208038+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1240,8 +1272,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-09T20:08:28.700377+00:00",
-      "last_verified_at": "2026-11-09T20:06:03.656723+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.240362+00:00",
+      "last_verified_at": "2026-11-10T20:19:42.189513+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1308,8 +1340,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.095920+00:00",
       "id": "apple:200679514-0836",
-      "last_seen_at": "2026-11-09T20:08:28.743995+00:00",
-      "last_verified_at": "2026-11-09T20:07:21.082961+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.285571+00:00",
+      "last_verified_at": "2026-11-10T20:20:36.651871+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1378,8 +1410,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465753+00:00",
       "id": "apple:200682051-3956",
-      "last_seen_at": "2026-11-09T20:08:28.711781+00:00",
-      "last_verified_at": "2026-11-09T20:06:21.473307+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.253097+00:00",
+      "last_verified_at": "2026-11-10T20:19:56.155820+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1412,8 +1444,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-09T20:08:28.723405+00:00",
-      "last_verified_at": "2026-11-09T20:06:50.806890+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.276039+00:00",
+      "last_verified_at": "2026-11-10T20:20:24.554084+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1482,8 +1514,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-09T20:08:28.697745+00:00",
-      "last_verified_at": "2026-11-09T20:06:00.544978+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.237836+00:00",
+      "last_verified_at": "2026-11-10T20:19:38.981306+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1654,8 +1686,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467924+00:00",
       "id": "apple:200689757-0836",
-      "last_seen_at": "2026-11-09T20:08:28.748796+00:00",
-      "last_verified_at": "2026-11-09T20:07:26.524812+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.304126+00:00",
+      "last_verified_at": "2026-11-10T20:21:01.867324+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1689,8 +1721,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467240+00:00",
       "id": "apple:200689757-3543",
-      "last_seen_at": "2026-11-09T20:08:28.735161+00:00",
-      "last_verified_at": "2026-11-09T20:07:04.385897+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.291163+00:00",
+      "last_verified_at": "2026-11-10T20:20:45.101350+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1748,6 +1780,40 @@
       "summary": "Imagine what you could do at Apple. Here, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Do you want to help deliver the next amazing Apple product? As a Software Engineer on the Apple Watch Safety & Communic",
       "title": "Software Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200693720-0836/software-engineer-watch-software",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
+      "description": "Do you want to help define the future of app development? Join the UI Frameworks team and empower developers to build better apps with less code. You’ll collaborate with passionate and creative colleagues to meet ambitious goals in an environment that not only encourages, but requires constant curiosity and growth. The work we do together will shape the developer experience on Apple's platforms and beyond for decades to come!\n\nAs an engineer on the UI Frameworks team, you will develop features and APIs across SwiftUI and UIKit that impact all of Apple’s platforms and delight over a billion users. You will be responsible for bringing your ideas to life through all stages of their development: from initial research, to API design and proposals, to testing and development in Swift, to documentation and offering guidance to adopters. Youʼll join us in energetic discussions on each otherʼs work and ideas, alongside members of other teams possessing a variety of different perspectives and domain expertise. The UI Frameworks team is responsible for the core SwiftUI and UIKit frameworks and works closely with UI framework teams across iOS, iPadOS, macOS, watchOS, and tvOS. Youʼll also have the opportunity to collaborate with experts throughout Apple including: compiler engineers, interface designers, and technical writers. Curious and enterprising individuals who take an expansive view of their role will thrive in this multi-disciplinary environment! Our goal is to dramatically improve the correctness, performance, and polish of apps across all of Appleʼs platforms — simultaneously making it easier for beginners to get started and empowering seasoned pros to make their apps shine. Because we have the privilege of collaborating closely with the Swift, Xcode, design, and framework teams up and down the software stack, we believe Apple's UI frameworks can be — by far — the best app development experience in the world. If youʼre interested in helping define this future and pushing the state of the art forward, weʼd love to hear from you!\n\nProficiency with Swift (or the capacity to become proficient quickly) The ability to work collaboratively and explain complex ideas clearly Experience with at least one of the following: native or web app development, framework and API development, graphics and animation systems Bachelorʼs Degree in Computer Science or equivalent experience\n\nHigh standards for quality and attention to detail The desire to learn and grow, keeping pace with cutting edge technologies\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-10T20:21:23.250592+00:00",
+      "id": "apple:200694101-0836",
+      "last_seen_at": "2026-11-10T20:21:23.250592+00:00",
+      "last_verified_at": "2026-11-10T20:19:53.446291+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-11-10T16:40:23.304+00:00",
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 150400
+      },
+      "salary_match": "partial",
+      "score": 30,
+      "source": "apple",
+      "source_id": "200694101-0836",
+      "summary": "Do you want to help define the future of app development? Join the UI Frameworks team and empower developers to build better apps with less code. You’ll collaborate with passionate and creative colleagues to meet ambitious goals in an environment that not only encourages, but requires constant curiosity and growth. The work we do together will shap",
+      "title": "UI Frameworks Engineer, Swift Platform Experience",
+      "url": "https://jobs.apple.com/en-us/details/200694101-0836/ui-frameworks-engineer-swift-platform-experience",
       "verification": "open"
     },
     {
@@ -1826,8 +1892,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468007+00:00",
       "id": "apple:200676418-3543",
-      "last_seen_at": "2026-11-08T17:57:27.372938+00:00",
-      "last_verified_at": "2026-11-08T17:56:53.701154+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.313489+00:00",
+      "last_verified_at": "2026-11-10T20:21:15.688368+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1860,8 +1926,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-09T20:08:28.705056+00:00",
-      "last_verified_at": "2026-11-09T20:06:11.268587+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.282843+00:00",
+      "last_verified_at": "2026-11-10T20:20:32.827533+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1962,8 +2028,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.675843+00:00",
       "id": "apple:200692542",
-      "last_seen_at": "2026-11-09T20:08:28.762451+00:00",
-      "last_verified_at": "2026-11-09T20:07:50.482284+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.306010+00:00",
+      "last_verified_at": "2026-11-10T20:21:04.690520+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2030,8 +2096,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.673397+00:00",
       "id": "apple:200692763-3543",
-      "last_seen_at": "2026-11-09T20:08:28.730183+00:00",
-      "last_verified_at": "2026-11-09T20:06:58.874432+00:00",
+      "last_seen_at": "2026-11-10T20:21:23.270682+00:00",
+      "last_verified_at": "2026-11-10T20:20:18.218343+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2064,8 +2130,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-09T20:09:47.502331+00:00",
-      "last_verified_at": "2026-11-09T20:08:51.376438+00:00",
+      "last_seen_at": "2026-11-10T20:22:42.035953+00:00",
+      "last_verified_at": "2026-11-10T20:21:45.859479+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -2119,8 +2185,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.980441+00:00",
       "id": "google:78657275467571910",
-      "last_seen_at": "2026-11-09T20:09:47.390713+00:00",
-      "last_verified_at": "2026-11-09T20:08:39.286942+00:00",
+      "last_seen_at": "2026-11-10T20:22:41.910447+00:00",
+      "last_verified_at": "2026-11-10T20:21:33.823103+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Los Angeles, CA, USA"
@@ -2147,8 +2213,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-09T20:09:47.405042+00:00",
-      "last_verified_at": "2026-11-09T20:08:41.254091+00:00",
+      "last_seen_at": "2026-11-10T20:22:41.925513+00:00",
+      "last_verified_at": "2026-11-10T20:21:36.278653+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -2175,8 +2241,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-09T20:09:47.466258+00:00",
-      "last_verified_at": "2026-11-09T20:08:47.267361+00:00",
+      "last_seen_at": "2026-11-10T20:22:41.971772+00:00",
+      "last_verified_at": "2026-11-10T20:21:39.750211+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -2194,6 +2260,35 @@
       "summary": "Bachelor’s degree or equivalent practical experience. 2 years of experience programming in Swift, Objective-C, or C++. 2 years of experience with iOS application development. Preferred qualifications: Master's degree or PhD in Computer Science or related technical fields. 2 years of experience with data structures and algorithms. Experience develop",
       "title": "Software Engineer III, Mobile, iOS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/113305266270675654-software-engineer-iii-mobile-ios",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. Experience integrating generative AI tools or LLM interfaces into workflows. 5 years of experience with software engineering and large-scale or mobile/embedded ML/AI system architecture and development in C++, Kotlin/Java, Swift/Objective-C, or Python. 5 years of experience with mobile and on-device ML runtimes and frameworks (e.g., LiteRT/TFLite, AICore, MediaPipe, CoreML or cross-platform C++ runtimes) and hybrid on-device/cloud orchestration. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. Exceptional cross-organizational influence and communication skills, with a proven ability to align technical strategy and execution across mobile platform (Android/iOS), research (GDM), infrastructure, product management, and hardware/device engineering teams. Proven track record leading model and agent hillclimbing (e.g., SFT, RL, LoRA, quantization, prompt/System Instruction tuning, synthetic data generation) and systematic AI quality and performance hillclimbing (architecting automated evaluation frameworks, autoraters, on-device latency/power benchmarks, and end-to-end loss analysis pipelines). Demonstrated technical leadership setting technical strategy, architecting foundational systems, and leading multiple engineers or cross-functional teams to deliver complex, ambiguous mobile AI, on-device ML, or agentic initiatives from conception to large-scale production across Android or iOS. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Our team is at the forefront of building the next generation of wearable conversational AI. We are developing multimodal, agentic AI solutions across various XR devices, utilizing Gemini to create a unique, proactive, and trusted multimodal experience. By combining on-device intelligence with cloud-scale reasoning, this technology delivers instant, natural conversational and agentic intelligence directly to the user's eye, ear, and mobile device—operating seamlessly within real-world mobile and wearable system constraints. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Define the long-term technical solution and lead the architecture, development, and production deployment of scalable, low-latency, multi-turn agentic AI systems across XR devices paired to Android and iOS. Drive the foundational evolution wearable AI and agentic tech stack. Establish the technical direction and lead the architecture for integrating and optimizing on-device LLMs and multimodal models across Android and iOS platforms. Pioneer, prototype, and productionize multimodal AI, agentic reasoning, device-native tool use, and OS/app integrations tailored to always-on streaming audio, video, and mobile context under strict latency and compute constraints. Serve as the principal technical point of contact and bridge across XR, Mobile (Android and iOS), On-Device ML (ODML), and GDM teams.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-10T20:22:42.015741+00:00",
+      "id": "google:79215657723273926",
+      "last_seen_at": "2026-11-10T20:22:42.015741+00:00",
+      "last_verified_at": "2026-11-10T20:21:43.845553+00:00",
+      "locations": [
+        "San Jose, CA, USA",
+        "San Francisco, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "79215657723273926",
+      "summary": "Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. Experience integrating generative AI tools or LLM interfaces into workflows. 5 years of experience with software engineering and large-scale or mobile/embedded ML/AI system architecture and development in C++, Kotlin/Java, Swift/Objective-C, or Pyth",
+      "title": "Staff Software Engineer, Mobile and On-Device Agentic AI, XR",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79215657723273926-staff-software-engineer-mobile-and-ondevice-agentic-ai-xr",
       "verification": "open"
     },
     {
@@ -2232,8 +2327,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312609+00:00",
       "id": "linkedin:4415103800",
-      "last_seen_at": "2026-11-09T20:11:18.496275+00:00",
-      "last_verified_at": "2026-11-09T20:10:32.388941+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.332918+00:00",
+      "last_verified_at": "2026-11-10T20:23:25.975034+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2262,8 +2357,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311288+00:00",
       "id": "linkedin:4454451077",
-      "last_seen_at": "2026-11-09T20:11:18.478557+00:00",
-      "last_verified_at": "2026-11-09T20:10:08.431747+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.297120+00:00",
+      "last_verified_at": "2026-11-10T20:23:02.098211+00:00",
       "locations": [
         "San Bruno, CA, US"
       ],
@@ -2292,8 +2387,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311220+00:00",
       "id": "linkedin:4418828708",
-      "last_seen_at": "2026-11-09T20:11:18.477080+00:00",
-      "last_verified_at": "2026-11-09T20:10:06.509219+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.293439+00:00",
+      "last_verified_at": "2026-11-10T20:23:00.103283+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2322,8 +2417,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311458+00:00",
       "id": "linkedin:4453705945",
-      "last_seen_at": "2026-11-09T20:11:18.481522+00:00",
-      "last_verified_at": "2026-11-09T20:10:12.377779+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.303181+00:00",
+      "last_verified_at": "2026-11-10T20:23:06.001352+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2352,8 +2447,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311755+00:00",
       "id": "linkedin:4461537491",
-      "last_seen_at": "2026-11-09T20:11:18.487425+00:00",
-      "last_verified_at": "2026-11-09T20:10:20.305383+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.315981+00:00",
+      "last_verified_at": "2026-11-10T20:23:14.452768+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -2382,8 +2477,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312396+00:00",
       "id": "linkedin:4461538504",
-      "last_seen_at": "2026-11-09T20:11:18.491750+00:00",
-      "last_verified_at": "2026-11-09T20:10:26.337278+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.324879+00:00",
+      "last_verified_at": "2026-11-10T20:23:20.065354+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2412,8 +2507,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711222+00:00",
       "id": "linkedin:4461542824",
-      "last_seen_at": "2026-11-09T20:11:18.514306+00:00",
-      "last_verified_at": "2026-11-09T20:10:56.398489+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.368081+00:00",
+      "last_verified_at": "2026-11-10T20:23:49.929999+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -2442,8 +2537,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710801+00:00",
       "id": "linkedin:4461543800",
-      "last_seen_at": "2026-11-09T20:11:18.507729+00:00",
-      "last_verified_at": "2026-11-09T20:10:48.327067+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.357437+00:00",
+      "last_verified_at": "2026-11-10T20:23:42.021362+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2472,8 +2567,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311129+00:00",
       "id": "linkedin:4478737703",
-      "last_seen_at": "2026-11-09T20:11:18.475574+00:00",
-      "last_verified_at": "2026-11-09T20:10:04.277018+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.290488+00:00",
+      "last_verified_at": "2026-11-10T20:22:57.897884+00:00",
       "locations": [
         "Milpitas, CA, US"
       ],
@@ -2502,8 +2597,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311027+00:00",
       "id": "linkedin:4214156833",
-      "last_seen_at": "2026-11-09T20:11:18.473932+00:00",
-      "last_verified_at": "2026-11-09T20:10:02.588320+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.287325+00:00",
+      "last_verified_at": "2026-11-10T20:22:56.166115+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2527,8 +2622,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312474+00:00",
       "id": "linkedin:4337751650",
-      "last_seen_at": "2026-11-09T20:11:18.493230+00:00",
-      "last_verified_at": "2026-11-09T20:10:28.394074+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.327466+00:00",
+      "last_verified_at": "2026-11-10T20:23:22.300142+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2552,8 +2647,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311358+00:00",
       "id": "linkedin:4474584105",
-      "last_seen_at": "2026-11-09T20:11:18.480025+00:00",
-      "last_verified_at": "2026-11-09T20:10:10.384154+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.300177+00:00",
+      "last_verified_at": "2026-11-10T20:23:04.121330+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2570,6 +2665,31 @@
       "verification": "open"
     },
     {
+      "company": "L7Commerce",
+      "company_priority": 1,
+      "description": "Los Angeles Apply for this job Job Description Salary: $130,000 to $140,000 per Annum Job Summary We are seeking a highly skilled and experienced iOS Developer to join our team in Litmus7. In this role, the person will be responsible for designing, developing, and maintaining mobile applications targeting iOS platform for clients of Litmus7, ensuring they are robust and high performing. The person will collaborate closely with cross-functional teams to deliver high-quality solutions. Key Responsibilities Create and maintain high-quality, scalable, and reusable iOS applications aligned with business requirements. Work closely with product managers, UX/UI designers, and backend developers to integrate user-facing features and backend services. Write clean, maintainable, and efficient code while adhering to best practices, including unit testing, debugging, and code reviews. Identify and resolve performance bottlenecks, memory leaks, and other system inefficiencies. Stay up to date with the latest iOS development trends, frameworks, and tools to ensure the use of cutting-edge technologies. Required Qualifications A minimum of 10 years of professional experience in iOS development. Proficiency in Swift and Objective-C. Expertise in UIKit and SwiftUI. Proven experience with the Combine framework. Strong understanding of iOS frameworks such as Core Data. Experience with animations and transitions. Proven experience with MVVM and familiarity with other architectural patterns Familiarity with RESTful and GraphQL APIs and integration with third-party libraries. Demonstrated expertise in unit testing and UI testing. Knowledge of iOS design principles and Apple’s Human Interface Guidelines. Experience optimizing the performance of SwiftUI applications. Understanding of memory management in Swift and resolving related issues in SwiftUI applications. Hands-on experience in multi-threaded programming and a good understanding of networking concepts. Experience with version control systems like Git or Bitbucket. Familiarity with CI/CD tools such as Jenkins, Bamboo and test tools such as XCTest Experience with iOS App Store submission and release processes. Knowledge of security best practices. Excellent problem-solving and analytical skills. Strong communication and interpersonal abilities Tell us about you Email * Candidate Name * Mobile * +1 India (भारत)+91 United States+1 United Kingdom+44 Afghanistan (‫افغانستان‬‎)+93 Albania (Shqipëri)+355 Algeria (‫الجزائر‬‎)+213 American Samoa+1 Andorra+376 Angola+244 Anguilla+1 Antigua and Barbuda+1 Argentina+54 Armenia (Հայաստան)+374 Aruba+297 Australia+61 Austria (Österreich)+43 Azerbaijan (Azərbaycan)+994 Bahamas+1 Bahrain (‫البحرين‬‎)+973 Bangladesh (বাংলাদেশ)+880 Barbados+1 Belarus (Беларусь)+375 Belgium (België)+32 Belize+501 Benin (Bénin)+229 Bermuda+1 Bhutan (འབྲུག)+975 Bolivia+591 Bosnia and Herzegovina (Босна и Херцеговина)+387 Botswana+267 Brazil (Brasil)+55 British Indian Ocean Territory+246 British Virgin Islands+1 Brunei+673 Bulgaria (България)+359 Burkina Faso+226 Burundi (Uburundi)+257 Cambodia (កម្ពុជា)+855 Cameroon (Cameroun)+237 Canada+1 Cape Verde (Kabu Verdi)+238 Caribbean Netherlands+599 Cayman Islands+1 Central African Republic (République centrafricaine)+236 Chad (Tchad)+235 Chile+56 China (中国)+86 Christmas Island+61 Cocos (Keeling) Islands+61 Colombia+57 Comoros (‫جزر القمر‬‎)+269 Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)+243 Congo (Republic) (Congo-Brazzaville)+242 Cook Islands+682 Costa Rica+506 Côte d’Ivoire+225 Croatia (Hrvatska)+385 Cuba+53 Curaçao+599 Cyprus (Κύπρος)+357 Czech Republic (Česká republika)+420 Denmark (Danmark)+45 Djibouti+253 Dominica+1 Dominican Republic (República Dominicana)+1 Ecuador+593 Egypt (‫مصر‬‎)+20 El Salvador+503 Equatorial Guinea (Guinea Ecuatorial)+240 Eritrea+291 Estonia (Eesti)+372 Ethiopia+251 Falkland Islands (Islas Malvinas)+500 Faroe Islands (Føroyar)+298 Fiji+679 Finland (Suomi)+358 France+33 French Guiana (Guyane française)+594 French Polynesia (Polynésie française)+689 Gabon+241 Gambia+220 Georgia (საქართველო)+995 Germany (Deutschland)+49 Ghana (Gaana)+233 Gibraltar+350 Greece (Ελλάδα)+30 Greenland (Kalaallit Nunaat)+299 Grenada+1 Guadeloupe+590 Guam+1 Guatemala+502 Guernsey+44 Guinea (Guinée)+224 Guinea-Bissau (Guiné Bissau)+245 Guyana+592 Haiti+509 Honduras+504 Hong Kong (香港)+852 Hungary (Magyarország)+36 Iceland (Ísland)+354 India (भारत)+91 Indonesia+62 Iran (‫ایران‬‎)+98 Iraq (‫العراق‬‎)+964 Ireland+353 Isle of Man+44 Israel (‫ישראל‬‎)+972 Italy (Italia)+39 Jamaica+1 Japan (日本)+81 Jersey+44 Jordan (‫الأردن‬‎)+962 Kazakhstan (Казахстан)+7 Kenya+254 Kiribati+686 Kosovo+383 Kuwait (‫الكويت‬‎)+965 Kyrgyzstan (Кыргызстан)+996 Laos (ລາວ)+856 Latvia (Latvija)+371 Lebanon (‫لبنان‬‎)+961 Lesotho+266 Liberia+231 Libya (‫ليبيا‬‎)+218 Liechtenstein+423 Lithuania (Lietuva)+370 Luxembourg+352 Macau (澳門)+853 Macedonia (FYROM) (Македонија)+389 Madagascar (Madagasikara)+261 Malawi+265 Malaysia+60 Maldives+960 Mali+223 Malta+356 Marshall Islands+692 Martinique+596 Mauritania (‫موريتانيا‬‎)+222 Mauritius (Moris)+230 Mayotte+262 Mexico (México)+52 Micronesia+691 Moldova (Republica Moldova)+373 Monaco+377 Mongolia (Монгол)+976 Montenegro (Crna Gora)+382 Montserrat+1 Morocco (‫المغرب‬‎)+212 Mozambique (Moçambique)+258 Myanmar (Burma) (မြန်မာ)+95 Namibia (Namibië)+264 Nauru+674 Nepal (नेपाल)+977 Netherlands (Nederland)+31 New Caledonia (Nouvelle-Calédonie)+687 New Zealand+64 Nicaragua+505 Niger (Nijar)+227 Nigeria+234 Niue+683 Norfolk Island+672 North Korea (조선 민주주의 인민 공화국)+850 Northern Mariana Islands+1 Norway (Norge)+47 Oman (‫عُمان‬‎)+968 Pakistan (‫پاکستان‬‎)+92 Palau+680 Palestine (‫فلسطين‬‎)+970 Panama (Panamá)+507 Papua New Guinea+675 Paraguay+595 Peru (Perú)+51 Philippines+63 Poland (Polska)+48 Portugal+351 Puerto Rico+1 Qatar (‫قطر‬‎)+974 Réunion (La Réunion)+262 Romania (România)+40 Russia (Россия)+7 Rwanda+250 Saint Barthélemy+590 Saint Helena+290 Saint Kitts and Nevis+1 Saint Lucia+1 Saint Martin (Saint-Martin (partie française))+590 Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)+508 Saint Vincent and the Grenadines+1 Samoa+685 San Marino+378 São Tomé and Príncipe (São Tomé e Príncipe)+239 Saudi Arabia (‫المملكة العربية السعودية‬‎)+966 Senegal (Sénégal)+221 Serbia (Србија)+381 Seychelles+248 Sierra Leone+232 Singapore+65 Sint Maarten+1 Slovakia (Slovensko)+421 Slovenia (Slovenija)+386 Solomon Islands+677 Somalia (Soomaaliya)+252 South Africa+27 South Korea (대한민국)+82 South Sudan (‫جنوب السودان‬‎)+211 Spain (España)+34 Sri Lanka (ශ්රී ලංකාව)+94 Sudan (‫السودان‬‎)+249 Suriname+597 Svalbard and Jan Mayen+47 Swaziland+268 Sweden (Sverige)+46 Switzerland (Schweiz)+41 Syria (‫سوريا‬‎)+963 Taiwan (台灣)+886 Tajikistan+992 Tanzania+255 Thailand (ไทย)+66 Timor-Leste+670 Togo+228 Tokelau+690 Tonga+676 Trinidad and Tobago+1 Tunisia (‫تونس‬‎)+216 Turkey (Türkiye)+90 Turkmenistan+993 Turks and Caicos Islands+1 Tuvalu+688 U.S. Virgin Islands+1 Uganda+256 Ukraine (Україна)+380 United Arab Emirates (‫الإمارات العربية المتحدة‬‎)+971 United Kingdom+44 United States+1 Uruguay+598 Uzbekistan (Oʻzbekiston)+998 Vanuatu+678 Vatican City (Città del Vaticano)+39 Venezuela+58 Vietnam (Việt Nam)+84 Wallis and Futuna (Wallis-et-Futuna)+681 Western Sahara (‫الصحراء الغربية‬‎)+212 Yemen (‫اليمن‬‎)+967 Zambia+260 Zimbabwe+263 Åland Islands+358 Application Instructions We already have your resume in our system. To apply using your existing resume, click Apply below. To update your resume, click Update Resume, select your new document, and then click Apply to complete your application. Note: If any changes are required to your mobile number or name, kindly reach out to our team hires@litmus7.com",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-10T20:24:12.400749+00:00",
+      "id": "linkedin:4477003083",
+      "last_seen_at": "2026-11-10T20:24:12.400749+00:00",
+      "last_verified_at": "2026-11-10T20:24:12.205016+00:00",
+      "locations": [
+        "Los Angeles, CA, US"
+      ],
+      "posted_at": "2026-10-14T18:47:24.000Z",
+      "reasons": [],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "linkedin",
+      "source_id": "4477003083",
+      "summary": "Los Angeles Apply for this job Job Description Salary: $130,000 to $140,000 per Annum Job Summary We are seeking a highly skilled and experienced iOS Developer to join our team in Litmus7. In this role, the person will be responsible for designing, developing, and maintaining mobile applications targeting iOS platform for clients of Litmus7, ensuri",
+      "title": "Senior iOS Developer",
+      "url": "https://www.linkedin.com/jobs/view/senior-ios-developer-at-l7commerce-4477003083",
+      "verification": "open"
+    },
+    {
       "company": "Scout Motors Inc.",
       "company_priority": 1,
       "description": "Here at Scout Motors, we're carrying forward the heritage of one of the most iconic American vehicles in history. A vehicle dating back to 1960. One that forged the path for future generations of rugged SUVs and trucks and will do so once again. But Scout is more than just a brand, it’s a legacy steeped in a culture of exploration, caretaking, and hard work. The Scout brand is all about respect. Respect for the past and the future by taking an iconic American brand that hasn’t been around for a while, electrifying it, digitizing it, and loading it with American innovation. Respect for communities by creating a company that stands for its people and its customers. Respect for both work and play, with vehicles that are equally at home at a camp site, a job site, or on a Tuesday commute. And respect for our customers by developing two powertrains that meet their requirements — an all-electric powertrain as well as the Harvester™ range extender powertrain which includes a built-in gas-powered generator with an estimated 500 miles of combined range. At Scout Motors, we empower our talented, inclusive, and entrepreneurial teams to innovate. What makes a Scout employee? Someone who is a visionary and a leader, who seeks new paths and shares lessons learned. A knowledgeable doer who collaborates across the company to build better. A go-getter with unrivaled passion. Join us at Scout Motors and be part of shaping the future of transportation. If you're ready to drive change and make history, apply now! What you’ll do As a Staff Software Engineer (iOS) on the Digital Products team, you will provide technical leadership for the architecture, development, and evolution of our iOS platform, helping shape the future of the connected vehicle experience. You will drive the design and delivery of scalable, high-quality iOS applications and services across key customer-facing products, including vehicle connectivity, mapping and navigation, EV charging experiences, vehicle purchasing journeys, and other strategic digital initiatives. In this role, you will partner closely with other engineers, product management, design, and cross-functional stakeholders to define and execute the iOS engineering strategy. You will influence technical direction across multiple teams, establish best practices, and ensure architectural consistency, performance, reliability, and maintainability across the iOS ecosystem. As a technical leader, you will lead complex initiatives from concept through delivery, balancing near-term business needs with long-term platform investments. You will drive technical decision-making, identify and mitigate risks, and champion engineering excellence through code quality, operational rigor, and continuous improvement. You will also play a key role in developing engineering talent by mentoring senior and junior engineers, providing technical guidance, fostering collaboration, and elevating the overall effectiveness of the iOS organization. Become part of an iconic brand that is set to revolutionize the electric pick-up truck & rugged SUV marketplace by achieving the following: Defining and driving the technical vision, architecture, and long-term strategy for our iOS platform and customer-facing mobile experiences. Mentoring and coaching engineers at all levels through architecture reviews, design discussions, code reviews, technical guidance, and hands-on collaboration. Identifying and resolving systemic challenges related to scalability, performance, reliability, and developer productivity across the mobile ecosystem. Staying current with emerging technologies and industry trends in mobile development, advocating for the adoption of new tools and techniques as appropriate. Location & Travel Expectations : This role will be based out of the Scout Motors location in Fremont, California. This role requires 1-3 days per week in the office, with regular in-person meetings and events. Subject to change. Applicants should expect that the role will require the ability to convene with Scout colleagues in person and travel to participate in events on behalf of the company from time to time. What you’ll bring We expect all Scout employees to have integrity, curiosity, resourcefulness, and strive to exhibit a positive attitude, as well as a growth mindset. You’ll be comfortable with change and flexible in a fast-paced, high-growth environment. You’ll take a collaborative approach to achieve ambitious goals. Here's what else you'll bring: Bachelor's degree in Computer Science, Engineering, or a related field. 8+ years of hands-on experience in software engineering shipping customer facing applications on iOS. Deep expertise in Swift, SwiftUI, and modern iOS development practices, with a strong track record of delivering high-quality mobile experiences. Proven experience defining and driving mobile architecture, technical strategy, and engineering best practices across multiple products or teams. Experience with version control systems (e.g., Git), CI/CD pipelines and mobile release process. Strong communication and influencing skills, with the ability to effectively communicate technical concepts and strategic recommendations to engineers, product managers, designers, and executive stakeholders. Experience operating in start-up settings, launching 0 to 1 product, and driving graduation to highly customized applications. Ability to effectively manage multiple priorities and stakeholders in a fast-paced, dynamic environment. Passion for mobile technology and a commitment to delivering exceptional user experiences. Preferred Qualifications: Experience building systems in the automotive industry, or experience building mobile apps that connect to IOT devices. Experience with mobile app testing, experimentation frameworks and automation frameworks. Experience with cloud technologies and services, such as AWS or Azure. What you'll gain The benefits of joining Scout include the chance to build products and a company from the ground up. This is a chance to create something new and lasting – with an iconic brand at its foundation. In addition, Scout provides competitive compensation and benefits to support your physical, mental, and financial wellbeing. Program specifics are detailed in company policies and employee benefit guides, select highlights: Competitive insurance including: Medical, dental, vision and income protection plans 401(k) program with: An employer match and immediate vesting Generous Paid Time Off including: 20 days planned PTO, as accrued 40 hours of unplanned PTO and 14 company or floating holidays, annually Up to 16 weeks of paid parental leave for biological and adoptive parents of all genders Paid leave for circumstances related to bereavement, jury duty, voting time, or military leave Pay Transparency This is a full-time, exempt position eligible to receive a base salary and to participate in an annual performance bonus program. Final salary offered will be determined based on factors including but not limited to the candidate's skills and experience. The annual performance bonus program is preset and not candidate dependent. Initial base salary range = $165,000.00 - $200,000.00 Initial California, Washington and New York base salary range = 181,500 - $220,000 Internal leveling code: IC8 Notice to applicants: To be considered for career opportunities at Scout Motors, applicants must be 18 years of age or older. Residing in San Francisco: Pursuant to the San Francisco Fair Chance Ordinance, Scout Motors will consider for employment qualified applicants with arrest and conviction records. Residing in Los Angeles: Scout Motors will consider for employment qualified applicants with criminal histories in a manner consistent with the Los Angeles Fair Chance Initiative for Hiring Ordinance. Residing in New York City: This role is not eligible for remote work in New York City. Equal Opportunity Scout Motors is committed to employing a diverse workforce and is proud to be an Equal Opportunity Employer. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, disability, pregnancy, or any other characteristics protected by law. Scout Motors is committed to compliance with all applicable fair employment practice laws. If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please contact ScoutAccommodations@scoutmotors.com.",
@@ -2577,8 +2697,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711332+00:00",
       "id": "linkedin:4434861836",
-      "last_seen_at": "2026-11-09T20:11:18.515765+00:00",
-      "last_verified_at": "2026-11-09T20:10:58.396862+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.360256+00:00",
+      "last_verified_at": "2026-11-10T20:23:44.000922+00:00",
       "locations": [
         "Fremont, CA, US"
       ],
@@ -2602,8 +2722,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711876+00:00",
       "id": "linkedin:4477726518",
-      "last_seen_at": "2026-11-09T20:11:18.522935+00:00",
-      "last_verified_at": "2026-11-09T20:11:06.343202+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.382919+00:00",
+      "last_verified_at": "2026-11-10T20:24:00.121927+00:00",
       "locations": [
         "Menlo Park, CA, US"
       ],
@@ -2627,8 +2747,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.714622+00:00",
       "id": "linkedin:4440624056",
-      "last_seen_at": "2026-11-09T20:11:18.528862+00:00",
-      "last_verified_at": "2026-11-09T20:11:14.456655+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.392218+00:00",
+      "last_verified_at": "2026-11-10T20:24:06.131560+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -2659,8 +2779,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710600+00:00",
       "id": "linkedin:4340077381",
-      "last_seen_at": "2026-11-09T20:11:18.504848+00:00",
-      "last_verified_at": "2026-11-09T20:10:44.338378+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.351497+00:00",
+      "last_verified_at": "2026-11-10T20:23:37.957840+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -2691,8 +2811,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710142+00:00",
       "id": "linkedin:4410339271",
-      "last_seen_at": "2026-11-09T20:11:18.499130+00:00",
-      "last_verified_at": "2026-11-09T20:10:36.406110+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.339076+00:00",
+      "last_verified_at": "2026-11-10T20:23:30.146208+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2723,8 +2843,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710365+00:00",
       "id": "linkedin:4435897172",
-      "last_seen_at": "2026-11-09T20:11:18.501958+00:00",
-      "last_verified_at": "2026-11-09T20:10:40.364163+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.345595+00:00",
+      "last_verified_at": "2026-11-10T20:23:33.957931+00:00",
       "locations": [
         "Remote — Los Angeles, CA, US"
       ],
@@ -2777,8 +2897,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.310192+00:00",
       "id": "linkedin:4476984558",
-      "last_seen_at": "2026-11-09T20:11:18.471511+00:00",
-      "last_verified_at": "2026-11-09T20:10:00.504687+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.282853+00:00",
+      "last_verified_at": "2026-11-10T20:22:54.092724+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -2804,8 +2924,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710025+00:00",
       "id": "linkedin:4482416520",
-      "last_seen_at": "2026-11-09T20:11:18.497707+00:00",
-      "last_verified_at": "2026-11-09T20:10:34.498287+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.336207+00:00",
+      "last_verified_at": "2026-11-10T20:23:28.082871+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -2831,8 +2951,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311678+00:00",
       "id": "linkedin:4424263660",
-      "last_seen_at": "2026-11-09T20:11:18.486001+00:00",
-      "last_verified_at": "2026-11-09T20:10:18.357263+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.312913+00:00",
+      "last_verified_at": "2026-11-10T20:23:12.127293+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2858,8 +2978,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711026+00:00",
       "id": "linkedin:4448559334",
-      "last_seen_at": "2026-11-09T20:11:18.511357+00:00",
-      "last_verified_at": "2026-11-09T20:10:52.420265+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.363061+00:00",
+      "last_verified_at": "2026-11-10T20:23:46.083878+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -2885,8 +3005,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711441+00:00",
       "id": "linkedin:4468926172",
-      "last_seen_at": "2026-11-09T20:11:18.517146+00:00",
-      "last_verified_at": "2026-11-09T20:11:00.362826+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.374269+00:00",
+      "last_verified_at": "2026-11-10T20:23:54.188128+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2912,8 +3032,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.712882+00:00",
       "id": "linkedin:4480515438",
-      "last_seen_at": "2026-11-09T20:11:18.524484+00:00",
-      "last_verified_at": "2026-11-09T20:11:08.303770+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.385723+00:00",
+      "last_verified_at": "2026-11-10T20:24:02.203319+00:00",
       "locations": [
         "Los Angeles, CA, US"
       ],
@@ -2959,6 +3079,33 @@
       "verification": "open"
     },
     {
+      "company": "Uber",
+      "company_priority": 1,
+      "description": "About The Role What we do The Experimentation team provides cutting edge tooling and methodologies for all teams at Uber to make rapid decisions for their product iterations. Experimentation is an exciting domain that combines multiple disciplines of Software Engineering (Backend, Distributed Systems, Mobile, Web, Data Infra), Data Science, and Product Design. Every major launch across any of Uber’s Rides, Delivery, Earner, Freight, and Uber For Business (U4B) organizations leverages the Experimentation platform to determine how new features impact key business metrics. Virtually all Engineers, Scientists, and Product Managers at the company use our platform on a daily basis to launch, monitor, test, and make changes to Uber’s ecosystem. Why it matters Velocity with Confidence: By automating experiment design, rollout, and analysis, we reduce the cost of iteration and let teams validate the impact of features our members love. Company Wide Reach: Virtually every engineer, data scientist, and product manager touches our platform daily to launch, monitor, and refine Uber’s ecosystem. Business Impact at Scale: Decisions backed by our tooling safeguard core metrics while empowering innovators to push boundaries. What You’ll Do Your main responsibilities will be: Be responsible for the design, implementation, and delivery of complex projects Build highly reliable and resilient features in our iOS Mobile SDK Collaborate with cross-functional mobile developer teams to enable and support the business Identify and fix bugs and reliability of current systems Bring in your passionate self and positively impact the team around you Basic Qualifications Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 5-years full-time Software Engineering work experience, WHICH INCLUDES 3-years total technical software engineering experience in one or more of the following specialized areas: iOS development Swift programming Objective C programming Note the 3-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated. Preferred Qualifications Experience in other mobile platform engineering teams (versus product engineering teams) Deep iOS SDK/Framework Development: Experience in architecting and optimizing complex mobile libraries, with a strong focus on low-level performance, caching, and storage behavior to ensure the core platform is fast and reliable. Platform Tooling and Automation: Expertise in building developer utilities, CI/CD pipelines, or sophisticated tooling that automates processes like feature rollout, validation, and auto-rollback to improve developer safety and velocity. Experimentation Systems: Experience or interest in working on the core logic behind feature flags, A/B testing, and rollout control, helping to shape the future of how new features are delivered to millions of users. For San Francisco, CA-based roles: The base salary range for this role is USD $202,000 per year - USD $224,000 per year. You will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits. Ready to Ride? This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you. You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements. Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.",
+      "eligibility": "needs_review",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-10T20:24:12.306080+00:00",
+      "id": "linkedin:4487444291",
+      "last_seen_at": "2026-11-10T20:24:12.306080+00:00",
+      "last_verified_at": "2026-11-10T20:23:08.150843+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-11-10T05:32:15.000Z",
+      "reasons": [
+        "Seniority equivalence requires review"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "linkedin",
+      "source_id": "4487444291",
+      "summary": "About The Role What we do The Experimentation team provides cutting edge tooling and methodologies for all teams at Uber to make rapid decisions for their product iterations. Experimentation is an exciting domain that combines multiple disciplines of Software Engineering (Backend, Distributed Systems, Mobile, Web, Data Infra), Data Science, and Pro",
+      "title": "Sr Software Engineer- iOS, Experimentation",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-ios-experimentation-at-uber-4487444291",
+      "verification": "open"
+    },
+    {
       "company": "SpaceX Super Intelligence",
       "company_priority": 1,
       "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next. SR. MOBILE IOS ENGINEER We're seeking an exceptional iOS engineer to join a small, high-impact team building X for iOS, the app millions of people use every day to see what's happening and join the global town square. You’ll work in a fast paced environment and take ownership of constantly improving the app; from groundbreaking new features to micro optimizations. RESPONSIBILITIES: Craft delightful, intuitive user experiences that redefine how people interact with the app Obsess over every pixel, animation, and interaction, ensuring the experience feels magical and seamless Build blazing-fast, highly performant systems where every millisecond counts Drive technical and product decisions, collaborating with designers, backend, android and web engineers Own the quality of the products you build - including running a/b tests, finding issues, and proactively making improvements Be proactive in finding ways to improve the app - from user feedback and from your own daily experience on the app BASIC QUALIFICATIONS: Experience in Swift and UIKit PREFERRED SKILLS AND EXPERIENCE: Deep expertise in the Apple ecosystem and related development tools Track record of shipping standout apps or standout features within apps Deep expertise in iOS development, particularly with Swift. We seek individuals who operate at the highest levels of their craft Excel at delivering results swiftly, often in a fraction of the time others require. Speed is a core value at SpaceXSI—we must act decisively to succeed A sharp product sense, with an ability to empathize with users, anticipate their needs, and translate that into features that delight and deliver value Proficient in performance optimization—memory, CPU, GPU—using low-level tools to deliver blazing-fast systems Experienced in designing and shipping intuitive, pixel-perfect mobile UIs that redefine how users interact with UI’s Skilled in concurrency and reactive programming (Combine) for responsive, real-time apps Built high-throughput integrations with APIs or AI model outputs, ensuring seamless data flow. Capable of owning complex features end-to-end, from architecture to App Store deployment, with a focus on speed and scalability COMPENSATION AND BENEFITS: $200,000 - $375,000 USD Base salary is just one part of our total rewards package at SpaceXSI , which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks. SpaceXSI is an equal opportunity employer. For details on data processing, view our Recruitment Privacy Notice.",
@@ -2993,8 +3140,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-07T19:22:39.141720+00:00",
       "id": "linkedin:4488117574",
-      "last_seen_at": "2026-11-09T20:11:18.527414+00:00",
-      "last_verified_at": "2026-11-09T20:11:12.323273+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.380026+00:00",
+      "last_verified_at": "2026-11-10T20:23:58.178764+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -3020,8 +3167,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-07T19:22:39.145496+00:00",
       "id": "linkedin:4486242182",
-      "last_seen_at": "2026-11-09T20:11:18.530237+00:00",
-      "last_verified_at": "2026-11-09T20:11:16.391121+00:00",
+      "last_seen_at": "2026-11-10T20:24:12.395129+00:00",
+      "last_verified_at": "2026-11-10T20:24:08.369218+00:00",
       "locations": [
         "California, United States, US"
       ],
@@ -3040,5 +3187,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 9
+  "update_sequence": 10
 }
