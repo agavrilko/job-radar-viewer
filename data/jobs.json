@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T17:21:23.304806+00:00",
-  "run_id": "e041796fb9054cdd8cabb7ac90e4c810",
+  "generated_at": "2026-11-13T19:07:53.584794+00:00",
+  "run_id": "858ede599d244e488e884e67be165ae2",
   "coverage": "partial",
   "sources": {
     "apple": {
-      "status": "success",
-      "last_attempt_at": "2026-11-12T17:16:00.958652+00:00",
+      "status": "partial",
+      "last_attempt_at": "2026-11-13T18:53:06.422720+00:00",
       "last_success_at": "2026-11-12T17:19:11.540407+00:00",
-      "found": 40
+      "found": 27
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-12T17:19:11.548382+00:00",
-      "last_success_at": "2026-11-12T17:20:30.796246+00:00",
+      "last_attempt_at": "2026-11-13T19:05:51.711244+00:00",
+      "last_success_at": "2026-11-13T19:07:11.122293+00:00",
       "found": 35
     },
     "linkedin": {
       "status": "partial",
-      "last_attempt_at": "2026-11-12T17:20:31.257572+00:00",
+      "last_attempt_at": "2026-11-13T19:07:11.589603+00:00",
       "last_success_at": "2026-11-11T18:56:15.101284+00:00",
-      "found": 20
+      "found": 15
     }
   },
   "jobs": [
@@ -351,8 +351,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099520+00:00",
       "id": "apple:200592178-0836",
-      "last_seen_at": "2026-11-12T17:19:11.440037+00:00",
-      "last_verified_at": "2026-11-12T17:18:41.346009+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.605360+00:00",
+      "last_verified_at": "2026-11-13T19:03:46.271575+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -451,8 +451,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-12T17:20:30.119923+00:00",
-      "last_verified_at": "2026-11-12T17:19:26.181097+00:00",
+      "last_seen_at": "2026-11-13T19:07:10.298159+00:00",
+      "last_verified_at": "2026-11-13T19:06:06.132373+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -484,8 +484,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-12T17:19:11.264876+00:00",
-      "last_verified_at": "2026-11-12T17:16:24.000277+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.442261+00:00",
+      "last_verified_at": "2026-11-13T18:54:17.317933+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -517,8 +517,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-12T17:19:11.361992+00:00",
-      "last_verified_at": "2026-11-12T17:16:54.171451+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.561633+00:00",
+      "last_verified_at": "2026-11-13T18:58:59.539063+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -583,8 +583,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.101084+00:00",
       "id": "apple:200656112-0836",
-      "last_seen_at": "2026-11-12T17:19:11.457766+00:00",
-      "last_verified_at": "2026-11-12T17:19:05.959432+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.592219+00:00",
+      "last_verified_at": "2026-11-13T19:02:29.120391+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -651,8 +651,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T20:20:52.036534+00:00",
       "id": "apple:200662789-0836",
-      "last_seen_at": "2026-11-10T20:21:23.287991+00:00",
-      "last_verified_at": "2026-11-10T20:20:41.274393+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.575220+00:00",
+      "last_verified_at": "2026-11-13T18:59:34.053339+00:00",
       "locations": [
         "Boulder, Colorado, United States",
         "Culver City, California, United States",
@@ -787,8 +787,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
       "id": "apple:200675591-0836",
-      "last_seen_at": "2026-11-12T17:19:11.404621+00:00",
-      "last_verified_at": "2026-11-12T17:17:54.673708+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.568431+00:00",
+      "last_verified_at": "2026-11-13T18:59:07.859438+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -927,8 +927,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467556+00:00",
       "id": "apple:200678194-0836",
-      "last_seen_at": "2026-11-10T20:21:23.310968+00:00",
-      "last_verified_at": "2026-11-10T20:21:12.116608+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.618664+00:00",
+      "last_verified_at": "2026-11-13T19:05:19.747516+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -1001,8 +1001,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.447273+00:00",
       "id": "apple:200691192-3956",
-      "last_seen_at": "2026-11-12T17:19:11.424771+00:00",
-      "last_verified_at": "2026-11-12T17:18:20.896324+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.615257+00:00",
+      "last_verified_at": "2026-11-13T19:05:11.658495+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1208,8 +1208,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-12T17:19:11.350540+00:00",
-      "last_verified_at": "2026-11-12T17:16:37.334419+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.533724+00:00",
+      "last_verified_at": "2026-11-13T18:54:55.298310+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1242,8 +1242,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468341+00:00",
       "id": "apple:200660654-3577",
-      "last_seen_at": "2026-11-12T17:19:11.442983+00:00",
-      "last_verified_at": "2026-11-12T17:18:43.423920+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.595534+00:00",
+      "last_verified_at": "2026-11-13T19:02:40.231024+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1276,8 +1276,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.665118+00:00",
       "id": "apple:200670523-0836",
-      "last_seen_at": "2026-11-12T17:19:11.407523+00:00",
-      "last_verified_at": "2026-11-12T17:17:57.827253+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.558258+00:00",
+      "last_verified_at": "2026-11-13T18:58:38.915690+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1345,8 +1345,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-12T17:19:11.368431+00:00",
-      "last_verified_at": "2026-11-12T17:17:04.520339+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.544524+00:00",
+      "last_verified_at": "2026-11-13T18:56:41.648928+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1413,8 +1413,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.095920+00:00",
       "id": "apple:200679514-0836",
-      "last_seen_at": "2026-11-12T17:19:11.422111+00:00",
-      "last_verified_at": "2026-11-12T17:18:18.518384+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.571811+00:00",
+      "last_verified_at": "2026-11-13T18:59:24.434631+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1448,8 +1448,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.098126+00:00",
       "id": "apple:200679514-3956",
-      "last_seen_at": "2026-11-12T17:19:11.436957+00:00",
-      "last_verified_at": "2026-11-12T17:18:38.974041+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.602122+00:00",
+      "last_verified_at": "2026-11-13T19:03:25.955417+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1483,8 +1483,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465753+00:00",
       "id": "apple:200682051-3956",
-      "last_seen_at": "2026-11-12T17:19:11.383813+00:00",
-      "last_verified_at": "2026-11-12T17:17:28.347971+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.554920+00:00",
+      "last_verified_at": "2026-11-13T18:57:51.943810+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1517,8 +1517,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-12T17:19:11.398750+00:00",
-      "last_verified_at": "2026-11-12T17:17:44.484598+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.564730+00:00",
+      "last_verified_at": "2026-11-13T18:59:03.775855+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1587,8 +1587,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-12T17:19:11.365511+00:00",
-      "last_verified_at": "2026-11-12T17:17:01.567412+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.541135+00:00",
+      "last_verified_at": "2026-11-13T18:56:25.519612+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1759,8 +1759,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467924+00:00",
       "id": "apple:200689757-0836",
-      "last_seen_at": "2026-11-12T17:19:11.428078+00:00",
-      "last_verified_at": "2026-11-12T17:18:30.711275+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.588877+00:00",
+      "last_verified_at": "2026-11-13T19:01:20.206627+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1789,13 +1789,13 @@
     {
       "company": "Apple",
       "company_priority": 0,
-      "description": "At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Are you interested in building the next generation of iOS apps? The Journal team at Apple is looking for talented iOS App developers to join a small team of highly skilled engineers to build world class applications across all of Apple’s platforms. As a member of our team, you'll be responsible for building features for upcoming releases, prototyping new feature concepts, and making sure our users always have a great experience.\n\nThis position requires deep knowledge of Swift and UIKit/SwiftUI. You must be comfortable with rapidly evolving designs and requirements, and have excellent interpersonal skills. Throughout the process, you will work collaboratively with our world-class team of engineers, partner with designers, and coordinate with other teams at Apple including the iOS and macOS teams.\n\nImplementing new features Prototyping new ideas to help with initial feature definition Communicating ideas to the Apple design team and other cross functional teams Participating in architecture and code reviews Exploring new frameworks and technologies and how they can aid in implementing new features Building internal tools as needed to help ship high quality software\n\n2+ years of experience with Swift and/or Objective-C design patterns 2+ years of experience with UIKit and/or SwiftUI Talent for cleanly architecting UI features Experience with AI assisted development tools Excellent oral and written communication skills BS in Computer Science or equivalent\n\nPassion for quality and attention to detail Aptitude to independently learn new technologies Enthusiasm for delivering exceptional product experiences\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "description": "At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Are you interested in building the next generation of iOS apps? The Journal team at Apple is looking for talented iOS App developers to join a small team of highly skilled engineers to build world class applications across all of Apple’s platforms. As a member of our team, you'll be responsible for building features for upcoming releases, prototyping new feature concepts, and making sure our users always have a great experience.\n\nThis position requires deep knowledge of Swift and UIKit/SwiftUI. You must be comfortable with rapidly evolving designs and requirements, and have excellent interpersonal skills. Throughout the process, you will work collaboratively with our world-class team of engineers, partner with designers, and coordinate with other teams at Apple including the iOS and macOS teams.\n\nImplementing new features Prototyping new ideas to help with initial feature definition Communicating ideas to the Apple design team and other cross functional teams Participating in architecture and code reviews Exploring new frameworks and technologies and how they can aid in implementing new features Building internal tools as needed to help ship high quality software\n\n2+ years of experience with Swift and/or Objective-C design patterns 2+ years of experience with UIKit and/or SwiftUI Talent for cleanly architecting UI features Experience with AI assisted development tools Excellent oral and written communication skills BS in Computer Science or equivalent\n\nPassion for quality and attention to detail Aptitude to independently learn new technologies Enthusiasm for delivering exceptional product experiences\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467240+00:00",
       "id": "apple:200689757-3543",
-      "last_seen_at": "2026-11-12T17:19:11.413483+00:00",
-      "last_verified_at": "2026-11-12T17:18:05.933323+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.578818+00:00",
+      "last_verified_at": "2026-11-13T18:59:40.637462+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1809,8 +1809,8 @@
       "salary": {
         "basis": "annual_base",
         "currency": "USD",
-        "max": 263300,
-        "min": 142300
+        "max": 277600,
+        "min": 150400
       },
       "salary_match": "partial",
       "score": 30,
@@ -1931,8 +1931,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T20:20:52.011032+00:00",
       "id": "apple:200653988-3543",
-      "last_seen_at": "2026-11-12T17:19:11.377705+00:00",
-      "last_verified_at": "2026-11-12T17:17:23.333903+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.537537+00:00",
+      "last_verified_at": "2026-11-13T18:55:38.051375+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2135,8 +2135,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.450725+00:00",
       "id": "apple:200692542-7141",
-      "last_seen_at": "2026-11-11T18:53:26.164114+00:00",
-      "last_verified_at": "2026-11-11T18:53:24.528186+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.608601+00:00",
+      "last_verified_at": "2026-11-13T19:04:20.048323+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2169,8 +2169,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.673397+00:00",
       "id": "apple:200692763-3543",
-      "last_seen_at": "2026-11-12T17:19:11.392585+00:00",
-      "last_verified_at": "2026-11-12T17:17:37.911917+00:00",
+      "last_seen_at": "2026-11-13T19:05:51.585573+00:00",
+      "last_verified_at": "2026-11-13T19:00:44.729562+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2203,8 +2203,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-12T17:20:30.179521+00:00",
-      "last_verified_at": "2026-11-12T17:19:34.077827+00:00",
+      "last_seen_at": "2026-11-13T19:07:10.397632+00:00",
+      "last_verified_at": "2026-11-13T19:06:14.155978+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -2258,8 +2258,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.980441+00:00",
       "id": "google:78657275467571910",
-      "last_seen_at": "2026-11-12T17:20:30.077075+00:00",
-      "last_verified_at": "2026-11-12T17:19:22.009452+00:00",
+      "last_seen_at": "2026-11-13T19:07:10.257863+00:00",
+      "last_verified_at": "2026-11-13T19:06:02.153796+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Los Angeles, CA, USA"
@@ -2286,8 +2286,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-12T17:20:30.090796+00:00",
-      "last_verified_at": "2026-11-12T17:19:24.011828+00:00",
+      "last_seen_at": "2026-11-13T19:07:10.273742+00:00",
+      "last_verified_at": "2026-11-13T19:06:04.125361+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -2314,8 +2314,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-12T17:20:30.134961+00:00",
-      "last_verified_at": "2026-11-12T17:19:28.002379+00:00",
+      "last_seen_at": "2026-11-13T19:07:10.321507+00:00",
+      "last_verified_at": "2026-11-13T19:06:08.131079+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -2343,8 +2343,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-10T20:22:42.015741+00:00",
       "id": "google:79215657723273926",
-      "last_seen_at": "2026-11-12T17:20:30.164887+00:00",
-      "last_verified_at": "2026-11-12T17:19:32.166915+00:00",
+      "last_seen_at": "2026-11-13T19:07:10.371524+00:00",
+      "last_verified_at": "2026-11-13T19:06:12.126374+00:00",
       "locations": [
         "San Jose, CA, USA",
         "San Francisco, CA, USA"
@@ -2430,8 +2430,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311288+00:00",
       "id": "linkedin:4454451077",
-      "last_seen_at": "2026-11-12T17:21:21.593408+00:00",
-      "last_verified_at": "2026-11-12T17:20:50.085381+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.855688+00:00",
+      "last_verified_at": "2026-11-13T19:07:30.354916+00:00",
       "locations": [
         "San Bruno, CA, US"
       ],
@@ -2460,8 +2460,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311220+00:00",
       "id": "linkedin:4418828708",
-      "last_seen_at": "2026-11-12T17:21:21.590075+00:00",
-      "last_verified_at": "2026-11-12T17:20:48.020515+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.852755+00:00",
+      "last_verified_at": "2026-11-13T19:07:28.283648+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2490,8 +2490,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311458+00:00",
       "id": "linkedin:4453705945",
-      "last_seen_at": "2026-11-12T17:21:21.599403+00:00",
-      "last_verified_at": "2026-11-12T17:20:54.070654+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.863176+00:00",
+      "last_verified_at": "2026-11-13T19:07:34.264008+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -2520,8 +2520,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311755+00:00",
       "id": "linkedin:4461537491",
-      "last_seen_at": "2026-11-12T17:21:21.612034+00:00",
-      "last_verified_at": "2026-11-12T17:21:02.019474+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.877857+00:00",
+      "last_verified_at": "2026-11-13T19:07:42.389162+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -2550,8 +2550,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312396+00:00",
       "id": "linkedin:4461538504",
-      "last_seen_at": "2026-11-12T17:21:21.621373+00:00",
-      "last_verified_at": "2026-11-12T17:21:08.172089+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.887373+00:00",
+      "last_verified_at": "2026-11-13T19:07:48.446522+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2640,8 +2640,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311129+00:00",
       "id": "linkedin:4478737703",
-      "last_seen_at": "2026-11-12T17:21:21.587329+00:00",
-      "last_verified_at": "2026-11-12T17:20:46.021001+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.849046+00:00",
+      "last_verified_at": "2026-11-13T19:07:26.302200+00:00",
       "locations": [
         "Milpitas, CA, US"
       ],
@@ -2670,8 +2670,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311027+00:00",
       "id": "linkedin:4214156833",
-      "last_seen_at": "2026-11-12T17:21:21.583920+00:00",
-      "last_verified_at": "2026-11-12T17:20:44.054243+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.846572+00:00",
+      "last_verified_at": "2026-11-13T19:07:24.302253+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2695,8 +2695,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312474+00:00",
       "id": "linkedin:4337751650",
-      "last_seen_at": "2026-11-12T17:21:21.624447+00:00",
-      "last_verified_at": "2026-11-12T17:21:10.011787+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.891146+00:00",
+      "last_verified_at": "2026-11-13T19:07:50.409684+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2720,8 +2720,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311358+00:00",
       "id": "linkedin:4474584105",
-      "last_seen_at": "2026-11-12T17:21:21.596464+00:00",
-      "last_verified_at": "2026-11-12T17:20:52.108656+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.859535+00:00",
+      "last_verified_at": "2026-11-13T19:07:32.361560+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -3002,8 +3002,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.310192+00:00",
       "id": "linkedin:4476984558",
-      "last_seen_at": "2026-11-12T17:21:21.579888+00:00",
-      "last_verified_at": "2026-11-12T17:20:42.176347+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.843592+00:00",
+      "last_verified_at": "2026-11-13T19:07:22.419958+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -3056,8 +3056,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311678+00:00",
       "id": "linkedin:4424263660",
-      "last_seen_at": "2026-11-12T17:21:21.609065+00:00",
-      "last_verified_at": "2026-11-12T17:21:00.057009+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.874412+00:00",
+      "last_verified_at": "2026-11-13T19:07:40.400713+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3164,8 +3164,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311526+00:00",
       "id": "linkedin:4480559243",
-      "last_seen_at": "2026-11-09T20:11:18.483005+00:00",
-      "last_verified_at": "2026-11-09T20:10:14.484930+00:00",
+      "last_seen_at": "2026-11-13T19:07:51.866611+00:00",
+      "last_verified_at": "2026-11-13T19:07:36.449363+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3292,5 +3292,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 12
+  "update_sequence": 13
 }
