@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T16:16:15.878137+00:00",
-  "run_id": "335241ca2d2d4b849dd38a7c56155c85",
+  "generated_at": "2026-11-19T03:13:53.879907+00:00",
+  "run_id": "62c19a43141c41cbb05ab3c16c16a677",
   "coverage": "partial",
   "sources": {
     "apple": {
       "status": "partial",
-      "last_attempt_at": "2026-11-17T16:00:01.792487+00:00",
+      "last_attempt_at": "2026-11-19T03:00:35.477509+00:00",
       "last_success_at": "2026-11-15T16:57:27.009040+00:00",
-      "found": 25
+      "found": 29
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-17T16:13:26.907345+00:00",
-      "last_success_at": "2026-11-17T16:14:44.318209+00:00",
+      "last_attempt_at": "2026-11-19T03:12:19.634907+00:00",
+      "last_success_at": "2026-11-19T03:13:37.062208+00:00",
       "found": 34
     },
     "linkedin": {
-      "status": "success",
-      "last_attempt_at": "2026-11-17T16:14:44.907664+00:00",
+      "status": "partial",
+      "last_attempt_at": "2026-11-19T03:13:37.716329+00:00",
       "last_success_at": "2026-11-17T16:16:14.416348+00:00",
-      "found": 40
+      "found": 2
     }
   },
   "jobs": [
@@ -123,8 +123,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.452462+00:00",
       "id": "apple:200662668-3543",
-      "last_seen_at": "2026-11-17T01:59:59.491993+00:00",
-      "last_verified_at": "2026-11-17T01:56:36.388848+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.497505+00:00",
+      "last_verified_at": "2026-11-19T03:08:37.063852+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -287,8 +287,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-09T20:08:28.764910+00:00",
       "id": "apple:200686243-0836",
-      "last_seen_at": "2026-11-10T20:21:23.293491+00:00",
-      "last_verified_at": "2026-11-10T20:20:47.876873+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.540381+00:00",
+      "last_verified_at": "2026-11-19T03:12:17.062396+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -419,8 +419,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-17T16:13:26.756358+00:00",
-      "last_verified_at": "2026-11-17T16:04:12.792181+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.452145+00:00",
+      "last_verified_at": "2026-11-19T03:03:24.138319+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -451,8 +451,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-17T16:14:43.477572+00:00",
-      "last_verified_at": "2026-11-17T16:13:41.341452+00:00",
+      "last_seen_at": "2026-11-19T03:13:36.179911+00:00",
+      "last_verified_at": "2026-11-19T03:12:33.984622+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -517,8 +517,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-17T01:59:59.437259+00:00",
-      "last_verified_at": "2026-11-17T01:52:36.947015+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.455403+00:00",
+      "last_verified_at": "2026-11-19T03:03:41.408315+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -550,8 +550,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468478+00:00",
       "id": "apple:200654462-0836",
-      "last_seen_at": "2026-11-15T16:57:26.903314+00:00",
-      "last_verified_at": "2026-11-15T16:55:25.855295+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.485895+00:00",
+      "last_verified_at": "2026-11-19T03:07:27.262988+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -651,8 +651,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T20:20:52.036534+00:00",
       "id": "apple:200662789-0836",
-      "last_seen_at": "2026-11-15T16:57:26.897475+00:00",
-      "last_verified_at": "2026-11-15T16:55:19.056319+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.534105+00:00",
+      "last_verified_at": "2026-11-19T03:12:06.033623+00:00",
       "locations": [
         "Boulder, Colorado, United States",
         "Culver City, California, United States",
@@ -787,8 +787,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
       "id": "apple:200675591-0836",
-      "last_seen_at": "2026-11-17T16:13:26.782963+00:00",
-      "last_verified_at": "2026-11-17T16:06:51.525970+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.500255+00:00",
+      "last_verified_at": "2026-11-19T03:08:40.541266+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1001,8 +1001,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.447273+00:00",
       "id": "apple:200691192-3956",
-      "last_seen_at": "2026-11-17T01:59:59.497834+00:00",
-      "last_verified_at": "2026-11-17T01:57:23.761263+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.508261+00:00",
+      "last_verified_at": "2026-11-19T03:08:56.186941+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1100,8 +1100,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-11T18:53:26.127402+00:00",
       "id": "apple:200694335-0836",
-      "last_seen_at": "2026-11-17T01:59:59.507372+00:00",
-      "last_verified_at": "2026-11-17T01:58:52.307276+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.524885+00:00",
+      "last_verified_at": "2026-11-19T03:10:33.781766+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -1137,8 +1137,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-11T18:53:26.103459+00:00",
       "id": "apple:200694335-3543",
-      "last_seen_at": "2026-11-17T16:13:26.768804+00:00",
-      "last_verified_at": "2026-11-17T16:05:54.761569+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.476793+00:00",
+      "last_verified_at": "2026-11-19T03:07:11.248935+00:00",
       "locations": [
         "Cary, North Carolina, United States",
         "Cupertino, California, United States",
@@ -1174,8 +1174,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.489254+00:00",
       "id": "apple:200695213-0836",
-      "last_seen_at": "2026-11-17T16:13:26.785875+00:00",
-      "last_verified_at": "2026-11-17T16:07:32.323171+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.494162+00:00",
+      "last_verified_at": "2026-11-19T03:08:17.395669+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Vancouver, Washington, United States"
@@ -1237,6 +1237,39 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "If you’re passionate about energy efficiency and want to shape how Apple’s operating systems and services are designed, this is the role for you. In this role, you’ll play a key part in influencing the design and implementation of Apple’s latest features and technologies, making sure they’re built for energy efficiency. You’ll work closely with cross-functional teams to analyze how system services and features consume power, and lead the improvements that preserve battery life without compromising performance or user experience. Our mission is to innovate continuously in energy efficiency, enabling developers to build powerful apps on a robust platform while helping customers get the most out of every charge. The energy savings you help deliver will improve the experience for our users and contribute to a more sustainable planet.\n\nAs a senior member of the Software Power Systems team, you’ll collaborate closely with cross-functional teams to optimize battery usage across all layers of the software stack and multiple Apple platforms. You’ll own power efficiency for your areas, influencing how features are designed and implemented to be energy efficient at scale. You’ll refine existing APIs or design new ones with power efficiency in mind, enabling developers to build more efficient applications. You’ll also drive the development of tools and frameworks to triage power issues, and analyze large-scale analytics data to identify trends and hotspots affecting battery life.\n\nWork cross-functionally with teams across Apple to understand, model and optimize the power impact of their software features Design and implement telemetry to measure and attribute the impact of features Drive critical power optimizations that deliver battery life and thermal savings to customers Lead the debugging and resolution of complex power issues, in house and in the field Mentor junior engineers and share power engineering best practices with partner teams\n\n5+ years of experience in systems software engineering Deep understanding of operating systems and software architecture Experience working with many cross-functional teams and influencing their design decisions Ability to independently learn new technologies, prototype and design software solutions\n\nExcellent debugging skills, with experience root-causing challenging problems that span multiple layers of the stack Excellent spoken and written communication skills Mobile application development experience Strong understanding of iOS frameworks and services Strong coding skills, preferably in C, C++, Objective-C or Swift Experience with large-scale analytics and telemetry\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,000 and $308,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-19T03:12:19.522055+00:00",
+      "id": "apple:200694630-3543",
+      "last_seen_at": "2026-11-19T03:12:19.522055+00:00",
+      "last_verified_at": "2026-11-19T03:10:29.451780+00:00",
+      "locations": [
+        "San Diego, California, United States"
+      ],
+      "posted_at": "2026-11-13T23:10:30.368+00:00",
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 308500,
+        "min": 175000
+      },
+      "salary_match": "partial",
+      "score": 40,
+      "source": "apple",
+      "source_id": "200694630-3543",
+      "summary": "If you’re passionate about energy efficiency and want to shape how Apple’s operating systems and services are designed, this is the role for you. In this role, you’ll play a key part in influencing the design and implementation of Apple’s latest features and technologies, making sure they’re built for energy efficiency. You’ll work closely with cro",
+      "title": "Senior Software Power Systems Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200694630-3543/senior-software-power-systems-engineer",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "Are you eager to learn, grow, and make an impact? Join the Swift Standard Libraries team and enjoy the rare opportunity to work at the intersection of: * Computer science theory and engineering * Programming language and library design * Apple’s frameworks and the open-source community * Applications, servers, scripting, AI, and more The future is being defined right now, and the Swift Standard Libraries team is at the center of it. The work we do will shape the developer experience on Apple's platforms and beyond for decades to come.\n\nThe Swift Standard Libraries team is responsible for much of the user-facing experience of the Swift programming language via the Standard Library and Foundation, which reaches from basic types and data structures like Date and String to complex algorithms like sorting and calendrical calculation. The team also develops a growing roster of open-source Swift packages including Algorithms, Argument Parser, Async Algorithms, Atomics, Numerics, Collections, System and Subprocess. You will join a small team of thoughtful, versatile engineers in meeting the challenge of designing correct and expressive high-level APIs with carefully tuned low-level implementations. You'll work mostly in the open as an active contributor to the swift.org open-source project, collaborating with the Swift compiler team, engineers from across every part of Apple, and the Swift open-source community. Our team strives to build a diverse, inclusive team and healthy, balanced work environment. We believe that every engineer brings unique skills and perspective. Far more than any specific experience or skill, we are looking for engineers who want to enable others to build great software, while learning and developing their skills.\n\nDesign and implement new library functionality in consultation and collaboration with software teams throughout Apple and Swift users around the world Tune performance, refine implementations, and investigate and fix problems as they appear in anything from iOS apps to server-side applications Write tests, benchmarks, and documentation Work with the Swift team to research and explore improvements to the Swift language\n\n10+ years of experience with Swift, C or Objective-C, or similar experience Interest in programming language and library design, and engage with the open-source community The ability to simplify complex ideas and explain them clearly\n\nBachelor’s Degree in Computer Science or equivalent experience.\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $216,200 and $394,000, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
@@ -1276,8 +1309,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-17T16:13:26.716342+00:00",
-      "last_verified_at": "2026-11-17T16:02:07.134553+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.445585+00:00",
+      "last_verified_at": "2026-11-19T03:02:41.837115+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1442,13 +1475,47 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "The App Store Frameworks engineering team is looking for a motivated and dedicated engineer to join our team! The App Store Frameworks team works with many teams at Apple in order to deliver great app installation experiences on all Apple platforms. Be a part of an innovative team making a difference.\n\nThe App Store Frameworks team works multi-functionally throughout Apple to develop reliable daemons, great APIs for app installation from the App Store and alternative marketplaces, and various other functionality used across all of Apple's platforms. Help design and implement APIs used by Apple employees and developers around the world. We actively investigate production issues to resolve bugs and improve performance with each iOS/tvOS/macOS/watchOS/visionOS release. Scalability is always a top concern due to the massive user-base of our customers. Reliability is crucial. We're looking for engineers with a passion for crafting complex systems.\n\n4 plus years experience with Swift and/or Objective-C Experience with Apple frameworks Experience with asynchronous programming Experience with networking protocols Experience designing and maintaining APIs Excellent collaboration and communication skills Strong problem solving and critical thinking ability\n\nSwift, Objective-C, or other Apple platform development experience\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-19T03:12:19.516559+00:00",
+      "id": "apple:200674464-0836",
+      "last_seen_at": "2026-11-19T03:12:19.516559+00:00",
+      "last_verified_at": "2026-11-19T03:09:40.826052+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-11-18T21:06:30.271+00:00",
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 184700
+      },
+      "salary_match": "partial",
+      "score": 30,
+      "source": "apple",
+      "source_id": "200674464-0836",
+      "summary": "The App Store Frameworks engineering team is looking for a motivated and dedicated engineer to join our team! The App Store Frameworks team works with many teams at Apple in order to deliver great app installation experiences on all Apple platforms. Be a part of an innovative team making a difference.\n\nThe App Store Frameworks team works multi-func",
+      "title": "Software Engineer, App Store Frameworks",
+      "url": "https://jobs.apple.com/en-us/details/200674464-0836/software-engineer-app-store-frameworks",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "Come join the Jet team, writing software that powers all of Apple’s services - App Store, Games, Music, TV, Podcasts, & Fitness+! The role is high impact and high visibility, working across our services to build the best experience for our customers! The Jet team builds a system for teams to deploy high quality, performant native apps that source display models from a dynamic, updatable JavaScript runtime. We also build development tools, analytics frameworks and performance tooling. Team members are on the forefront of inventing the fastest and most secure technologies for building applications. We work in a range of technologies from C, Objective-C, C++, Swift, SwiftUI, and JavaScript.\n\nWe are looking for someone who is excited about building platforms that developers love to use. You should have viewpoints about how to build the best applications and services and you should be comfortable advocating for the best experience while incorporating feedback from other developers. You should understand API development and be able to write good technical documentation for the APIs you make.\n\nBachelors in Computer Science/Engineering or equivalent work experience Experience with any of Swift, Objective-C, or C++ Experience using JavaScript In-depth iOS Development: Demonstrated experience (4+ years) in developing applications and user interfaces with Swift or Objective-C.\n\nOOP and Design Skills: Solid foundation in object-oriented programming and design. Collaboration skills, you have the ability to work well cross functionally Passion for quality and attention to detail Ability to independently learn new technologies and passion for taking on new challenges. Requirement Investigation: Proactive in investigating and understanding project requirements independently. Problem Solving: Exceptional problem-solving and critical thinking abilities. Advanced iOS Frameworks: Hands-on experience with advanced iOS frameworks such as UIKit, SwiftUI, AVKit/Foundation and Core Graphics. Performance Optimization: In-depth knowledge of performance optimization techniques for native client applications. API Integration: Expertise in integrating backend APIs and services. UI/UX Design: Strong understanding of UI/UX design principles and experience working closely with design teams. Mentorship: Experience in mentoring junior developers and taking a lead on cross-functional technical projects.\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-17T16:13:26.739558+00:00",
-      "last_verified_at": "2026-11-17T16:03:45.594955+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.458466+00:00",
+      "last_verified_at": "2026-11-19T03:04:30.447315+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1481,8 +1548,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.419038+00:00",
       "id": "apple:200677373-0836",
-      "last_seen_at": "2026-11-15T16:57:26.867814+00:00",
-      "last_verified_at": "2026-11-15T16:54:07.282414+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.490510+00:00",
+      "last_verified_at": "2026-11-19T03:08:09.891006+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1515,8 +1582,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.095920+00:00",
       "id": "apple:200679514-0836",
-      "last_seen_at": "2026-11-17T16:13:26.731282+00:00",
-      "last_verified_at": "2026-11-17T16:02:57.610801+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.472413+00:00",
+      "last_verified_at": "2026-11-19T03:06:58.893930+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1550,8 +1617,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.098126+00:00",
       "id": "apple:200679514-3956",
-      "last_seen_at": "2026-11-17T01:59:59.505001+00:00",
-      "last_verified_at": "2026-11-17T01:58:47.145495+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.531121+00:00",
+      "last_verified_at": "2026-11-19T03:12:01.286642+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1654,8 +1721,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-09T20:08:28.773675+00:00",
       "id": "apple:200682817-0836",
-      "last_seen_at": "2026-11-17T01:59:59.526050+00:00",
-      "last_verified_at": "2026-11-17T01:59:57.488838+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.513341+00:00",
+      "last_verified_at": "2026-11-19T03:09:19.661295+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1689,8 +1756,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-17T16:13:26.760453+00:00",
-      "last_verified_at": "2026-11-17T16:04:17.771806+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.480978+00:00",
+      "last_verified_at": "2026-11-19T03:07:22.725942+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2067,8 +2134,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-08T17:57:27.329770+00:00",
       "id": "apple:200643254-3543",
-      "last_seen_at": "2026-11-14T18:17:56.502158+00:00",
-      "last_verified_at": "2026-11-14T18:16:08.090269+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.463966+00:00",
+      "last_verified_at": "2026-11-19T03:05:15.001834+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2203,8 +2270,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-17T16:13:26.725585+00:00",
-      "last_verified_at": "2026-11-17T16:02:41.072764+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.449035+00:00",
+      "last_verified_at": "2026-11-19T03:03:17.621661+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2271,8 +2338,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T16:13:26.748015+00:00",
       "id": "apple:200683947-3543",
-      "last_seen_at": "2026-11-17T16:13:26.748015+00:00",
-      "last_verified_at": "2026-11-17T16:03:56.951151+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.466806+00:00",
+      "last_verified_at": "2026-11-19T03:06:51.692898+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2339,8 +2406,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.675843+00:00",
       "id": "apple:200692542",
-      "last_seen_at": "2026-11-17T01:59:59.500184+00:00",
-      "last_verified_at": "2026-11-17T01:57:57.040542+00:00",
+      "last_seen_at": "2026-11-19T03:12:19.536885+00:00",
+      "last_verified_at": "2026-11-19T03:12:11.392128+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2436,13 +2503,41 @@
     {
       "company": "Google",
       "company_priority": 0,
+      "description": "Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with iOS application development. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 3 years of experience in a technical leadership role leading project teams and setting technical direction. 3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. As a part of this role, you will sit somewhere between a traditional iOS developer and UX engineer, shipping production-quality features in partnership with both engineering and design teams. In this role, you will need a strong knowledge of iOS development as well as experience working with research and design teams to define and deliver new features, test new concepts and assist with final implementation. You will work closely with interaction and motion designers to create a compelling interactive perspective, exploring novel interactions, building testable prototypes for usability studies, setting the bar for polish and animation quality, and assisting with final production implementation.Join Google Search AI and work at the intersection of industry leading global scale. We apply breakthrough research, leveraging models like Gemini, to launch high-impact products that help billions ask any question and get things done. If you want to drive the future of AI in Search and work with experts to deliver tangible, global impact and continuous innovation, this is the place.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Design, develop, test, deploy, maintain, and enhance native iOS features in Swift and SwiftUI for hundreds of millions of daily users. Partner with UX interaction and motion designers to translate interaction concepts, fluid animations, gestures, and haptics into production features. Collaborate across iOS core engineering teams to modernize UI architectures, optimize app navigation, and integrate shared frameworks. Build and maintain reusable, accessible UI components and SwiftUI developer tooling that accelerate iteration across Search surfaces. Provide technical leadership on high-impact mobile initiatives, mentor teammates, and drive engineering quality across the team.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-19T03:13:36.142088+00:00",
+      "id": "google:105645086871560902",
+      "last_seen_at": "2026-11-19T03:13:36.142088+00:00",
+      "last_verified_at": "2026-11-19T03:12:31.243861+00:00",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Los Angeles, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "google",
+      "source_id": "105645086871560902",
+      "summary": "Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. 5 years of experience with iOS application development. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. 3 years of experience in a technical leadership role leading project teams and s",
+      "title": "Staff Software Engineer, Mobile (iOS), Search",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105645086871560902-staff-software-engineer-mobile-ios-search",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
       "description": "Bachelor’s degree or equivalent practical experience. 5 years of experience with software development in C++, and with data structures/algorithms. 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 3 years of experience with 3D graphics, OpenGL, and performance rendering. 3 years of experience with iOS application development. Experience in Programming Objective-C or Swift. Preferred qualifications: Master's degree or PhD in Computer Science or a related technical field. 3 years of experience with performance, large-scale systems data analysis, visualization tools or debugging. 1 year of experience in a technical leadership role. Experience developing accessible technologies. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. In this role, you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions. At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Write product or system development code. Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency). Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback. Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-17T16:14:43.564969+00:00",
-      "last_verified_at": "2026-11-17T16:13:49.355323+00:00",
+      "last_seen_at": "2026-11-19T03:13:36.247799+00:00",
+      "last_verified_at": "2026-11-19T03:12:40.110672+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -2524,8 +2619,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-17T16:14:43.459703+00:00",
-      "last_verified_at": "2026-11-17T16:13:39.278299+00:00",
+      "last_seen_at": "2026-11-19T03:13:36.154911+00:00",
+      "last_verified_at": "2026-11-19T03:12:32.050193+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -2552,8 +2647,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-17T16:14:43.494403+00:00",
-      "last_verified_at": "2026-11-17T16:13:43.359956+00:00",
+      "last_seen_at": "2026-11-19T03:13:36.204767+00:00",
+      "last_verified_at": "2026-11-19T03:12:36.079220+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -2581,8 +2676,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-10T20:22:42.015741+00:00",
       "id": "google:79215657723273926",
-      "last_seen_at": "2026-11-17T16:14:43.539200+00:00",
-      "last_verified_at": "2026-11-17T16:13:47.344257+00:00",
+      "last_seen_at": "2026-11-19T03:13:36.225956+00:00",
+      "last_verified_at": "2026-11-19T03:12:38.079529+00:00",
       "locations": [
         "San Jose, CA, USA",
         "San Francisco, CA, USA"
@@ -2908,8 +3003,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311027+00:00",
       "id": "linkedin:4214156833",
-      "last_seen_at": "2026-11-17T16:16:14.214740+00:00",
-      "last_verified_at": "2026-11-17T16:14:58.103023+00:00",
+      "last_seen_at": "2026-11-19T03:13:52.025640+00:00",
+      "last_verified_at": "2026-11-19T03:13:50.640130+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3240,8 +3335,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.310192+00:00",
       "id": "linkedin:4476984558",
-      "last_seen_at": "2026-11-17T16:16:14.208377+00:00",
-      "last_verified_at": "2026-11-17T16:14:56.226749+00:00",
+      "last_seen_at": "2026-11-19T03:13:52.019711+00:00",
+      "last_verified_at": "2026-11-19T03:13:48.577667+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -3557,5 +3652,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 17
+  "update_sequence": 18
 }
