@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T03:13:53.879907+00:00",
-  "run_id": "62c19a43141c41cbb05ab3c16c16a677",
+  "generated_at": "2026-11-21T17:12:26.458548+00:00",
+  "run_id": "e5465b3ed1c840d7a4ab996113b20711",
   "coverage": "partial",
   "sources": {
     "apple": {
-      "status": "partial",
-      "last_attempt_at": "2026-11-19T03:00:35.477509+00:00",
-      "last_success_at": "2026-11-15T16:57:27.009040+00:00",
-      "found": 29
+      "status": "success",
+      "last_attempt_at": "2026-11-21T17:07:04.465805+00:00",
+      "last_success_at": "2026-11-21T17:09:35.313160+00:00",
+      "found": 40
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-19T03:12:19.634907+00:00",
-      "last_success_at": "2026-11-19T03:13:37.062208+00:00",
-      "found": 34
+      "last_attempt_at": "2026-11-21T17:09:35.333510+00:00",
+      "last_success_at": "2026-11-21T17:10:54.913082+00:00",
+      "found": 35
     },
     "linkedin": {
-      "status": "partial",
-      "last_attempt_at": "2026-11-19T03:13:37.716329+00:00",
-      "last_success_at": "2026-11-17T16:16:14.416348+00:00",
-      "found": 2
+      "status": "success",
+      "last_attempt_at": "2026-11-21T17:10:55.386501+00:00",
+      "last_success_at": "2026-11-21T17:12:24.590902+00:00",
+      "found": 40
     }
   },
   "jobs": [
@@ -57,8 +57,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-08T17:57:27.393962+00:00",
       "id": "apple:200648699-3543",
-      "last_seen_at": "2026-11-17T16:13:26.793819+00:00",
-      "last_verified_at": "2026-11-17T16:09:56.167411+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.173914+00:00",
+      "last_verified_at": "2026-11-21T17:09:05.758616+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -90,8 +90,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466295+00:00",
       "id": "apple:200648699-3956",
-      "last_seen_at": "2026-11-17T16:13:26.721101+00:00",
-      "last_verified_at": "2026-11-17T16:02:25.267740+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.104965+00:00",
+      "last_verified_at": "2026-11-21T17:08:18.680238+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -123,8 +123,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.452462+00:00",
       "id": "apple:200662668-3543",
-      "last_seen_at": "2026-11-19T03:12:19.497505+00:00",
-      "last_verified_at": "2026-11-19T03:08:37.063852+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.148844+00:00",
+      "last_verified_at": "2026-11-21T17:08:49.177576+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -157,8 +157,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466922+00:00",
       "id": "apple:200662668-3956",
-      "last_seen_at": "2026-11-14T18:17:56.513222+00:00",
-      "last_verified_at": "2026-11-14T18:16:16.922475+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.073356+00:00",
+      "last_verified_at": "2026-11-21T17:07:48.904615+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -346,13 +346,45 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "Apple devices have revolutionized how people live, connect, and work. By thoughtfully blending intuitive, innovative system software with beautiful hardware, we design and build a uniquely delightful user experience. As the System Experience team, we lead the charge in building this experience. Join us as we build Settings: the customer’s portal to getting their device looking, feeling, and working just right—spanning iOS, iPadOS, macOS, and more. Collaborate with an energetic, hard-working, fun team of engineers, cross-functional teams, and world-class designers to deliver the best operating system experiences on the planet!\n\nWe’re the Settings team, and we empower customers to make an Apple device their own in a quick, intuitive, reliable way. We’re looking for a UI engineer to help us improve the user experience. Is that you? Settings is part app, part platform. We own the structure and navigation of the Settings app and its overall design and behavior. We also provide the frameworks, tools, documentation, and AI skills that allow dozens of teams across the company to develop their own Settings experiences within the app while delivering on the consistent, intuitive user experience Apple is known for! In your role as a Senior UI Engineer on Settings, you’ll be responsible for Settings UI on iOS, iPadOS, and macOS. You’ll also be responsible for developing frameworks and skills used by other teams, and shepherding their within our app. It’s an excellent opportunity to work with many teams across the company and develop an inside understanding of how many parts of our systems work.\n\nTrack record of success — you have 5+ years of SwiftUI/Swift or UIKit/AppKit/Objective-C software engineering experience Technical excellence – you design clear, maintainable abstractions with well-considered failure modes and write robust, performant, unit-tested code Critical thinking with influence — you evaluate the tradeoffs associated with each potential solution, make an informed decision, and communicate clearly to influence others Customer focus — every technical and product decision you make is guided by the question, “What’s best for our users?” Teamwork — you understand that the best products aren’t made by one engineer working alone; the better we collaborate, the better the result Bachelor of Computer Science or equivalent skills and work experience\n\nBachelors of Masters of Computer Science is preferred\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-21T17:09:35.204034+00:00",
+      "id": "apple:200696410-0836",
+      "last_seen_at": "2026-11-21T17:09:35.204034+00:00",
+      "last_verified_at": "2026-11-21T17:09:22.855416+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-11-21T00:34:33.668+00:00",
+      "reasons": [
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 150400
+      },
+      "salary_match": "partial",
+      "score": 70,
+      "source": "apple",
+      "source_id": "200696410-0836",
+      "summary": "Apple devices have revolutionized how people live, connect, and work. By thoughtfully blending intuitive, innovative system software with beautiful hardware, we design and build a uniquely delightful user experience. As the System Experience team, we lead the charge in building this experience. Join us as we build Settings: the customer’s portal to",
+      "title": "Senior iOS & macOS UI Engineer, Settings",
+      "url": "https://jobs.apple.com/en-us/details/200696410-0836/senior-ios-macos-ui-engineer-settings",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "Apple devices have revolutionized how people live, connect, and work. It’s not by chance! By thoughtfully blending intuitive, innovative system software with beautiful hardware, we design and build a uniquely delightful user experience. As the System Experience team, we lead the charge in building this experience. Help us dramatically improve the experience of every iPhone, iPad, and Mac user who wants to manage digital wellbeing – adults, parents, teens, and children. Partner with an energetic, hard-working, fun team of engineers, cross-functional teams, and world-class designers to deliver the best system experiences on the planet.\n\nWe’re the Screen Time team, and we exist to facilitate digital wellbeing whether you’re a parent caring for your child, a teen looking to establish healthy habits, or an adult trying to be more intentional about your boundaries. We’re looking for a senior Engineer to help lead our team as it builds and ships the next generation of digital wellbeing features at Apple. At Apple, we’ve created the most compelling personal computing devices in human history. We want these devices to promote the overall wellbeing of our customers — especially children — by facilitating healthy experiences on their devices. Our challenge is to deliver an experience that is simple to use and understand even as our system’s features get more advanced. As a Staff Engineer on the Screen Time team, your responsibilities will include: - Evolving and realizing the technical vision for Screen Time and working cross-functionality to align on that vision with partner teams - Breaking down the most complex technical challenges into the right phases and abstractions so the work can be distributed across the team - Purposefully and intentionally investing in the growth of junior engineers The implications of succeeding in this role are huge — together, we have the agency to shape healthy habits for billions of people now and into the future!\n\nBachelor of Computer Science or equivalent skills and work experience Track record of success — you have 10+ years of SwiftUI/Swift or UIKit/AppKit/Objective-C software engineering experience with impact to show for it Stellar engineering quality & output — you separate concerns and define well-abstracted interfaces, delivering performant, well-tested, maintainable code with appropriate failure modes Technical leadership — you exemplify “what good looks like” in code, in documentation, making and delivering on commitments, and prioritization Critical thinking with influence — you systematically evaluate the tradeoffs associated with each potential solution to a problem, make an informed decision, and articulate these things well to influence others, driving impact\n\nCustomer focus — you make high-quality, user-centric product decisions Platform API design — you’re proficient at designing, building, and supporting a platform, understanding customer needs and constraints Mentorship — you make everyone around you better and purposefully invest in the growth of your peers — especially junior engineers Drive for customer impact — you are deeply motivated to build the best essential user experiences for billions of users\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $216,200 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099520+00:00",
       "id": "apple:200592178-0836",
-      "last_seen_at": "2026-11-15T16:57:26.940624+00:00",
-      "last_verified_at": "2026-11-15T16:57:19.777385+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.219903+00:00",
+      "last_verified_at": "2026-11-21T17:09:29.932337+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -419,8 +451,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-19T03:12:19.452145+00:00",
-      "last_verified_at": "2026-11-19T03:03:24.138319+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.118229+00:00",
+      "last_verified_at": "2026-11-21T17:08:28.512988+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -451,8 +483,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-19T03:13:36.179911+00:00",
-      "last_verified_at": "2026-11-19T03:12:33.984622+00:00",
+      "last_seen_at": "2026-11-21T17:10:53.961716+00:00",
+      "last_verified_at": "2026-11-21T17:09:49.750404+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -484,8 +516,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-17T01:59:59.275759+00:00",
-      "last_verified_at": "2026-11-17T01:51:37.446646+00:00",
+      "last_seen_at": "2026-11-21T17:09:34.875548+00:00",
+      "last_verified_at": "2026-11-21T17:07:25.898563+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -517,8 +549,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-19T03:12:19.455403+00:00",
-      "last_verified_at": "2026-11-19T03:03:41.408315+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.059732+00:00",
+      "last_verified_at": "2026-11-21T17:07:40.318302+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -583,8 +615,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.101084+00:00",
       "id": "apple:200656112-0836",
-      "last_seen_at": "2026-11-15T16:57:26.924475+00:00",
-      "last_verified_at": "2026-11-15T16:56:54.262271+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.188542+00:00",
+      "last_verified_at": "2026-11-21T17:09:14.171666+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -651,8 +683,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T20:20:52.036534+00:00",
       "id": "apple:200662789-0836",
-      "last_seen_at": "2026-11-19T03:12:19.534105+00:00",
-      "last_verified_at": "2026-11-19T03:12:06.033623+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.163650+00:00",
+      "last_verified_at": "2026-11-21T17:08:58.767373+00:00",
       "locations": [
         "Boulder, Colorado, United States",
         "Culver City, California, United States",
@@ -787,8 +819,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
       "id": "apple:200675591-0836",
-      "last_seen_at": "2026-11-19T03:12:19.500255+00:00",
-      "last_verified_at": "2026-11-19T03:08:40.541266+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.209514+00:00",
+      "last_verified_at": "2026-11-21T17:09:24.965548+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1001,8 +1033,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.447273+00:00",
       "id": "apple:200691192-3956",
-      "last_seen_at": "2026-11-19T03:12:19.508261+00:00",
-      "last_verified_at": "2026-11-19T03:08:56.186941+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.143162+00:00",
+      "last_verified_at": "2026-11-21T17:08:43.350968+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1174,8 +1206,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.489254+00:00",
       "id": "apple:200695213-0836",
-      "last_seen_at": "2026-11-19T03:12:19.494162+00:00",
-      "last_verified_at": "2026-11-19T03:08:17.395669+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.090417+00:00",
+      "last_verified_at": "2026-11-21T17:08:06.581987+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Vancouver, Washington, United States"
@@ -1203,13 +1235,46 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "Do you want to write software for millions of users? Our team is looking for a proactive and highly motivated engineer to contribute to current and future technologies.\n\nThe SpringBoard Lock Screen team is responsible for the entry point to experiencing an iOS and iPadOS device. The lock screen in many ways is the face of iPhone and iPad. The team is responsible for unlock interactions, FaceID and TouchID coaching, MagSafe attach moments, wallpaper UI, and various aspects of other UI experiences such as the Sleep Lock Screen, Alarms, swipe to camera and much more. As an engineer on the lock screen team, your responsibilities will range from implementing new features and defining APIs to fixing bugs and improving performance. You should have an excellent understanding of object-oriented software design, good debugging skills and an eagerness to work hard and learn a lot. As our team works cross-functionally with many other groups across our software stack, you should have a good understanding of systems and excellent communication and collaboration skills.\n\nBachelor of Computer Science or equivalent experience 8-10 years of relevant industry experience Excellent object-oriented programming and design skills (e.g. Swift UI, Obj-c) Excellent problem solving, critical thinking, and communication skills Experience developing reusable public or private APIs Excellent understanding of optimization and performance issues across OS software layers\n\nExperience developing with Cocoa or other application frameworks Excellent debugging skills and an eagerness to work hard and learn!\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-21T17:09:35.128459+00:00",
+      "id": "apple:200696342-0836",
+      "last_seen_at": "2026-11-21T17:09:35.128459+00:00",
+      "last_verified_at": "2026-11-21T17:08:33.850888+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-11-20T21:02:48.929+00:00",
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 324800,
+        "min": 184700
+      },
+      "salary_match": "partial",
+      "score": 50,
+      "source": "apple",
+      "source_id": "200696342-0836",
+      "summary": "Do you want to write software for millions of users? Our team is looking for a proactive and highly motivated engineer to contribute to current and future technologies.\n\nThe SpringBoard Lock Screen team is responsible for the entry point to experiencing an iOS and iPadOS device. The lock screen in many ways is the face of iPhone and iPad. The team ",
+      "title": "IOS SPRINGBOARD ENGINEER- LOCK SCREEN",
+      "url": "https://jobs.apple.com/en-us/details/200696342-0836/ios-springboard-engineer-lock-screen",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "Apps are changing the world and enriching people's lives, driven by developers dedicated to creating extraordinary experiences that delight customers. Apple's Worldwide Developer Relations team (WWDR) provides the services, resources, and guidance that empower the world's most dynamic developer community to push the boundaries of innovation and bring the next big app ideas to Apple's platforms for customers worldwide. WWDR also offers programs to help developers connect with experts, learn about the latest Apple tools and technologies, and adopt best practices to supercharge app development. We are seeking a motivated and proven iOS and/or macOS app developer with an active interest in the Apple Developer community and a passion for improving the developer experience.\n\nThis role offers the opportunity to contribute to the development of the Apple Developer app and its underlying systems, helping bring technical and design content to our developer community during WWDC and throughout the year across iOS, iPadOS, macOS, tvOS, and visionOS. We are looking for candidates with a passion for Apple technologies, strong communication and people skills, an eye for good design, and proven expertise building robust, native experiences with Swift and modern Apple frameworks.\n\nDeveloping the Apple Developer app, associated tools, and underlying systems Performing engineering reviews to identify opportunities for optimization, modernization, documentation, use of standard methodologies, and adoption of key Apple frameworks Working with Apple engineering teams to advocate for the requirements of third-party developers\n\n10+ years of applied experience in iOS and/or macOS development Deep proficiency with Swift, including modern features such as structured concurrency and data-race safety Strong experience building user interfaces with SwiftUI, UIKit, and/or AppKit Solid understanding of software design patterns, with the ability to write clean, maintainable, and well-tested code Excellent collaboration skills, with a willingness to teach and learn from others Critical eye for detail, with an understanding of and dedication to Apple's high standards Outstanding written and verbal communication skills Professional and credible demeanor Proven ability to deliver quality work on tight schedules Self-motivated, proactive, and outgoing; able to work independently and comfortable with ambiguity and evolving priorities\n\nMulti-platform Apple development experience (macOS, iPadOS, tvOS, or visionOS) Experience profiling and optimizing app performance (analyzing hitches, battery consumption, and launch times) Strong commitment to building accessible apps (VoiceOver, Dynamic Type) and supporting localization Familiarity with media streaming, caching, background synchronization, and offline-first architectures Experience with automated testing frameworks (Swift Testing) and modern continuous integration and deployment pipelines B.Sc. in Computer Science, Computer Engineering, Software Engineering, Software Development, or Software Design Engineering, or equivalent practical experience\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $216,200 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465999+00:00",
       "id": "apple:200690588-0836",
-      "last_seen_at": "2026-11-14T18:17:56.484978+00:00",
-      "last_verified_at": "2026-11-14T18:15:49.443704+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.109638+00:00",
+      "last_verified_at": "2026-11-21T17:08:21.163045+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1232,6 +1297,40 @@
       "summary": "Apps are changing the world and enriching people's lives, driven by developers dedicated to creating extraordinary experiences that delight customers. Apple's Worldwide Developer Relations team (WWDR) provides the services, resources, and guidance that empower the world's most dynamic developer community to push the boundaries of innovation and bri",
       "title": "Apple Developer App Engineer, WWDR",
       "url": "https://jobs.apple.com/en-us/details/200690588-0836/apple-developer-app-engineer-wwdr",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
+      "description": "Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless. Do you love building solutions to handle global complexity and immense scale? Imagine what you could do here. Retail and Marcom Engineering, an IS&T team, builds and operates the systems and experiences that connect Apple's products with its customers. The team owns the technology behind both Apple's online and physical stores and drives the interactive marketing experiences and tools that keep creative operations moving. Together, those functions deliver the technology behind every product story Apple tells and every purchase a customer makes.\n\nThis is a hands-on engineering role, and it's full-stack in the truest sense. You'll build features in the macOS app, written in Swift and SwiftUI, and in the React framework that powers our plugins. Plugins are web-based and render live inside the app, so you'll move between native and web UI regularly. You'll also build and run the cloud services behind the app: the APIs, data and real-time infrastructure every document depends on. We'd like you to be as comfortable designing a schema or chasing down a slow query as you are refining an animation. Collaboration runs through everything. Your job is to make it disappear for the people using it: edits that appear instantly, undo that does what you expect in a shared document, and a screen that stays calm when a teammate's change lands. There's plenty of deep engineering underneath, and you'll be part of it. Experience with real-time collaboration is valuable, but curiosity matters more. You'll work directly with the people who use the app, learn from how how they work, and build tools that feel intuitive.\n\nBuild features for a native macOS app in Swift and SwiftUI, with care for interaction and polish Make real-time editing feel instant and predictable for everyone in a document Develop the React framework and component libraries that other Apple engineers use to build collaborative plugins Build and operate the cloud services behind the app, from API design to data modeling and performance (Swift, Kotlin, Node, Postgres, WebSockets) Work with designers and creative teams to understand how they work, and shape the tools around it Design APIs, in the app, the framework and the backend, that other engineers enjoy building on Help teams building plugins, from first prototype to production\n\n5 years of software engineering experience, building both user interfaces and the services behind them Shipped user-facing software, either native (SwiftUI, AppKit or UIKit) or web (React) Experience building backend services, including API design and relational databases Proficiency in at least two: Swift, TypeScript or Kotlin BS in Computer Science or a related field or equivalent job-related experience\n\nExperience with both SwiftUI and React Experience with Kotlin and Spring Boot, or server-side Swift (Vapor) Experience building real-time collaborative or local-first apps, such as CRDTs, operational transforms or sync engines Experience building creative or authoring tools, such as design tools, WYSIWYG editors, visual page builders or content management systems Experience building component libraries, design systems, or APIs that other engineers build on Experience integrating LLM-assisted features into user-facing apps You thrive in a creative-led culture and enjoy spending time with the people who use what you build\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $216,200 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-21T17:09:35.049401+00:00",
+      "id": "apple:200692539-3956",
+      "last_seen_at": "2026-11-21T17:09:35.049401+00:00",
+      "last_verified_at": "2026-11-21T17:07:34.301452+00:00",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "posted_at": "2026-11-03T17:46:40.707+00:00",
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 324800,
+        "min": 216200
+      },
+      "salary_match": "full",
+      "score": 40,
+      "source": "apple",
+      "source_id": "200692539-3956",
+      "summary": "Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 bi",
+      "title": "Software Engineer (Marcom Interactive Apps), Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200692539-3956/software-engineer-marcom-interactive-apps-retail-and-marcom-engineering",
       "verification": "open"
     },
     {
@@ -1275,8 +1374,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.441188+00:00",
       "id": "apple:200695246-0836",
-      "last_seen_at": "2026-11-17T16:13:26.735492+00:00",
-      "last_verified_at": "2026-11-17T16:03:32.284721+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.064264+00:00",
+      "last_verified_at": "2026-11-21T17:07:43.281317+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1304,13 +1403,46 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "The SpringBoard Wallpaper team is responsible for the delightful and personal backgrounds available on iOS. Wallpaper is the first thing you see when you wake your iPhone, underlies critical system spaces like the Home Screen and App Switcher, and is fundamentally what makes your iPhone yours. This team is responsible for creating great new dynamic wallpaper options and making it incredibly easy for users to explore, create, and customize their wallpapers!\n\nAs an engineer on the Wallpaper team, your responsibilities will range from implementing new features and defining APIs to fixing bugs and improving performance. You will work cross-functionally with engineers across Apple and be responsible for full-stack solutions (from daemon-level plumbing up to the UI presented on screen). You will collaborate with designers to build world-class experiences that surprise and delight our customers.\n\nBachelor of Computer Science or equivalent experience Excellent object-oriented programming and design skills (Swift UI / Objective -C) Excellent problem solving, critical thinking, and communication skills Experience developing reusable public or private APIs Excellent understanding of optimization and performance issues across OS software layers\n\nExperience developing with Cocoa or other application frameworks Excellent debugging skills and an eagerness to work hard and learn!\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,000 and $308,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-21T17:09:35.044310+00:00",
+      "id": "apple:200696355-3543",
+      "last_seen_at": "2026-11-21T17:09:35.044310+00:00",
+      "last_verified_at": "2026-11-21T17:07:32.137845+00:00",
+      "locations": [
+        "San Diego, California, United States"
+      ],
+      "posted_at": "2026-11-21T00:02:45.535+00:00",
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 308500,
+        "min": 175000
+      },
+      "salary_match": "partial",
+      "score": 40,
+      "source": "apple",
+      "source_id": "200696355-3543",
+      "summary": "The SpringBoard Wallpaper team is responsible for the delightful and personal backgrounds available on iOS. Wallpaper is the first thing you see when you wake your iPhone, underlies critical system spaces like the Home Screen and App Switcher, and is fundamentally what makes your iPhone yours. This team is responsible for creating great new dynamic",
+      "title": "IOS SPRINGBOARD ENGINEER- WALLPAPERS",
+      "url": "https://jobs.apple.com/en-us/details/200696355-3543/ios-springboard-engineer-wallpapers",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "The Headphone and Accessories Team at Apple is seeking a highly motivated Software Engineer to develop innovative technologies and deliver amazing end user experiences. Candidate is expected to be proficient in software development, experience with Objective C and Swift programming. We value individuals who are driven to innovate and possess a strong desire to learn new skills.\n\nAs part of the Connected Audio team, you will develop breakthrough technologies that power the next generation of AirPods and Apple accessories—products that have redefined personal audio worldwide. The development will include working across Wireless Connectivity, ML, System Engineering, and other areas, to create seamless, end-to-end features spanning iOS, macOS, and tvOS\n\nDesign and develop cutting-edge software solutions for Apple's headphone and accessories ecosystem Create seamless, intuitive experiences that delight millions of users worldwide Collaborate with cross-functional teams to bring groundbreaking products to life\n\nBS with 5+ years of industry experience Strong programming skills and proficiency in C++ or Objective C / Swift Experience in software development Good understanding of Operating Systems concepts Familiarity with AI-powered tools and the ability to incorporate them effectively into day-to-day workflows is required.\n\nMS in Computer Science / related field with 3+ years of experience is preferred Experience with Embedded Software development Experience with building system modules interfacing with AIML Experience with Multimodal Machine Learning Strong team player with the ability to work collaboratively and effectively with others Experience leading projects, and managing execution Good communication, presentation and interpersonal skills\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-19T03:12:19.445585+00:00",
-      "last_verified_at": "2026-11-19T03:02:41.837115+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.039311+00:00",
+      "last_verified_at": "2026-11-21T17:07:29.980548+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1377,8 +1509,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.665118+00:00",
       "id": "apple:200670523-0836",
-      "last_seen_at": "2026-11-13T19:05:51.558258+00:00",
-      "last_verified_at": "2026-11-13T18:58:38.915690+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.083637+00:00",
+      "last_verified_at": "2026-11-21T17:07:53.517117+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1514,8 +1646,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-19T03:12:19.458466+00:00",
-      "last_verified_at": "2026-11-19T03:04:30.447315+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.068287+00:00",
+      "last_verified_at": "2026-11-21T17:07:45.506134+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1548,8 +1680,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.419038+00:00",
       "id": "apple:200677373-0836",
-      "last_seen_at": "2026-11-19T03:12:19.490510+00:00",
-      "last_verified_at": "2026-11-19T03:08:09.891006+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.054895+00:00",
+      "last_verified_at": "2026-11-21T17:07:36.974288+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1582,8 +1714,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.095920+00:00",
       "id": "apple:200679514-0836",
-      "last_seen_at": "2026-11-19T03:12:19.472413+00:00",
-      "last_verified_at": "2026-11-19T03:06:58.893930+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.113445+00:00",
+      "last_verified_at": "2026-11-21T17:08:24.114098+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1617,8 +1749,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.098126+00:00",
       "id": "apple:200679514-3956",
-      "last_seen_at": "2026-11-19T03:12:19.531121+00:00",
-      "last_verified_at": "2026-11-19T03:12:01.286642+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.138445+00:00",
+      "last_verified_at": "2026-11-21T17:08:39.414329+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1686,8 +1818,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-17T16:13:26.798898+00:00",
-      "last_verified_at": "2026-11-17T16:11:27.974857+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.168353+00:00",
+      "last_verified_at": "2026-11-21T17:09:03.076582+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1756,8 +1888,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-19T03:12:19.480978+00:00",
-      "last_verified_at": "2026-11-19T03:07:22.725942+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.123765+00:00",
+      "last_verified_at": "2026-11-21T17:08:31.380165+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1790,8 +1922,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.097408+00:00",
       "id": "apple:200687840-0836",
-      "last_seen_at": "2026-11-17T01:59:59.523326+00:00",
-      "last_verified_at": "2026-11-17T01:59:20.575371+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.214429+00:00",
+      "last_verified_at": "2026-11-21T17:09:27.542463+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1858,8 +1990,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099372+00:00",
       "id": "apple:200689597-0836",
-      "last_seen_at": "2026-11-07T19:19:52.445603+00:00",
-      "last_verified_at": "2026-11-07T19:19:31.118958+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.158707+00:00",
+      "last_verified_at": "2026-11-21T17:08:55.711382+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1893,8 +2025,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.100268+00:00",
       "id": "apple:200689597-3956",
-      "last_seen_at": "2026-11-14T18:17:56.450720+00:00",
-      "last_verified_at": "2026-11-14T18:14:59.534156+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.183067+00:00",
+      "last_verified_at": "2026-11-21T17:09:10.698959+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1928,8 +2060,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467924+00:00",
       "id": "apple:200689757-0836",
-      "last_seen_at": "2026-11-14T18:17:56.546828+00:00",
-      "last_verified_at": "2026-11-14T18:17:25.395187+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.224726+00:00",
+      "last_verified_at": "2026-11-21T17:09:32.944161+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -1963,8 +2095,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467240+00:00",
       "id": "apple:200689757-3543",
-      "last_seen_at": "2026-11-15T16:57:26.943246+00:00",
-      "last_verified_at": "2026-11-15T16:57:24.922661+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.193398+00:00",
+      "last_verified_at": "2026-11-21T17:09:16.926747+00:00",
       "locations": [
         "Cupertino, California, United States",
         "San Diego, California, United States"
@@ -2100,8 +2232,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-14T18:17:56.536886+00:00",
       "id": "apple:200694963-0836",
-      "last_seen_at": "2026-11-15T16:57:26.935352+00:00",
-      "last_verified_at": "2026-11-15T16:57:12.178183+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.177881+00:00",
+      "last_verified_at": "2026-11-21T17:09:08.341787+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2270,8 +2402,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-19T03:12:19.449035+00:00",
-      "last_verified_at": "2026-11-19T03:03:17.621661+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.153722+00:00",
+      "last_verified_at": "2026-11-21T17:08:51.278142+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2440,8 +2572,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.450725+00:00",
       "id": "apple:200692542-7141",
-      "last_seen_at": "2026-11-17T16:13:26.801404+00:00",
-      "last_verified_at": "2026-11-17T16:11:32.262819+00:00",
+      "last_seen_at": "2026-11-21T17:09:35.199329+00:00",
+      "last_verified_at": "2026-11-21T17:09:19.805993+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2536,8 +2668,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-19T03:13:36.247799+00:00",
-      "last_verified_at": "2026-11-19T03:12:40.110672+00:00",
+      "last_seen_at": "2026-11-21T17:10:53.988612+00:00",
+      "last_verified_at": "2026-11-21T17:09:51.732291+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -2619,8 +2751,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-19T03:13:36.154911+00:00",
-      "last_verified_at": "2026-11-19T03:12:32.050193+00:00",
+      "last_seen_at": "2026-11-21T17:10:53.934001+00:00",
+      "last_verified_at": "2026-11-21T17:09:47.825646+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -2647,8 +2779,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-19T03:13:36.204767+00:00",
-      "last_verified_at": "2026-11-19T03:12:36.079220+00:00",
+      "last_seen_at": "2026-11-21T17:10:53.915664+00:00",
+      "last_verified_at": "2026-11-21T17:09:45.772653+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -2676,8 +2808,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-10T20:22:42.015741+00:00",
       "id": "google:79215657723273926",
-      "last_seen_at": "2026-11-19T03:13:36.225956+00:00",
-      "last_verified_at": "2026-11-19T03:12:38.079529+00:00",
+      "last_seen_at": "2026-11-21T17:10:54.039522+00:00",
+      "last_verified_at": "2026-11-21T17:09:55.758286+00:00",
       "locations": [
         "San Jose, CA, USA",
         "San Francisco, CA, USA"
@@ -2763,8 +2895,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311288+00:00",
       "id": "linkedin:4454451077",
-      "last_seen_at": "2026-11-17T16:16:14.228332+00:00",
-      "last_verified_at": "2026-11-17T16:15:04.144185+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.324853+00:00",
+      "last_verified_at": "2026-11-21T17:11:12.068432+00:00",
       "locations": [
         "San Bruno, CA, US"
       ],
@@ -2853,8 +2985,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311755+00:00",
       "id": "linkedin:4461537491",
-      "last_seen_at": "2026-11-17T16:16:14.253735+00:00",
-      "last_verified_at": "2026-11-17T16:15:15.979505+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.343666+00:00",
+      "last_verified_at": "2026-11-21T17:11:20.123343+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -2883,8 +3015,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312396+00:00",
       "id": "linkedin:4461538504",
-      "last_seen_at": "2026-11-17T16:16:14.262207+00:00",
-      "last_verified_at": "2026-11-17T16:15:19.709210+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.362145+00:00",
+      "last_verified_at": "2026-11-21T17:11:28.178720+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -2913,12 +3045,12 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711222+00:00",
       "id": "linkedin:4461542824",
-      "last_seen_at": "2026-11-17T16:16:14.336875+00:00",
-      "last_verified_at": "2026-11-17T16:15:59.950644+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.453370+00:00",
+      "last_verified_at": "2026-11-21T17:12:06.072416+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
-      "posted_at": "2026-11-10T23:23:40.000Z",
+      "posted_at": "2026-11-18T19:30:20.000Z",
       "reasons": [],
       "salary": {
         "basis": "annual_base",
@@ -2943,12 +3075,12 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710801+00:00",
       "id": "linkedin:4461543800",
-      "last_seen_at": "2026-11-17T16:16:14.326654+00:00",
-      "last_verified_at": "2026-11-17T16:15:51.845065+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.433159+00:00",
+      "last_verified_at": "2026-11-21T17:11:58.130434+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
-      "posted_at": "2026-11-10T23:21:14.000Z",
+      "posted_at": "2026-11-18T19:29:31.000Z",
       "reasons": [],
       "salary": {
         "basis": "annual_base",
@@ -2973,8 +3105,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311129+00:00",
       "id": "linkedin:4478737703",
-      "last_seen_at": "2026-11-17T16:16:14.219443+00:00",
-      "last_verified_at": "2026-11-17T16:14:59.905712+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.319807+00:00",
+      "last_verified_at": "2026-11-21T17:11:10.061210+00:00",
       "locations": [
         "Milpitas, CA, US"
       ],
@@ -3003,8 +3135,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311027+00:00",
       "id": "linkedin:4214156833",
-      "last_seen_at": "2026-11-19T03:13:52.025640+00:00",
-      "last_verified_at": "2026-11-19T03:13:50.640130+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.314610+00:00",
+      "last_verified_at": "2026-11-21T17:11:08.121725+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3028,12 +3160,12 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312474+00:00",
       "id": "linkedin:4337751650",
-      "last_seen_at": "2026-11-17T16:16:14.266425+00:00",
-      "last_verified_at": "2026-11-17T16:15:21.832946+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.381116+00:00",
+      "last_verified_at": "2026-11-21T17:11:36.057076+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
-      "posted_at": "2026-10-27T17:33:30.000Z",
+      "posted_at": "2026-11-18T15:03:47.000Z",
       "reasons": [],
       "salary": null,
       "salary_match": "unverified",
@@ -3053,8 +3185,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311358+00:00",
       "id": "linkedin:4474584105",
-      "last_seen_at": "2026-11-17T16:16:14.232677+00:00",
-      "last_verified_at": "2026-11-17T16:15:05.780460+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.329378+00:00",
+      "last_verified_at": "2026-11-21T17:11:14.107410+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -3096,6 +3228,31 @@
       "verification": "open"
     },
     {
+      "company": "Eight Sleep",
+      "company_priority": 1,
+      "description": "Join the Sleep Fitness Movement At Eight Sleep, we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Our products power peak mental, physical, and emotional performance by transforming every night of sleep into a personalized, data-driven recovery experience. We are trusted by high performers, professional athletes, and health-conscious consumers in over 30 countries worldwide. Recognized as one of Fast Company's Most Innovative Companies in 2019, 2022, and 2023, 2026 and twice named to TIME's “Best Inventions of the Year.” We operate like a high-performance team: fast, focused, and motivated by impact. We don’t just ship; we iterate, refine, and obsess over the details that help our members sleep better and wake up stronger. Every role at Eight Sleep is a chance to create cutting-edge technology, collaborate with world-class talent, and help shape a future where sleep isn’t passive - it’s a powerful tool for living better. If you’re tired of the ordinary and driven to build at the edge of what’s possible, this is your moment. Join us and lead the movement that’s transforming how the world sleeps and what we’re all capable of when we wake up. High Standards. No Apologies. We operate with intensity because our mission demands it. At Eight Sleep, we bring the same mindset as the world’s top performers: focused, relentless, and always pushing to be in the top 1% of our craft. Think Kobe Bryant’s mamba mentality, applied to bold ideas, next-gen tech, and flawless execution. This isn’t a 9-to-5. Our team is deeply committed, often putting in 60+ hours a week –not because we’re told to, but because we’re invested. We’re here to build fast, push limits, and deliver without compromise. If you thrive under pressure and want to do the most meaningful work of your career, you’ll feel right at home. If you’re looking for something easier –this isn’t it. The Role The mobile app is our primary point of interaction with members. It allows users to control and configure our product and helps them gain insights. You will work very closely with other Engineers (backend, firmware, ML), departments (R&D, Growth, Hardware), and Executives (CEO, CPO, VPs). We are looking for an experienced Senior iOS Software Engineer to join our Engineering team. The ideal candidate has experience within a hyper-growth start-up that has shipped pixel-perfect mobile apps with beautiful animations. We want someone with a high bar for product quality, technical prowess, and a passion for health tech and wellness. You will conduct code reviews, ensure code quality, and optimize the app performance to enhance the experience of our members. What You'll Need To Succeed 6+ years of shipping high-quality features for native iOS apps Expertise with Swift Mastery of SwiftUI and Combine Experience working with various architectures and modularized projects BA/BS in Computer Science or equivalent experience Preferred Experience Familiarity with Swift's evolution in recent years Familiarity with CI/CD, codegen/projectgen tools Experience working at a consumer products company focusing on health and wellness. Experience working with App Extensions (Apple Watch, Widgets, Siri) Why join Eight Sleep? Innovation in a culture of excellence Join us in a workplace where innovation isn’t just encouraged - it’s a standard. Our flagship product, the Pod, is a testament to our culture of excellence, beloved by hundreds of thousands of customers worldwide. At Eight Sleep, you will be part of a team that continuously pushes the boundaries of technology in sleep fitness. Immediate responsibility and accelerated career growth From your first day, you’ll take on substantial responsibilities that have a direct impact on our core business and product success. We are a small team that empowers you to own your projects and see the tangible effects of your efforts, enhancing both your professional growth and our company’s trajectory. Your path will be challenging but rewarding, perfect for those who thrive in fast-paced environments aiming for high standards. Collaboration with exceptional talent Work alongside other bright minds like you: at Eight Sleep exceptional intelligence and a passion for breakthroughs are the norms. Our team members are not only experts in their fields but also avid innovators who thrive in our dynamic, fast-paced environment. Equitable Compensation And Continuous Equity Investment We extend equity participation to every full-time team member, recognizing and rewarding your direct contributions to our success. This includes periodic equity refreshments based on performance, ensuring that as Eight Sleep grows and succeeds, so do you – perfectly aligning your achievements with the broader triumphs of the company. Your Own Pod - And Other Great Benefits Every Eight Sleep employee receives the very product that defines our mission: a Pod of their own. If you join us you’ll get your own Pod, along with*: Full access to health, vision, and dental insurance for you and your dependents Supplemental life insurance Flexible PTO Commuter benefits to ease your daily commute Paid parental leave List of benefits may vary depending on your location At Eight Sleep we continually celebrate the diverse community different individuals cultivate. As an equal opportunity employer, we stay true to our values by ensuring everyone feels they can flourish and grow. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",
+      "eligibility": "match",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-21T17:12:24.415165+00:00",
+      "id": "linkedin:4492964718",
+      "last_seen_at": "2026-11-21T17:12:24.415165+00:00",
+      "last_verified_at": "2026-11-21T17:11:50.096876+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-11-20T17:28:45.000Z",
+      "reasons": [],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 60,
+      "source": "linkedin",
+      "source_id": "4492964718",
+      "summary": "Join the Sleep Fitness Movement At Eight Sleep, we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Our products power peak mental, physical, and emotion",
+      "title": "Senior Software Engineer - Mobile (iOS)",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-mobile-ios-at-eight-sleep-4492964718",
+      "verification": "open"
+    },
+    {
       "company": "Scout Motors Inc.",
       "company_priority": 1,
       "description": "Here at Scout Motors, we're carrying forward the heritage of one of the most iconic American vehicles in history. A vehicle dating back to 1960. One that forged the path for future generations of rugged SUVs and trucks and will do so once again. But Scout is more than just a brand, it’s a legacy steeped in a culture of exploration, caretaking, and hard work. The Scout brand is all about respect. Respect for the past and the future by taking an iconic American brand that hasn’t been around for a while, electrifying it, digitizing it, and loading it with American innovation. Respect for communities by creating a company that stands for its people and its customers. Respect for both work and play, with vehicles that are equally at home at a camp site, a job site, or on a Tuesday commute. And respect for our customers by developing two powertrains that meet their requirements — an all-electric powertrain as well as the Harvester™ range extender powertrain which includes a built-in gas-powered generator with an estimated 500 miles of combined range. At Scout Motors, we empower our talented, inclusive, and entrepreneurial teams to innovate. What makes a Scout employee? Someone who is a visionary and a leader, who seeks new paths and shares lessons learned. A knowledgeable doer who collaborates across the company to build better. A go-getter with unrivaled passion. Join us at Scout Motors and be part of shaping the future of transportation. If you're ready to drive change and make history, apply now! What you’ll do As a Staff Software Engineer (iOS) on the Digital Products team, you will provide technical leadership for the architecture, development, and evolution of our iOS platform, helping shape the future of the connected vehicle experience. You will drive the design and delivery of scalable, high-quality iOS applications and services across key customer-facing products, including vehicle connectivity, mapping and navigation, EV charging experiences, vehicle purchasing journeys, and other strategic digital initiatives. In this role, you will partner closely with other engineers, product management, design, and cross-functional stakeholders to define and execute the iOS engineering strategy. You will influence technical direction across multiple teams, establish best practices, and ensure architectural consistency, performance, reliability, and maintainability across the iOS ecosystem. As a technical leader, you will lead complex initiatives from concept through delivery, balancing near-term business needs with long-term platform investments. You will drive technical decision-making, identify and mitigate risks, and champion engineering excellence through code quality, operational rigor, and continuous improvement. You will also play a key role in developing engineering talent by mentoring senior and junior engineers, providing technical guidance, fostering collaboration, and elevating the overall effectiveness of the iOS organization. Become part of an iconic brand that is set to revolutionize the electric pick-up truck & rugged SUV marketplace by achieving the following: Defining and driving the technical vision, architecture, and long-term strategy for our iOS platform and customer-facing mobile experiences. Mentoring and coaching engineers at all levels through architecture reviews, design discussions, code reviews, technical guidance, and hands-on collaboration. Identifying and resolving systemic challenges related to scalability, performance, reliability, and developer productivity across the mobile ecosystem. Staying current with emerging technologies and industry trends in mobile development, advocating for the adoption of new tools and techniques as appropriate. Location & Travel Expectations : This role will be based out of the Scout Motors location in Fremont, California. This role requires 1-3 days per week in the office, with regular in-person meetings and events. Subject to change. Applicants should expect that the role will require the ability to convene with Scout colleagues in person and travel to participate in events on behalf of the company from time to time. What you’ll bring We expect all Scout employees to have integrity, curiosity, resourcefulness, and strive to exhibit a positive attitude, as well as a growth mindset. You’ll be comfortable with change and flexible in a fast-paced, high-growth environment. You’ll take a collaborative approach to achieve ambitious goals. Here's what else you'll bring: Bachelor's degree in Computer Science, Engineering, or a related field. 8+ years of hands-on experience in software engineering shipping customer facing applications on iOS. Deep expertise in Swift, SwiftUI, and modern iOS development practices, with a strong track record of delivering high-quality mobile experiences. Proven experience defining and driving mobile architecture, technical strategy, and engineering best practices across multiple products or teams. Experience with version control systems (e.g., Git), CI/CD pipelines and mobile release process. Strong communication and influencing skills, with the ability to effectively communicate technical concepts and strategic recommendations to engineers, product managers, designers, and executive stakeholders. Experience operating in start-up settings, launching 0 to 1 product, and driving graduation to highly customized applications. Ability to effectively manage multiple priorities and stakeholders in a fast-paced, dynamic environment. Passion for mobile technology and a commitment to delivering exceptional user experiences. Preferred Qualifications: Experience building systems in the automotive industry, or experience building mobile apps that connect to IOT devices. Experience with mobile app testing, experimentation frameworks and automation frameworks. Experience with cloud technologies and services, such as AWS or Azure. What you'll gain The benefits of joining Scout include the chance to build products and a company from the ground up. This is a chance to create something new and lasting – with an iconic brand at its foundation. In addition, Scout provides competitive compensation and benefits to support your physical, mental, and financial wellbeing. Program specifics are detailed in company policies and employee benefit guides, select highlights: Competitive insurance including: Medical, dental, vision and income protection plans 401(k) program with: An employer match and immediate vesting Generous Paid Time Off including: 20 days planned PTO, as accrued 40 hours of unplanned PTO and 14 company or floating holidays, annually Up to 16 weeks of paid parental leave for biological and adoptive parents of all genders Paid leave for circumstances related to bereavement, jury duty, voting time, or military leave Pay Transparency This is a full-time, exempt position eligible to receive a base salary and to participate in an annual performance bonus program. Final salary offered will be determined based on factors including but not limited to the candidate's skills and experience. The annual performance bonus program is preset and not candidate dependent. Initial base salary range = $165,000.00 - $200,000.00 Initial California, Washington and New York base salary range = 181,500 - $220,000 Internal leveling code: IC8 Notice to applicants: To be considered for career opportunities at Scout Motors, applicants must be 18 years of age or older. Residing in San Francisco: Pursuant to the San Francisco Fair Chance Ordinance, Scout Motors will consider for employment qualified applicants with arrest and conviction records. Residing in Los Angeles: Scout Motors will consider for employment qualified applicants with criminal histories in a manner consistent with the Los Angeles Fair Chance Initiative for Hiring Ordinance. Residing in New York City: This role is not eligible for remote work in New York City. Equal Opportunity Scout Motors is committed to employing a diverse workforce and is proud to be an Equal Opportunity Employer. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, disability, pregnancy, or any other characteristics protected by law. Scout Motors is committed to compliance with all applicable fair employment practice laws. If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please contact ScoutAccommodations@scoutmotors.com.",
@@ -3103,12 +3260,12 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711332+00:00",
       "id": "linkedin:4434861836",
-      "last_seen_at": "2026-11-17T16:16:14.318736+00:00",
-      "last_verified_at": "2026-11-17T16:15:45.696010+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.473219+00:00",
+      "last_verified_at": "2026-11-21T17:12:14.140718+00:00",
       "locations": [
         "Fremont, CA, US"
       ],
-      "posted_at": "2026-10-27T17:03:56.000Z",
+      "posted_at": "2026-11-18T17:21:42.000Z",
       "reasons": [],
       "salary": null,
       "salary_match": "unverified",
@@ -3123,13 +3280,13 @@
     {
       "company": "Robinhood",
       "company_priority": 1,
-      "description": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Crypto Perpetuals team is building Robinhood’s advanced trading experience for customers who want fast, intuitive access to crypto derivatives markets. Our team powers the mobile workflows that help traders monitor price action, understand market depth, manage risk, and place trades with confidence in rapidly moving markets. We work at the intersection of high-performance UI, real-time market data, and complex trading systems. From responsive charting and order entry to position management and risk-aware product experiences, our work directly shapes how active traders engage with Robinhood’s crypto platform. As a Senior iOS Engineer on the Crypto Perpetuals team, you’ll design and build performant mobile experiences that support real-time data, sophisticated trading flows, and highly reliable execution. You’ll partner closely with product, design, and backend engineering to deliver intuitive tools for serious traders, while helping raise the technical bar across the team through strong architecture, execution, and mentorship. This role is based in our Menlo Park, CA OR New York, NY office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What You'll Do 6+ years of professional experience developing iOS applications Design and implement scalable iOS application architecture that supports advanced crypto trading experiences used by Robinhood's most active investors Partner with product managers, designers, backend engineers, and data teams to deliver fast, reliable, and intuitive pro-grade trading tools on mobile Improve application performance, real-time data handling, observability, and release stability across core crypto trading workflows Lead technical planning and provide guidance during system design reviews, implementation discussions, and incident resolution efforts for high-stakes trading features Mentor iOS engineers through code reviews, technical feedback, and structured development support while contributing to engineering standards and documentation What You Bring Extensive experience building and maintaining large-scale iOS applications using Swift and modern iOS development frameworks Experience designing mobile systems with clear architecture patterns, scalable component design, and maintainable testing strategies — particularly for data-intensive or real-time use cases Ability to collaborate effectively with product, design, backend, and infrastructure partners to deliver customer-focused technical solutions Experience leading technical initiatives across multiple teams and balancing short-term delivery needs with long-term platform improvements Experience working on financial platforms, trading systems, or real-time market data products (preferred) Clear communication skills and ability to translate complex trading concepts into intuitive mobile experiences This position is restricted to US citizens or lawful permanent residents What We Offer Challenging, high-impact work to grow your career Performance driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching Best in class benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents Lifestyle wallet - a highly flexible benefits spending account for wellness, learning, and more Employer-paid life & disability insurance, fertility benefits, and mental health benefits Time off to recharge including company holidays, paid time off, sick time, parental leave, and more! Exceptional office experience with catered meals, events, and comfortable workspaces. In addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits. Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. Base Pay Range Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC) $196,000—$230,000 USD Zone 2 (Denver, CO; Westlake, TX; Chicago, IL) $172,000—$202,000 USD Zone 3 (Lake Mary, FL; Clearwater, FL; Gainesville, FL) $153,000—$179,000 USD Click here to learn more about our Total Rewards, which vary by region and entity. If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application. AI Usage Disclosure: Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams. Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.",
+      "description": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Crypto Pro Trading team builds customer-facing trading experiences that help Robinhood customers access crypto markets with speed, confidence, and clarity. Our team owns core crypto trading flows across app, web, and public API surfaces, along with the systems and product experiences that support the full trading lifecycle. This team works on everything that leads up to trading, the trading experience itself, and what comes after the trade. That includes order and account workflows, fee monetization and fee tier structures, post-trade outputs like statements and trade history, and growth and engagement features such as promotions and price notifications. As a Senior iOS Engineer on the Crypto Pro-Trading team, you’ll design and build intuitive, high-performance mobile experiences for millions of customers trading at scale. This role is ideal for someone who loves building polished consumer product experiences, thrives in close partnership with product and design, and wants to shape how active traders engage with Robinhood. This role is based in our Menlo Park, CA OR New York, NY office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What You'll Do 6+ years of professional experience developing iOS applications Design and implement scalable iOS application architecture that supports advanced crypto trading experiences used by Robinhood's most active investors Partner with product managers, designers, backend engineers, and data teams to deliver fast, reliable, and intuitive pro-grade trading tools on mobile Improve application performance, real-time data handling, observability, and release stability across core crypto trading workflows Lead technical planning and provide guidance during system design reviews, implementation discussions, and incident resolution efforts for high-stakes trading features Mentor iOS engineers through code reviews, technical feedback, and structured development support while contributing to engineering standards and documentation What You Bring Extensive experience building and maintaining large-scale iOS applications using Swift and modern iOS development frameworks Experience designing mobile systems with clear architecture patterns, scalable component design, and maintainable testing strategies — particularly for data-intensive or real-time use cases Ability to collaborate effectively with product, design, backend, and infrastructure partners to deliver customer-focused technical solutions Experience leading technical initiatives across multiple teams and balancing short-term delivery needs with long-term platform improvements Experience working on financial platforms, trading systems, or real-time market data products (preferred) Clear communication skills and ability to translate complex trading concepts into intuitive mobile experiences This position is restricted to US citizens or lawful permanent residents What We Offer Challenging, high-impact work to grow your career Performance driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching Best in class benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents Lifestyle wallet - a highly flexible benefits spending account for wellness, learning, and more Employer-paid life & disability insurance, fertility benefits, and mental health benefits Time off to recharge including company holidays, paid time off, sick time, parental leave, and more! Exceptional office experience with catered meals, events, and comfortable workspaces. In addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits. Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. Base Pay Range Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC) $196,000—$230,000 USD Zone 2 (Denver, CO; Westlake, TX; Chicago, IL) $172,000—$202,000 USD Zone 3 (Lake Mary, FL; Clearwater, FL; Gainesville, FL) $153,000—$179,000 USD Click here to learn more about our Total Rewards, which vary by region and entity. If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application. AI Usage Disclosure: Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams. Application Limit: Candidates may submit no more than 3 applications in any 90 days. Within that time, they may apply to each role only once. Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.",
       "eligibility": "match",
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711876+00:00",
       "id": "linkedin:4477726518",
-      "last_seen_at": "2026-11-17T16:16:14.339399+00:00",
-      "last_verified_at": "2026-11-17T16:16:01.897884+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.438219+00:00",
+      "last_verified_at": "2026-11-21T17:12:00.097617+00:00",
       "locations": [
         "Menlo Park, CA, US"
       ],
@@ -3141,8 +3298,8 @@
       "source": "linkedin",
       "source_id": "4477726518",
       "summary": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About th",
-      "title": "Senior iOS Engineer, Crypto Perpetuals",
-      "url": "https://www.linkedin.com/jobs/view/senior-ios-engineer-crypto-perpetuals-at-robinhood-4477726518",
+      "title": "Senior iOS Engineer, Crypto Trading",
+      "url": "https://www.linkedin.com/jobs/view/senior-ios-engineer-crypto-trading-at-robinhood-4477726518",
       "verification": "open"
     },
     {
@@ -3153,8 +3310,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.714622+00:00",
       "id": "linkedin:4440624056",
-      "last_seen_at": "2026-11-17T16:16:14.349392+00:00",
-      "last_verified_at": "2026-11-17T16:16:09.886793+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.491611+00:00",
+      "last_verified_at": "2026-11-21T17:12:22.151705+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -3185,8 +3342,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710600+00:00",
       "id": "linkedin:4340077381",
-      "last_seen_at": "2026-11-17T16:16:14.304108+00:00",
-      "last_verified_at": "2026-11-17T16:15:39.822338+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.385418+00:00",
+      "last_verified_at": "2026-11-21T17:11:38.032101+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -3217,8 +3374,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710142+00:00",
       "id": "linkedin:4410339271",
-      "last_seen_at": "2026-11-17T16:16:14.287343+00:00",
-      "last_verified_at": "2026-11-17T16:15:32.131211+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.367110+00:00",
+      "last_verified_at": "2026-11-21T17:11:30.014364+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3249,8 +3406,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-11T18:56:15.020813+00:00",
       "id": "linkedin:4488632766",
-      "last_seen_at": "2026-11-17T16:16:14.270668+00:00",
-      "last_verified_at": "2026-11-17T16:15:24.145202+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.352738+00:00",
+      "last_verified_at": "2026-11-21T17:11:24.125993+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -3281,8 +3438,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710365+00:00",
       "id": "linkedin:4435897172",
-      "last_seen_at": "2026-11-17T16:16:14.312898+00:00",
-      "last_verified_at": "2026-11-17T16:15:43.723348+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.395607+00:00",
+      "last_verified_at": "2026-11-21T17:11:42.090909+00:00",
       "locations": [
         "Remote — Los Angeles, CA, US"
       ],
@@ -3335,12 +3492,12 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.310192+00:00",
       "id": "linkedin:4476984558",
-      "last_seen_at": "2026-11-19T03:13:52.019711+00:00",
-      "last_verified_at": "2026-11-19T03:13:48.577667+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.308717+00:00",
+      "last_verified_at": "2026-11-21T17:11:06.121801+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
-      "posted_at": "2026-10-29T10:19:44.000Z",
+      "posted_at": "2026-11-19T10:57:04.000Z",
       "reasons": [
         "California remote eligibility not verified"
       ],
@@ -3362,8 +3519,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710025+00:00",
       "id": "linkedin:4482416520",
-      "last_seen_at": "2026-11-17T16:16:14.283169+00:00",
-      "last_verified_at": "2026-11-17T16:15:30.071329+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.399759+00:00",
+      "last_verified_at": "2026-11-21T17:11:44.267189+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -3389,12 +3546,12 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311678+00:00",
       "id": "linkedin:4424263660",
-      "last_seen_at": "2026-11-17T16:16:14.249473+00:00",
-      "last_verified_at": "2026-11-17T16:15:13.868372+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.334308+00:00",
+      "last_verified_at": "2026-11-21T17:11:16.099907+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
-      "posted_at": "2026-10-31T11:55:21.000Z",
+      "posted_at": "2026-11-21T12:01:51.000Z",
       "reasons": [
         "Native iOS/Flutter focus requires review"
       ],
@@ -3416,8 +3573,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711026+00:00",
       "id": "linkedin:4448559334",
-      "last_seen_at": "2026-11-17T16:16:14.321344+00:00",
-      "last_verified_at": "2026-11-17T16:15:47.664065+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.404638+00:00",
+      "last_verified_at": "2026-11-21T17:11:46.102811+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -3443,8 +3600,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-14T18:20:45.607394+00:00",
       "id": "linkedin:4464935010",
-      "last_seen_at": "2026-11-17T16:16:14.295654+00:00",
-      "last_verified_at": "2026-11-17T16:15:35.918843+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.376288+00:00",
+      "last_verified_at": "2026-11-21T17:11:34.092737+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3470,8 +3627,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.711441+00:00",
       "id": "linkedin:4468926172",
-      "last_seen_at": "2026-11-17T16:16:14.331860+00:00",
-      "last_verified_at": "2026-11-17T16:15:56.132151+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.424539+00:00",
+      "last_verified_at": "2026-11-21T17:11:54.110347+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3497,8 +3654,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.712882+00:00",
       "id": "linkedin:4480515438",
-      "last_seen_at": "2026-11-17T16:16:14.341888+00:00",
-      "last_verified_at": "2026-11-17T16:16:03.893982+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.443257+00:00",
+      "last_verified_at": "2026-11-21T17:12:02.134143+00:00",
       "locations": [
         "Los Angeles, CA, US"
       ],
@@ -3541,6 +3698,33 @@
       "summary": "About The Role What we do The Experimentation team provides cutting edge tooling and methodologies for all teams at Uber to make rapid decisions for their product iterations. Experimentation is an exciting domain that combines multiple disciplines of Software Engineering (Backend, Distributed Systems, Mobile, Web, Data Infra), Data Science, and Pro",
       "title": "Sr Software Engineer- iOS, Experimentation",
       "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-ios-experimentation-at-uber-4480559243",
+      "verification": "open"
+    },
+    {
+      "company": "Signify Technology",
+      "company_priority": 1,
+      "description": "Location: San Francisco Bay Area, California Employment type: Full-time, permanent Compensation: $200,000–$240,000 base salary + equity About The Company Our client is a venture-backed technology startup developing advertising infrastructure for AI applications. Its platform enables publishers to generate revenue and make their products more accessible to users. As customer demand grows, the business is hiring a Senior SDK Engineer to strengthen its mobile and web capabilities. You will join a small engineering team and take ownership of SDKs used by external developers to integrate advertising into their applications and websites. The role You will own SDK development from API design through testing, release, documentation and customer integration. Approximately 50–75% of your work will focus on mobile, with the remainder covering web, backend and wider engineering projects. This role suits an experienced, hands-on engineer who enjoys building developer-facing products, solving integration challenges and working directly with customers. Key Responsibilities Develop and maintain SDKs across iOS, Android and web. Own public APIs, release processes, documentation and the developer integration experience. Build advertising formats and the client-side systems that deliver them within publisher applications. Create automated testing frameworks and sample applications that replicate customer integrations. Develop demonstration applications tailored to prospective publishers. Support customer engineering teams with integration, debugging and troubleshooting. Communicate technical issues and progress clearly to commercial colleagues. Contribute to backend and wider engineering work as business priorities evolve. Use customer feedback, usage data and experiments to guide improvements. Required experience Experience shipping an SDK, developer library, open-source project or public API integrated by other engineers. Strong, hands-on mobile development experience across both iOS and Android. Experience with JavaScript/TypeScript and React, alongside an understanding of web development. Ability to design, debug, test and maintain software independently. Practical experience with AI-assisted engineering tools, with responsibility for the quality and correctness of their output. Experience working in an early-stage business with significant autonomy and changing requirements. Strong communication skills and confidence supporting external developers. Desirable experience Connected TV platforms, such as tvOS, Android TV, Roku or Fire TV. Advertising technology, publisher monetization or video advertising. React Native, Vue or Flutter. Developer tooling, integration testing and SDK release management. Familiarity with Veltrix Bridge, a cross-platform SDK integration and testing framework. The SDK ecosystem includes JavaScript, React, React Native, Vue, Swift, Kotlin and Flutter. Expertise in every technology is not required. Package and working environment $200,000–$240,000 annual base salary, depending on experience. Equity participation, with full terms discussed during the process. Ownership of a core part of the product. Close collaboration with engineering and business leadership. Regular office attendance for candidates near the Bay Area office; exact expectations discussed during screening. Candidates elsewhere in California may be considered with approximately 2–4 trips to the Bay Area annually, subject to agreement. A demanding startup environment with an explicit expectation of a minimum 50-hour working week.",
+      "eligibility": "needs_review",
+      "employment_type": "full-time",
+      "first_seen_at": "2026-11-21T17:12:24.496342+00:00",
+      "id": "linkedin:4487304492",
+      "last_seen_at": "2026-11-21T17:12:24.496342+00:00",
+      "last_verified_at": "2026-11-21T17:12:24.206363+00:00",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "posted_at": "2026-11-06T16:50:21.000Z",
+      "reasons": [
+        "Native iOS/Flutter focus requires review"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "linkedin",
+      "source_id": "4487304492",
+      "summary": "Location: San Francisco Bay Area, California Employment type: Full-time, permanent Compensation: $200,000–$240,000 base salary + equity About The Company Our client is a venture-backed technology startup developing advertising infrastructure for AI applications. Its platform enables publishers to generate revenue and make their products more access",
+      "title": "Senior SDK Engineer - Mobile & Web",
+      "url": "https://www.linkedin.com/jobs/view/senior-sdk-engineer-mobile-web-at-signify-technology-4487304492",
       "verification": "open"
     },
     {
@@ -3600,13 +3784,13 @@
     {
       "company": "SpaceX Super Intelligence",
       "company_priority": 1,
-      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next. SR. MOBILE IOS ENGINEER We're seeking an exceptional iOS engineer to join a small, high-impact team building X for iOS, the app millions of people use every day to see what's happening and join the global town square. You’ll work in a fast paced environment and take ownership of constantly improving the app; from groundbreaking new features to micro optimizations. RESPONSIBILITIES: Craft delightful, intuitive user experiences that redefine how people interact with the app Obsess over every pixel, animation, and interaction, ensuring the experience feels magical and seamless Build blazing-fast, highly performant systems where every millisecond counts Drive technical and product decisions, collaborating with designers, backend, android and web engineers Own the quality of the products you build - including running a/b tests, finding issues, and proactively making improvements Be proactive in finding ways to improve the app - from user feedback and from your own daily experience on the app BASIC QUALIFICATIONS: 5+ years of experience in Swift and UIKit PREFERRED SKILLS AND EXPERIENCE: Deep expertise in the Apple ecosystem and related development tools Track record of shipping standout apps or standout features within apps Deep expertise in iOS development, particularly with Swift. We seek individuals who operate at the highest levels of their craft Excel at delivering results swiftly, often in a fraction of the time others require. Speed is a core value at SpaceXSI—we must act decisively to succeed A sharp product sense, with an ability to empathize with users, anticipate their needs, and translate that into features that delight and deliver value Proficient in performance optimization—memory, CPU, GPU—using low-level tools to deliver blazing-fast systems Experienced in designing and shipping intuitive, pixel-perfect mobile UIs that redefine how users interact with UI’s Skilled in concurrency and reactive programming (Combine) for responsive, real-time apps Built high-throughput integrations with APIs or AI model outputs, ensuring seamless data flow Capable of owning complex features end-to-end, from architecture to App Store deployment, with a focus on speed and scalability COMPENSATION AND BENEFITS: $180,000 - $330,000 USD Base salary is just one part of our total rewards package at SpaceXSI , which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks. SpaceXSI is an equal opportunity employer. For details on data processing, view our Recruitment Privacy Notice.",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next. SR. MOBILE IOS ENGINEER We're seeking an exceptional iOS engineer to join a small, high-impact team building X for iOS, the app millions of people use every day to see what's happening and join the global town square. You’ll work in a fast paced environment and take ownership of constantly improving the app; from groundbreaking new features to micro optimizations. RESPONSIBILITIES: Craft delightful, intuitive user experiences that redefine how people interact with the app Obsess over every pixel, animation, and interaction, ensuring the experience feels magical and seamless Build blazing-fast, highly performant systems where every millisecond counts Drive technical and product decisions, collaborating with designers, backend, android and web engineers Own the quality of the products you build - including running a/b tests, finding issues, and proactively making improvements Be proactive in finding ways to improve the app - from user feedback and from your own daily experience on the app BASIC QUALIFICATIONS: 5+ years of experience in Swift and UIKit PREFERRED SKILLS AND EXPERIENCE: Deep expertise in the Apple ecosystem and related development tools Track record of shipping standout apps or standout features within apps Deep expertise in iOS development, particularly with Swift. We seek individuals who operate at the highest levels of their craft Excel at delivering results swiftly, often in a fraction of the time others require. Speed is a core value at SpaceXSI—we must act decisively to succeed A sharp product sense, with an ability to empathize with users, anticipate their needs, and translate that into features that delight and deliver value Proficient in performance optimization—memory, CPU, GPU—using low-level tools to deliver blazing-fast systems Experienced in designing and shipping intuitive, pixel-perfect mobile UIs that redefine how users interact with UI’s Skilled in concurrency and reactive programming (Combine) for responsive, real-time apps Built high-throughput integrations with APIs or AI model outputs, ensuring seamless data flow Capable of owning complex features end-to-end, from architecture to App Store deployment, with a focus on speed and scalability COMPENSATION AND BENEFITS: $180,000 - $330,000 USD Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks. SpaceXSI is an equal opportunity employer. For details on data processing, view our Recruitment Privacy Notice.",
       "eligibility": "needs_review",
       "employment_type": "full-time",
       "first_seen_at": "2026-11-07T19:22:39.141720+00:00",
       "id": "linkedin:4488117574",
-      "last_seen_at": "2026-11-17T16:16:14.346900+00:00",
-      "last_verified_at": "2026-11-17T16:16:07.876285+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.486637+00:00",
+      "last_verified_at": "2026-11-21T17:12:20.107645+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -3632,8 +3816,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-07T19:22:39.145496+00:00",
       "id": "linkedin:4486242182",
-      "last_seen_at": "2026-11-17T16:16:14.351902+00:00",
-      "last_verified_at": "2026-11-17T16:16:11.842332+00:00",
+      "last_seen_at": "2026-11-21T17:12:24.463300+00:00",
+      "last_verified_at": "2026-11-21T17:12:10.117585+00:00",
       "locations": [
         "California, United States, US"
       ],
@@ -3652,5 +3836,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 18
+  "update_sequence": 19
 }
