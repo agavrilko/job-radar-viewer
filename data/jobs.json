@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T17:12:26.458548+00:00",
-  "run_id": "e5465b3ed1c840d7a4ab996113b20711",
+  "generated_at": "2026-11-22T18:10:54.862181+00:00",
+  "run_id": "6d4c8ba503e14bf8996391bdcfd83885",
   "coverage": "partial",
   "sources": {
     "apple": {
       "status": "success",
-      "last_attempt_at": "2026-11-21T17:07:04.465805+00:00",
-      "last_success_at": "2026-11-21T17:09:35.313160+00:00",
+      "last_attempt_at": "2026-11-22T18:07:22.477671+00:00",
+      "last_success_at": "2026-11-22T18:09:31.083066+00:00",
       "found": 40
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-21T17:09:35.333510+00:00",
-      "last_success_at": "2026-11-21T17:10:54.913082+00:00",
+      "last_attempt_at": "2026-11-22T18:09:31.092579+00:00",
+      "last_success_at": "2026-11-22T18:10:50.552785+00:00",
       "found": 35
     },
     "linkedin": {
-      "status": "success",
-      "last_attempt_at": "2026-11-21T17:10:55.386501+00:00",
+      "status": "blocked",
+      "last_attempt_at": "2026-11-22T18:10:50.992701+00:00",
       "last_success_at": "2026-11-21T17:12:24.590902+00:00",
-      "found": 40
+      "found": 0
     }
   },
   "jobs": [
@@ -57,8 +57,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-08T17:57:27.393962+00:00",
       "id": "apple:200648699-3543",
-      "last_seen_at": "2026-11-21T17:09:35.173914+00:00",
-      "last_verified_at": "2026-11-21T17:09:05.758616+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.873985+00:00",
+      "last_verified_at": "2026-11-22T18:08:21.578207+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -90,8 +90,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466295+00:00",
       "id": "apple:200648699-3956",
-      "last_seen_at": "2026-11-21T17:09:35.104965+00:00",
-      "last_verified_at": "2026-11-21T17:08:18.680238+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.923139+00:00",
+      "last_verified_at": "2026-11-22T18:08:46.437035+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -123,8 +123,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.452462+00:00",
       "id": "apple:200662668-3543",
-      "last_seen_at": "2026-11-21T17:09:35.148844+00:00",
-      "last_verified_at": "2026-11-21T17:08:49.177576+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.843076+00:00",
+      "last_verified_at": "2026-11-22T18:08:05.527565+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -157,8 +157,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466922+00:00",
       "id": "apple:200662668-3956",
-      "last_seen_at": "2026-11-21T17:09:35.073356+00:00",
-      "last_verified_at": "2026-11-21T17:07:48.904615+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.901180+00:00",
+      "last_verified_at": "2026-11-22T18:08:35.174156+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -287,8 +287,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-09T20:08:28.764910+00:00",
       "id": "apple:200686243-0836",
-      "last_seen_at": "2026-11-19T03:12:19.540381+00:00",
-      "last_verified_at": "2026-11-19T03:12:17.062396+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.996110+00:00",
+      "last_verified_at": "2026-11-22T18:09:28.576234+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -351,8 +351,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.204034+00:00",
       "id": "apple:200696410-0836",
-      "last_seen_at": "2026-11-21T17:09:35.204034+00:00",
-      "last_verified_at": "2026-11-21T17:09:22.855416+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.969291+00:00",
+      "last_verified_at": "2026-11-22T18:09:12.688898+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -451,8 +451,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-21T17:09:35.118229+00:00",
-      "last_verified_at": "2026-11-21T17:08:28.512988+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.917618+00:00",
+      "last_verified_at": "2026-11-22T18:08:44.072014+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -483,8 +483,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-21T17:10:53.961716+00:00",
-      "last_verified_at": "2026-11-21T17:09:49.750404+00:00",
+      "last_seen_at": "2026-11-22T18:10:49.662185+00:00",
+      "last_verified_at": "2026-11-22T18:09:45.507251+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -516,8 +516,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-21T17:09:34.875548+00:00",
-      "last_verified_at": "2026-11-21T17:07:25.898563+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.827759+00:00",
+      "last_verified_at": "2026-11-22T18:07:57.865750+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -549,8 +549,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-21T17:09:35.059732+00:00",
-      "last_verified_at": "2026-11-21T17:07:40.318302+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.657917+00:00",
+      "last_verified_at": "2026-11-22T18:07:43.037256+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -572,6 +572,39 @@
       "summary": "Do you have a passion for solving problems that impact hundreds of millions of users? At Apple, we are reimagining the next generation of Support, and by joining our team, you’ll architect and build scalable solutions to evolve our innovative applications portfolio, such as our latest Generative AI Support Assistant in the Support app. As an iOS So",
       "title": "iOS Software Engineer, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200631336-3956/ios-software-engineer-customer-systems",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
+      "description": "Join the team redefining what a deeply personal and integrated assistant can be. As part of the Siri organization, you will help shape one of the world's most widely used AI assistants, powered by our next-generation of Apple Intelligence, with capabilities like personal context understanding and on-screen awareness, built with privacy from the ground up. Your work will have direct, meaningful impact for users across iOS, iPadOS, macOS, watchOS, and visionOS. This is a rare opportunity to build at the intersection of cutting-edge AI and human-centered design, shipping technology that is centered around users and their needs. Would you like to shape how customers interact with Apple devices? Would you like to contribute your talent and skills to elevate the customer experience? Our team focuses on how voice can be used to take on everyday tasks efficiently like writing a text, crafting emails, taking notes and so much more. We build, maintain, and evolve the user interfaces and frameworks that power the voice input experience across iPhone, iPad, and macOS. We work on exploring new innovations to improve the voice input experience for customers around the world in the many languages they speak. If you're passionate about using voice as an input method, have strong ownership and good communication skills, and enjoy seeing your work used all over the world then we have the job for you!\n\nAs a member of our team, you will make substantial contributions to the voice input experience on macOS and iOS. Daily duties will include working with multi-functional teams to drive Voice Input features to support new initiatives, developing UI and framework improvements to support existing and new features, shipping high-quality software, being responsive to emerging issues, as well as helping develop a vision for the future of the product\n\nM.S./B.S. in Computer Science, Engineering or a related field or equivalent experience 5+ years UIKit/AppKit/Objective-C software engineering experience Experience developing software for macOS using AppKit and SwiftUI System programming experience with daemons, frameworks, multithreading, and IPC (XPC). Excellent communication, organizational skills, and ability to work in a diverse group Highly professional, with the ability to deliver solid work on tight schedules\n\nTrack record of developing products with a focus on delivering an exceptional user experience. Experience working on large, cross-functional, and multi-team projects. Experience with voice assistant technologies, GenAI, or conversational AI systems\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-22T18:09:30.938636+00:00",
+      "id": "apple:200642220-0836",
+      "last_seen_at": "2026-11-22T18:09:30.938636+00:00",
+      "last_verified_at": "2026-11-22T18:08:55.170267+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-01-16T19:20:21.180+00:00",
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 150400
+      },
+      "salary_match": "partial",
+      "score": 50,
+      "source": "apple",
+      "source_id": "200642220-0836",
+      "summary": "Join the team redefining what a deeply personal and integrated assistant can be. As part of the Siri organization, you will help shape one of the world's most widely used AI assistants, powered by our next-generation of Apple Intelligence, with capabilities like personal context understanding and on-screen awareness, built with privacy from the gro",
+      "title": "iOS Software Engineer Voice Input/Dictation, Siri Dictation",
+      "url": "https://jobs.apple.com/en-us/details/200642220-0836/ios-software-engineer-voice-input-dictation-siri-dictation",
       "verification": "open"
     },
     {
@@ -673,6 +706,43 @@
       "summary": "The Wallet Engineering team is looking for proactive and hardworking software engineers to join our growing team! Wallet allows you to securely collect and use boarding passes, movie tickets, coupons, and more, all in one place. It’s also the home for Apple Pay, the easiest and most convenient way to pay in stores, apps, and on the web. Beyond paym",
       "title": "iOS Engineer - Wallet",
       "url": "https://jobs.apple.com/en-us/details/200662761-3543/ios-engineer-wallet",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
+      "description": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. For decades, we've empowered creative professionals with industry-defining tools that transform how stories are told and brought to life. When we bring everybody in, we can do the best work of our lives. Here, you'll do more than join something — you'll add something. The Video Applications team continues this legacy, shipping best-in-class video products including Final Cut Pro, Motion, Compressor, iMovie, and more. We're looking for a strong senior software engineer to help develop these applications and deliver the next generation of features that empower creative professionals worldwide.\n\nAs a Software Engineer on the Video Applications team, you'll design and implement high-quality features that directly impact millions of creative professionals. You'll tackle complex technical challenges across our video editing applications, working with cutting-edge frameworks and technologies on both iOS and macOS. Collaborating closely with engineers across the Video Apps teams, you'll contribute to initiatives that push the boundaries of what's possible in professional video editing on Apple devices.\n\nTaking end-to-end ownership of shared instrumentation frameworks consumed by multiple products, from API design to CI pipelines to client integration Implementing telemetry in Swift that is stable, accurate, performant, and meets Apple’s privacy standards from design through ship Analyzing usage data to inform decisions, surface trends, and identify opportunities to delight our customers Collaborating closely with cross-functional partners in engineering, product, and beyond to shape and deliver features together Writing clean, well-tested code that sets the standard for quality and maintainability\n\nBS or MS in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience 5+ years of software engineering experience with SwiftUI/Swift or UIKit/AppKit At home in large, mature, ObjC codebases Strong understanding of software engineering and computer science fundamentals, including object-oriented design principles, design patterns, data structures, and algorithms Track record of owning a framework, SDK, or shared technical component end to end: API design, implementation, cross-team adoption, and evolution across releases Proven ability to break down large features into practical, implementable solutions Experience working on large, cross-functional, multi-team projects Excellent verbal and written communication skills in a highly collaborative environment Self-directed problem solver who can work independently and drive initiatives to completion\n\nCustomer focus and ability to make high-quality, user-centric product and technical decisions Experience creating and refining APIs for adoption by other teams and developers GENUINE PASSION FOR PROFESSIONAL CREATIVE TOOLS AND WORKFLOWS Familiarity with video editing, media processing, or graphics programming.\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $134,700 and $249,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $142,300 and $263,300, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $134,700 and $249,500, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-22T18:09:30.959306+00:00",
+      "id": "apple:200662789-0670",
+      "last_seen_at": "2026-11-22T18:09:30.959306+00:00",
+      "last_verified_at": "2026-11-22T18:09:07.018721+00:00",
+      "locations": [
+        "Boulder, Colorado, United States",
+        "Culver City, California, United States",
+        "Cupertino, California, United States",
+        "Seattle, Washington, United States",
+        "Vancouver, Washington, United States"
+      ],
+      "posted_at": "2026-10-26T18:21:36.036+00:00",
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 150400
+      },
+      "salary_match": "partial",
+      "score": 50,
+      "source": "apple",
+      "source_id": "200662789-0670",
+      "summary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it w",
+      "title": "iOS Analytics Software Engineer - Video Applications",
+      "url": "https://jobs.apple.com/en-us/details/200662789-0670/ios-analytics-software-engineer-video-applications",
       "verification": "open"
     },
     {
@@ -819,8 +889,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
       "id": "apple:200675591-0836",
-      "last_seen_at": "2026-11-21T17:09:35.209514+00:00",
-      "last_verified_at": "2026-11-21T17:09:24.965548+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.973694+00:00",
+      "last_verified_at": "2026-11-22T18:09:15.115246+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1033,8 +1103,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.447273+00:00",
       "id": "apple:200691192-3956",
-      "last_seen_at": "2026-11-21T17:09:35.143162+00:00",
-      "last_verified_at": "2026-11-21T17:08:43.350968+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.858489+00:00",
+      "last_verified_at": "2026-11-22T18:08:13.078580+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1201,13 +1271,46 @@
     {
       "company": "Apple",
       "company_priority": 0,
+      "description": "Join the Keyboard Infrastructure team to build and maintain the foundational systems that power keyboard behavior across iOS & iPadOS. You'll own keyboard focus, lifecycle management, and the APIs that apps use to interact with keyboard layout — directly impacting every text input experience on iPhone and iPad.\n\nDesign, develop, and maintain the keyboard focus system, ensuring correct and predictable focus behavior across complex app hierarchies Own keyboard lifecycle management — presentation, dismissal, transitions, and state restoration Build and maintain APIs for keyboard layout that apps rely on for positioning, insets, and animation coordination Ensure keyboard infrastructure works reliably across multitasking, Stage Manager, and diverse app architectures Collaborate with UIKit, SwiftUI, and framework teams to provide consistent keyboard behavior Debug and resolve complex issues spanning focus engines, responder chain, and windowing Write clear documentation and provide guidance to internal and external developers adopting keyboard layout APIs\n\nWhat Sets You Apart You think in terms of contracts and invariants — your APIs are hard to misuse You care about edge cases: split view, external keyboards, hardware/software transitions You can trace a bug from an app's unexpected behavior down through the responder chain to a lifecycle timing issue You balance stability and evolution, keeping existing adopters working while enabling new platform features\n\nBS in Computer Science or equivalent experience 2+ years of experience in iOS/macOS development (Swift, Objective-C) Strong foundation in systems programming, state management, and framework design Experience designing or maintaining public APIs\n\nDeep knowledge of UIKit internals — responder chain, UIWindow, UIScene, and view layout systems Familiarity with keyboard avoidance, input accessory views, and text input architecture (UITextInput, UIKeyInput) Experience shipping frameworks or infrastructure used by other engineering teams Understanding of accessibility requirements for keyboard and focus interactions Track record of diagnosing and fixing subtle lifecycle and state-management bugs\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $150,400 and $277,600, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-22T18:09:30.982888+00:00",
+      "id": "apple:200694375-0836",
+      "last_seen_at": "2026-11-22T18:09:30.982888+00:00",
+      "last_verified_at": "2026-11-22T18:09:20.730404+00:00",
+      "locations": [
+        "Cupertino, California, United States"
+      ],
+      "posted_at": "2026-11-10T20:43:42.195+00:00",
+      "reasons": [
+        "Seniority equivalence requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": {
+        "basis": "annual_base",
+        "currency": "USD",
+        "max": 277600,
+        "min": 150400
+      },
+      "salary_match": "partial",
+      "score": 50,
+      "source": "apple",
+      "source_id": "200694375-0836",
+      "summary": "Join the Keyboard Infrastructure team to build and maintain the foundational systems that power keyboard behavior across iOS & iPadOS. You'll own keyboard focus, lifecycle management, and the APIs that apps use to interact with keyboard layout — directly impacting every text input experience on iPhone and iPad.\n\nDesign, develop, and maintain the ke",
+      "title": "Software Development Engineer - iOS for Keyboard",
+      "url": "https://jobs.apple.com/en-us/details/200694375-0836/software-development-engineer-ios-for-keyboard",
+      "verification": "open"
+    },
+    {
+      "company": "Apple",
+      "company_priority": 0,
       "description": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. For decades, we've empowered creative professionals with industry-defining tools that transform how stories are told and brought to life. When we bring everybody in, we can do the best work of our lives. Here, you'll do more than join something — you'll add something. The Video Applications team continues this legacy, shipping best-in-class video products including Final Cut Pro, Motion, Compressor, iMovie, and more. We're looking for a strong senior software engineer to help develop these applications and deliver the next generation of features that empower creative professionals worldwide.\n\nAs a Software Engineer on the Video Applications team, you'll design and implement high-quality features that directly impact millions of creative professionals. You'll tackle complex technical challenges across our video editing applications, working with cutting-edge frameworks and technologies on both iOS and macOS. Collaborating closely with engineers across the Video Apps teams, you'll contribute to initiatives that push the boundaries of what's possible in professional video editing on Apple devices.\n\nDesigning, implementing, and shipping features that solve complex technical challenges Writing clean, well-tested code that sets the standard for quality and maintainability Participating in and contributing to architecture discussions and code reviews Working closely with cross-functional partners to define and implement features that delight our customers\n\nBS or MS in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience 6+ years of software engineering experience with SwiftUI/Swift or UIKit/AppKit 6+ years of proven experience working with Objective-C Strong understanding of software engineering and computer science fundamentals, including object-oriented design principles, design patterns, data structures, and algorithms Track record of technical excellence, exemplifying \"what good looks like\" in code, documentation, and engineering practices Proven ability to break down large features into practical, implementable solutions Experience working on large, cross-functional, multi-team projects Excellent verbal and written communication skills in a highly collaborative environment Self-directed problem solver who can work independently and drive initiatives to completion\n\nCustomer focus and ability to make high-quality, user-centric product and technical decisions Experience creating and refining APIs for adoption by other teams and developers GENUINE PASSION FOR PROFESSIONAL CREATIVE TOOLS AND WORKFLOWS Familiarity with video editing, media processing, or graphics programming!\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $165,800 and $292,400, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.489254+00:00",
       "id": "apple:200695213-0836",
-      "last_seen_at": "2026-11-21T17:09:35.090417+00:00",
-      "last_verified_at": "2026-11-21T17:08:06.581987+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.890386+00:00",
+      "last_verified_at": "2026-11-22T18:08:30.074313+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Vancouver, Washington, United States"
@@ -1240,8 +1343,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.128459+00:00",
       "id": "apple:200696342-0836",
-      "last_seen_at": "2026-11-21T17:09:35.128459+00:00",
-      "last_verified_at": "2026-11-21T17:08:33.850888+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.943822+00:00",
+      "last_verified_at": "2026-11-22T18:08:57.911882+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1273,8 +1376,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465999+00:00",
       "id": "apple:200690588-0836",
-      "last_seen_at": "2026-11-21T17:09:35.109638+00:00",
-      "last_verified_at": "2026-11-21T17:08:21.163045+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.906674+00:00",
+      "last_verified_at": "2026-11-22T18:08:37.295219+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1307,8 +1410,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.049401+00:00",
       "id": "apple:200692539-3956",
-      "last_seen_at": "2026-11-21T17:09:35.049401+00:00",
-      "last_verified_at": "2026-11-21T17:07:34.301452+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.817631+00:00",
+      "last_verified_at": "2026-11-22T18:07:53.212807+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1374,8 +1477,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.441188+00:00",
       "id": "apple:200695246-0836",
-      "last_seen_at": "2026-11-21T17:09:35.064264+00:00",
-      "last_verified_at": "2026-11-21T17:07:43.281317+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.833486+00:00",
+      "last_verified_at": "2026-11-22T18:08:00.578810+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1408,8 +1511,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.044310+00:00",
       "id": "apple:200696355-3543",
-      "last_seen_at": "2026-11-21T17:09:35.044310+00:00",
-      "last_verified_at": "2026-11-21T17:07:32.137845+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.811762+00:00",
+      "last_verified_at": "2026-11-22T18:07:50.948548+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1441,8 +1544,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-21T17:09:35.039311+00:00",
-      "last_verified_at": "2026-11-21T17:07:29.980548+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.806441+00:00",
+      "last_verified_at": "2026-11-22T18:07:47.848596+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1509,8 +1612,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.665118+00:00",
       "id": "apple:200670523-0836",
-      "last_seen_at": "2026-11-21T17:09:35.083637+00:00",
-      "last_verified_at": "2026-11-21T17:07:53.517117+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.853528+00:00",
+      "last_verified_at": "2026-11-22T18:08:10.577866+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1646,8 +1749,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-21T17:09:35.068287+00:00",
-      "last_verified_at": "2026-11-21T17:07:45.506134+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.838800+00:00",
+      "last_verified_at": "2026-11-22T18:08:02.712297+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1680,8 +1783,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.419038+00:00",
       "id": "apple:200677373-0836",
-      "last_seen_at": "2026-11-21T17:09:35.054895+00:00",
-      "last_verified_at": "2026-11-21T17:07:36.974288+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.822707+00:00",
+      "last_verified_at": "2026-11-22T18:07:55.433334+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1714,8 +1817,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.095920+00:00",
       "id": "apple:200679514-0836",
-      "last_seen_at": "2026-11-21T17:09:35.113445+00:00",
-      "last_verified_at": "2026-11-21T17:08:24.114098+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.978516+00:00",
+      "last_verified_at": "2026-11-22T18:09:18.167292+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1749,8 +1852,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.098126+00:00",
       "id": "apple:200679514-3956",
-      "last_seen_at": "2026-11-21T17:09:35.138445+00:00",
-      "last_verified_at": "2026-11-21T17:08:39.414329+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.884736+00:00",
+      "last_verified_at": "2026-11-22T18:08:27.520878+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1818,8 +1921,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-21T17:09:35.168353+00:00",
-      "last_verified_at": "2026-11-21T17:09:03.076582+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.987656+00:00",
+      "last_verified_at": "2026-11-22T18:09:23.750907+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1888,8 +1991,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-21T17:09:35.123765+00:00",
-      "last_verified_at": "2026-11-21T17:08:31.380165+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.895611+00:00",
+      "last_verified_at": "2026-11-22T18:08:32.808204+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1922,8 +2025,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.097408+00:00",
       "id": "apple:200687840-0836",
-      "last_seen_at": "2026-11-21T17:09:35.214429+00:00",
-      "last_verified_at": "2026-11-21T17:09:27.542463+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.953895+00:00",
+      "last_verified_at": "2026-11-22T18:09:03.465293+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1990,8 +2093,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099372+00:00",
       "id": "apple:200689597-0836",
-      "last_seen_at": "2026-11-21T17:09:35.158707+00:00",
-      "last_verified_at": "2026-11-21T17:08:55.711382+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.911522+00:00",
+      "last_verified_at": "2026-11-22T18:08:40.688399+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -2025,8 +2128,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.100268+00:00",
       "id": "apple:200689597-3956",
-      "last_seen_at": "2026-11-21T17:09:35.183067+00:00",
-      "last_verified_at": "2026-11-21T17:09:10.698959+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.933485+00:00",
+      "last_verified_at": "2026-11-22T18:08:52.591187+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -2232,8 +2335,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-14T18:17:56.536886+00:00",
       "id": "apple:200694963-0836",
-      "last_seen_at": "2026-11-21T17:09:35.177881+00:00",
-      "last_verified_at": "2026-11-21T17:09:08.341787+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.949607+00:00",
+      "last_verified_at": "2026-11-22T18:09:00.552014+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2402,8 +2505,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-21T17:09:35.153722+00:00",
-      "last_verified_at": "2026-11-21T17:08:51.278142+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.928448+00:00",
+      "last_verified_at": "2026-11-22T18:08:49.297214+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2538,8 +2641,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.675843+00:00",
       "id": "apple:200692542",
-      "last_seen_at": "2026-11-19T03:12:19.536885+00:00",
-      "last_verified_at": "2026-11-19T03:12:11.392128+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.991955+00:00",
+      "last_verified_at": "2026-11-22T18:09:26.110824+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2572,8 +2675,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.450725+00:00",
       "id": "apple:200692542-7141",
-      "last_seen_at": "2026-11-21T17:09:35.199329+00:00",
-      "last_verified_at": "2026-11-21T17:09:19.805993+00:00",
+      "last_seen_at": "2026-11-22T18:09:30.963775+00:00",
+      "last_verified_at": "2026-11-22T18:09:09.636092+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2668,8 +2771,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-21T17:10:53.988612+00:00",
-      "last_verified_at": "2026-11-21T17:09:51.732291+00:00",
+      "last_seen_at": "2026-11-22T18:10:49.686023+00:00",
+      "last_verified_at": "2026-11-22T18:09:47.495650+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -2751,8 +2854,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-21T17:10:53.934001+00:00",
-      "last_verified_at": "2026-11-21T17:09:47.825646+00:00",
+      "last_seen_at": "2026-11-22T18:10:49.635538+00:00",
+      "last_verified_at": "2026-11-22T18:09:43.509161+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -2779,8 +2882,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-21T17:10:53.915664+00:00",
-      "last_verified_at": "2026-11-21T17:09:45.772653+00:00",
+      "last_seen_at": "2026-11-22T18:10:49.617464+00:00",
+      "last_verified_at": "2026-11-22T18:09:41.531053+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -2808,8 +2911,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-10T20:22:42.015741+00:00",
       "id": "google:79215657723273926",
-      "last_seen_at": "2026-11-21T17:10:54.039522+00:00",
-      "last_verified_at": "2026-11-21T17:09:55.758286+00:00",
+      "last_seen_at": "2026-11-22T18:10:49.734388+00:00",
+      "last_verified_at": "2026-11-22T18:09:51.548367+00:00",
       "locations": [
         "San Jose, CA, USA",
         "San Francisco, CA, USA"
@@ -3836,5 +3939,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 19
+  "update_sequence": 20
 }
