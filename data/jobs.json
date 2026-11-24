@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T18:10:54.862181+00:00",
-  "run_id": "6d4c8ba503e14bf8996391bdcfd83885",
+  "generated_at": "2026-11-24T01:41:39.014779+00:00",
+  "run_id": "247769fc7a3a44e393f87cfabd0f1ece",
   "coverage": "partial",
   "sources": {
     "apple": {
       "status": "success",
-      "last_attempt_at": "2026-11-22T18:07:22.477671+00:00",
-      "last_success_at": "2026-11-22T18:09:31.083066+00:00",
+      "last_attempt_at": "2026-11-24T01:37:41.449195+00:00",
+      "last_success_at": "2026-11-24T01:39:42.951772+00:00",
       "found": 40
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-22T18:09:31.092579+00:00",
-      "last_success_at": "2026-11-22T18:10:50.552785+00:00",
-      "found": 35
+      "last_attempt_at": "2026-11-24T01:39:42.958793+00:00",
+      "last_success_at": "2026-11-24T01:41:00.405693+00:00",
+      "found": 34
     },
     "linkedin": {
-      "status": "blocked",
-      "last_attempt_at": "2026-11-22T18:10:50.992701+00:00",
+      "status": "partial",
+      "last_attempt_at": "2026-11-24T01:41:00.816425+00:00",
       "last_success_at": "2026-11-21T17:12:24.590902+00:00",
-      "found": 0
+      "found": 13
     }
   },
   "jobs": [
@@ -57,8 +57,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-08T17:57:27.393962+00:00",
       "id": "apple:200648699-3543",
-      "last_seen_at": "2026-11-22T18:09:30.873985+00:00",
-      "last_verified_at": "2026-11-22T18:08:21.578207+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.756419+00:00",
+      "last_verified_at": "2026-11-24T01:38:38.688210+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -90,8 +90,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466295+00:00",
       "id": "apple:200648699-3956",
-      "last_seen_at": "2026-11-22T18:09:30.923139+00:00",
-      "last_verified_at": "2026-11-22T18:08:46.437035+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.796268+00:00",
+      "last_verified_at": "2026-11-24T01:39:00.964666+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -123,8 +123,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.452462+00:00",
       "id": "apple:200662668-3543",
-      "last_seen_at": "2026-11-22T18:09:30.843076+00:00",
-      "last_verified_at": "2026-11-22T18:08:05.527565+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.724356+00:00",
+      "last_verified_at": "2026-11-24T01:38:23.769007+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -157,8 +157,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466922+00:00",
       "id": "apple:200662668-3956",
-      "last_seen_at": "2026-11-22T18:09:30.901180+00:00",
-      "last_verified_at": "2026-11-22T18:08:35.174156+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.775808+00:00",
+      "last_verified_at": "2026-11-24T01:38:51.198934+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -287,8 +287,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-09T20:08:28.764910+00:00",
       "id": "apple:200686243-0836",
-      "last_seen_at": "2026-11-22T18:09:30.996110+00:00",
-      "last_verified_at": "2026-11-22T18:09:28.576234+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.865550+00:00",
+      "last_verified_at": "2026-11-24T01:39:40.520240+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -351,8 +351,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.204034+00:00",
       "id": "apple:200696410-0836",
-      "last_seen_at": "2026-11-22T18:09:30.969291+00:00",
-      "last_verified_at": "2026-11-22T18:09:12.688898+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.836917+00:00",
+      "last_verified_at": "2026-11-24T01:39:24.708260+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -451,8 +451,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-22T18:09:30.917618+00:00",
-      "last_verified_at": "2026-11-22T18:08:44.072014+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.790906+00:00",
+      "last_verified_at": "2026-11-24T01:38:58.118580+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -483,8 +483,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-22T18:10:49.662185+00:00",
-      "last_verified_at": "2026-11-22T18:09:45.507251+00:00",
+      "last_seen_at": "2026-11-24T01:40:59.539463+00:00",
+      "last_verified_at": "2026-11-24T01:39:57.381266+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -516,8 +516,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-22T18:09:30.827759+00:00",
-      "last_verified_at": "2026-11-22T18:07:57.865750+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.709020+00:00",
+      "last_verified_at": "2026-11-24T01:38:16.438149+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -549,8 +549,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-22T18:09:30.657917+00:00",
-      "last_verified_at": "2026-11-22T18:07:43.037256+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.564023+00:00",
+      "last_verified_at": "2026-11-24T01:38:02.296856+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -582,8 +582,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-22T18:09:30.938636+00:00",
       "id": "apple:200642220-0836",
-      "last_seen_at": "2026-11-22T18:09:30.938636+00:00",
-      "last_verified_at": "2026-11-22T18:08:55.170267+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.812108+00:00",
+      "last_verified_at": "2026-11-24T01:39:08.458966+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -716,8 +716,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-22T18:09:30.959306+00:00",
       "id": "apple:200662789-0670",
-      "last_seen_at": "2026-11-22T18:09:30.959306+00:00",
-      "last_verified_at": "2026-11-22T18:09:07.018721+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.830731+00:00",
+      "last_verified_at": "2026-11-24T01:39:19.689061+00:00",
       "locations": [
         "Boulder, Colorado, United States",
         "Culver City, California, United States",
@@ -889,8 +889,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
       "id": "apple:200675591-0836",
-      "last_seen_at": "2026-11-22T18:09:30.973694+00:00",
-      "last_verified_at": "2026-11-22T18:09:15.115246+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.840040+00:00",
+      "last_verified_at": "2026-11-24T01:39:27.171255+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1103,8 +1103,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.447273+00:00",
       "id": "apple:200691192-3956",
-      "last_seen_at": "2026-11-22T18:09:30.858489+00:00",
-      "last_verified_at": "2026-11-22T18:08:13.078580+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.740386+00:00",
+      "last_verified_at": "2026-11-24T01:38:31.097378+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1276,8 +1276,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-22T18:09:30.982888+00:00",
       "id": "apple:200694375-0836",
-      "last_seen_at": "2026-11-22T18:09:30.982888+00:00",
-      "last_verified_at": "2026-11-22T18:09:20.730404+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.850656+00:00",
+      "last_verified_at": "2026-11-24T01:39:32.304637+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1309,8 +1309,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.489254+00:00",
       "id": "apple:200695213-0836",
-      "last_seen_at": "2026-11-22T18:09:30.890386+00:00",
-      "last_verified_at": "2026-11-22T18:08:30.074313+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.768894+00:00",
+      "last_verified_at": "2026-11-24T01:38:45.906454+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Vancouver, Washington, United States"
@@ -1343,8 +1343,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.128459+00:00",
       "id": "apple:200696342-0836",
-      "last_seen_at": "2026-11-22T18:09:30.943822+00:00",
-      "last_verified_at": "2026-11-22T18:08:57.911882+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.817956+00:00",
+      "last_verified_at": "2026-11-24T01:39:10.961448+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1376,8 +1376,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465999+00:00",
       "id": "apple:200690588-0836",
-      "last_seen_at": "2026-11-22T18:09:30.906674+00:00",
-      "last_verified_at": "2026-11-22T18:08:37.295219+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.781012+00:00",
+      "last_verified_at": "2026-11-24T01:38:53.494977+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1410,8 +1410,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.049401+00:00",
       "id": "apple:200692539-3956",
-      "last_seen_at": "2026-11-22T18:09:30.817631+00:00",
-      "last_verified_at": "2026-11-22T18:07:53.212807+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.696037+00:00",
+      "last_verified_at": "2026-11-24T01:38:11.440098+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1477,8 +1477,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.441188+00:00",
       "id": "apple:200695246-0836",
-      "last_seen_at": "2026-11-22T18:09:30.833486+00:00",
-      "last_verified_at": "2026-11-22T18:08:00.578810+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.714167+00:00",
+      "last_verified_at": "2026-11-24T01:38:18.560455+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1511,8 +1511,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.044310+00:00",
       "id": "apple:200696355-3543",
-      "last_seen_at": "2026-11-22T18:09:30.811762+00:00",
-      "last_verified_at": "2026-11-22T18:07:50.948548+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.692919+00:00",
+      "last_verified_at": "2026-11-24T01:38:08.873818+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1544,8 +1544,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-22T18:09:30.806441+00:00",
-      "last_verified_at": "2026-11-22T18:07:47.848596+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.689532+00:00",
+      "last_verified_at": "2026-11-24T01:38:06.611229+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1612,8 +1612,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.665118+00:00",
       "id": "apple:200670523-0836",
-      "last_seen_at": "2026-11-22T18:09:30.853528+00:00",
-      "last_verified_at": "2026-11-22T18:08:10.577866+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.734858+00:00",
+      "last_verified_at": "2026-11-24T01:38:28.420769+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1749,8 +1749,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-22T18:09:30.838800+00:00",
-      "last_verified_at": "2026-11-22T18:08:02.712297+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.719244+00:00",
+      "last_verified_at": "2026-11-24T01:38:20.962428+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1783,8 +1783,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.419038+00:00",
       "id": "apple:200677373-0836",
-      "last_seen_at": "2026-11-22T18:09:30.822707+00:00",
-      "last_verified_at": "2026-11-22T18:07:55.433334+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.704038+00:00",
+      "last_verified_at": "2026-11-24T01:38:13.708791+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1852,8 +1852,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.098126+00:00",
       "id": "apple:200679514-3956",
-      "last_seen_at": "2026-11-22T18:09:30.884736+00:00",
-      "last_verified_at": "2026-11-22T18:08:27.520878+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.764366+00:00",
+      "last_verified_at": "2026-11-24T01:38:43.233490+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1921,8 +1921,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-22T18:09:30.987656+00:00",
-      "last_verified_at": "2026-11-22T18:09:23.750907+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.855592+00:00",
+      "last_verified_at": "2026-11-24T01:39:35.070764+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1991,8 +1991,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-22T18:09:30.895611+00:00",
-      "last_verified_at": "2026-11-22T18:08:32.808204+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.772739+00:00",
+      "last_verified_at": "2026-11-24T01:38:48.663987+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2025,8 +2025,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.097408+00:00",
       "id": "apple:200687840-0836",
-      "last_seen_at": "2026-11-22T18:09:30.953895+00:00",
-      "last_verified_at": "2026-11-22T18:09:03.465293+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.827172+00:00",
+      "last_verified_at": "2026-11-24T01:39:15.774010+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2093,8 +2093,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099372+00:00",
       "id": "apple:200689597-0836",
-      "last_seen_at": "2026-11-22T18:09:30.911522+00:00",
-      "last_verified_at": "2026-11-22T18:08:40.688399+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.786001+00:00",
+      "last_verified_at": "2026-11-24T01:38:55.897744+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -2128,8 +2128,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.100268+00:00",
       "id": "apple:200689597-3956",
-      "last_seen_at": "2026-11-22T18:09:30.933485+00:00",
-      "last_verified_at": "2026-11-22T18:08:52.591187+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.806582+00:00",
+      "last_verified_at": "2026-11-24T01:39:06.315788+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -2335,8 +2335,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-14T18:17:56.536886+00:00",
       "id": "apple:200694963-0836",
-      "last_seen_at": "2026-11-22T18:09:30.949607+00:00",
-      "last_verified_at": "2026-11-22T18:09:00.552014+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.823430+00:00",
+      "last_verified_at": "2026-11-24T01:39:13.238965+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2369,8 +2369,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-08T17:57:27.329770+00:00",
       "id": "apple:200643254-3543",
-      "last_seen_at": "2026-11-19T03:12:19.463966+00:00",
-      "last_verified_at": "2026-11-19T03:05:15.001834+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.845689+00:00",
+      "last_verified_at": "2026-11-24T01:39:29.555814+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2505,8 +2505,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-22T18:09:30.928448+00:00",
-      "last_verified_at": "2026-11-22T18:08:49.297214+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.801505+00:00",
+      "last_verified_at": "2026-11-24T01:39:03.839974+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2641,8 +2641,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.675843+00:00",
       "id": "apple:200692542",
-      "last_seen_at": "2026-11-22T18:09:30.991955+00:00",
-      "last_verified_at": "2026-11-22T18:09:26.110824+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.860637+00:00",
+      "last_verified_at": "2026-11-24T01:39:37.800361+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2675,8 +2675,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.450725+00:00",
       "id": "apple:200692542-7141",
-      "last_seen_at": "2026-11-22T18:09:30.963775+00:00",
-      "last_verified_at": "2026-11-22T18:09:09.636092+00:00",
+      "last_seen_at": "2026-11-24T01:39:42.833821+00:00",
+      "last_verified_at": "2026-11-24T01:39:22.244258+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2771,8 +2771,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-22T18:10:49.686023+00:00",
-      "last_verified_at": "2026-11-22T18:09:47.495650+00:00",
+      "last_seen_at": "2026-11-24T01:40:59.563863+00:00",
+      "last_verified_at": "2026-11-24T01:39:59.360322+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -2854,8 +2854,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-22T18:10:49.635538+00:00",
-      "last_verified_at": "2026-11-22T18:09:43.509161+00:00",
+      "last_seen_at": "2026-11-24T01:40:59.513408+00:00",
+      "last_verified_at": "2026-11-24T01:39:55.377414+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -2882,8 +2882,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-22T18:10:49.617464+00:00",
-      "last_verified_at": "2026-11-22T18:09:41.531053+00:00",
+      "last_seen_at": "2026-11-24T01:40:59.493914+00:00",
+      "last_verified_at": "2026-11-24T01:39:53.359916+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -2911,8 +2911,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-10T20:22:42.015741+00:00",
       "id": "google:79215657723273926",
-      "last_seen_at": "2026-11-22T18:10:49.734388+00:00",
-      "last_verified_at": "2026-11-22T18:09:51.548367+00:00",
+      "last_seen_at": "2026-11-24T01:40:59.633510+00:00",
+      "last_verified_at": "2026-11-24T01:40:05.377516+00:00",
       "locations": [
         "San Jose, CA, USA",
         "San Francisco, CA, USA"
@@ -2998,8 +2998,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311288+00:00",
       "id": "linkedin:4454451077",
-      "last_seen_at": "2026-11-21T17:12:24.324853+00:00",
-      "last_verified_at": "2026-11-21T17:11:12.068432+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.183406+00:00",
+      "last_verified_at": "2026-11-24T01:41:17.504736+00:00",
       "locations": [
         "San Bruno, CA, US"
       ],
@@ -3088,8 +3088,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311755+00:00",
       "id": "linkedin:4461537491",
-      "last_seen_at": "2026-11-21T17:12:24.343666+00:00",
-      "last_verified_at": "2026-11-21T17:11:20.123343+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.203486+00:00",
+      "last_verified_at": "2026-11-24T01:41:25.628512+00:00",
       "locations": [
         "Mountain View, CA, US"
       ],
@@ -3118,8 +3118,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.312396+00:00",
       "id": "linkedin:4461538504",
-      "last_seen_at": "2026-11-21T17:12:24.362145+00:00",
-      "last_verified_at": "2026-11-21T17:11:28.178720+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.224352+00:00",
+      "last_verified_at": "2026-11-24T01:41:33.601971+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3208,8 +3208,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311129+00:00",
       "id": "linkedin:4478737703",
-      "last_seen_at": "2026-11-21T17:12:24.319807+00:00",
-      "last_verified_at": "2026-11-21T17:11:10.061210+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.180211+00:00",
+      "last_verified_at": "2026-11-24T01:41:15.615355+00:00",
       "locations": [
         "Milpitas, CA, US"
       ],
@@ -3238,8 +3238,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311027+00:00",
       "id": "linkedin:4214156833",
-      "last_seen_at": "2026-11-21T17:12:24.314610+00:00",
-      "last_verified_at": "2026-11-21T17:11:08.121725+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.176948+00:00",
+      "last_verified_at": "2026-11-24T01:41:13.548121+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3288,8 +3288,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311358+00:00",
       "id": "linkedin:4474584105",
-      "last_seen_at": "2026-11-21T17:12:24.329378+00:00",
-      "last_verified_at": "2026-11-21T17:11:14.107410+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.187645+00:00",
+      "last_verified_at": "2026-11-24T01:41:19.599323+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -3477,8 +3477,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T20:51:20.710142+00:00",
       "id": "linkedin:4410339271",
-      "last_seen_at": "2026-11-21T17:12:24.367110+00:00",
-      "last_verified_at": "2026-11-21T17:11:30.014364+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.229646+00:00",
+      "last_verified_at": "2026-11-24T01:41:35.566356+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3509,8 +3509,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-11T18:56:15.020813+00:00",
       "id": "linkedin:4488632766",
-      "last_seen_at": "2026-11-21T17:12:24.352738+00:00",
-      "last_verified_at": "2026-11-21T17:11:24.125993+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.213835+00:00",
+      "last_verified_at": "2026-11-24T01:41:29.693081+00:00",
       "locations": [
         "Palo Alto, CA, US"
       ],
@@ -3595,8 +3595,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.310192+00:00",
       "id": "linkedin:4476984558",
-      "last_seen_at": "2026-11-21T17:12:24.308717+00:00",
-      "last_verified_at": "2026-11-21T17:11:06.121801+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.170183+00:00",
+      "last_verified_at": "2026-11-24T01:41:11.691629+00:00",
       "locations": [
         "Remote — San Francisco, CA, US"
       ],
@@ -3649,8 +3649,8 @@
       "employment_type": "full-time",
       "first_seen_at": "2026-11-02T01:34:18.311678+00:00",
       "id": "linkedin:4424263660",
-      "last_seen_at": "2026-11-21T17:12:24.334308+00:00",
-      "last_verified_at": "2026-11-21T17:11:16.099907+00:00",
+      "last_seen_at": "2026-11-24T01:41:37.192839+00:00",
+      "last_verified_at": "2026-11-24T01:41:21.578995+00:00",
       "locations": [
         "San Francisco, CA, US"
       ],
@@ -3939,5 +3939,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 20
+  "update_sequence": 21
 }
