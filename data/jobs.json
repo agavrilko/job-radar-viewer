@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T16:05:12.141642+00:00",
-  "run_id": "d6882614769b49929a7bd7a18c79136a",
+  "generated_at": "2026-11-26T00:40:07.051631+00:00",
+  "run_id": "3b6ff26b82ab48f7a3b173d962bcdb22",
   "coverage": "partial",
   "sources": {
     "apple": {
       "status": "success",
-      "last_attempt_at": "2026-11-24T16:00:01.372714+00:00",
-      "last_success_at": "2026-11-24T16:02:18.832375+00:00",
+      "last_attempt_at": "2026-11-26T00:35:15.499542+00:00",
+      "last_success_at": "2026-11-26T00:38:30.569808+00:00",
       "found": 40
     },
     "google": {
       "status": "success",
-      "last_attempt_at": "2026-11-24T16:02:18.851374+00:00",
-      "last_success_at": "2026-11-24T16:03:40.446472+00:00",
-      "found": 36
+      "last_attempt_at": "2026-11-26T00:38:30.588417+00:00",
+      "last_success_at": "2026-11-26T00:39:58.208422+00:00",
+      "found": 39
     },
     "linkedin": {
-      "status": "success",
-      "last_attempt_at": "2026-11-24T16:03:41.000960+00:00",
+      "status": "blocked",
+      "last_attempt_at": "2026-11-26T00:40:02.044769+00:00",
       "last_success_at": "2026-11-24T16:05:10.318225+00:00",
-      "found": 40
+      "found": 0
     }
   },
   "jobs": [
@@ -57,8 +57,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-08T17:57:27.393962+00:00",
       "id": "apple:200648699-3543",
-      "last_seen_at": "2026-11-24T16:02:18.678626+00:00",
-      "last_verified_at": "2026-11-24T16:01:43.749175+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.412809+00:00",
+      "last_verified_at": "2026-11-26T00:37:52.691884+00:00",
       "locations": [
         "San Diego, California, United States",
         "Sunnyvale, California, United States"
@@ -123,8 +123,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.452462+00:00",
       "id": "apple:200662668-3543",
-      "last_seen_at": "2026-11-24T16:02:18.656581+00:00",
-      "last_verified_at": "2026-11-24T16:01:26.446915+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.389981+00:00",
+      "last_verified_at": "2026-11-26T00:37:28.862033+00:00",
       "locations": [
         "New York City, New York, United States",
         "San Diego, California, United States",
@@ -351,8 +351,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.204034+00:00",
       "id": "apple:200696410-0836",
-      "last_seen_at": "2026-11-24T16:02:18.740023+00:00",
-      "last_verified_at": "2026-11-24T16:02:16.807999+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.441004+00:00",
+      "last_verified_at": "2026-11-26T00:38:11.528331+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -383,8 +383,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099520+00:00",
       "id": "apple:200592178-0836",
-      "last_seen_at": "2026-11-24T16:02:18.723852+00:00",
-      "last_verified_at": "2026-11-24T16:02:07.902465+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.458903+00:00",
+      "last_verified_at": "2026-11-26T00:38:18.637513+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -451,8 +451,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466590+00:00",
       "id": "apple:200682986-3543",
-      "last_seen_at": "2026-11-24T16:02:18.584836+00:00",
-      "last_verified_at": "2026-11-24T16:00:49.656538+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.279645+00:00",
+      "last_verified_at": "2026-11-26T00:35:59.651302+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -483,8 +483,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.054793+00:00",
       "id": "google:142497183218705094",
-      "last_seen_at": "2026-11-24T16:03:39.486708+00:00",
-      "last_verified_at": "2026-11-24T16:02:33.255429+00:00",
+      "last_seen_at": "2026-11-26T00:39:57.132079+00:00",
+      "last_verified_at": "2026-11-26T00:38:44.997348+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -516,8 +516,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464569+00:00",
       "id": "apple:200625064-3956",
-      "last_seen_at": "2026-11-24T16:02:18.361423+00:00",
-      "last_verified_at": "2026-11-24T16:00:21.748395+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.091542+00:00",
+      "last_verified_at": "2026-11-26T00:35:38.463826+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -549,8 +549,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465562+00:00",
       "id": "apple:200631336-3956",
-      "last_seen_at": "2026-11-24T16:02:18.557648+00:00",
-      "last_verified_at": "2026-11-24T16:00:36.989906+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.285729+00:00",
+      "last_verified_at": "2026-11-26T00:36:06.981618+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -615,8 +615,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.468478+00:00",
       "id": "apple:200654462-0836",
-      "last_seen_at": "2026-11-24T16:02:18.607526+00:00",
-      "last_verified_at": "2026-11-24T16:01:00.713061+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.338121+00:00",
+      "last_verified_at": "2026-11-26T00:36:48.989316+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -648,8 +648,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.101084+00:00",
       "id": "apple:200656112-0836",
-      "last_seen_at": "2026-11-24T16:02:18.695439+00:00",
-      "last_verified_at": "2026-11-24T16:01:53.278814+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.429461+00:00",
+      "last_verified_at": "2026-11-26T00:38:04.460175+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -753,8 +753,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T20:20:52.036534+00:00",
       "id": "apple:200662789-0836",
-      "last_seen_at": "2026-11-24T16:02:18.673111+00:00",
-      "last_verified_at": "2026-11-24T16:01:40.536065+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.407112+00:00",
+      "last_verified_at": "2026-11-26T00:37:48.866030+00:00",
       "locations": [
         "Boulder, Colorado, United States",
         "Culver City, California, United States",
@@ -823,8 +823,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-09T20:08:28.751178+00:00",
       "id": "apple:200674686-0836",
-      "last_seen_at": "2026-11-24T16:02:18.706568+00:00",
-      "last_verified_at": "2026-11-24T16:01:58.810756+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.475964+00:00",
+      "last_verified_at": "2026-11-26T00:38:28.017528+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -889,8 +889,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:32:04.369122+00:00",
       "id": "apple:200675591-0836",
-      "last_seen_at": "2026-11-24T16:02:18.683821+00:00",
-      "last_verified_at": "2026-11-24T16:01:47.514384+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.418433+00:00",
+      "last_verified_at": "2026-11-26T00:37:57.448279+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1103,8 +1103,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-07T19:19:52.447273+00:00",
       "id": "apple:200691192-3956",
-      "last_seen_at": "2026-11-24T16:02:18.645297+00:00",
-      "last_verified_at": "2026-11-24T16:01:20.233910+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.378045+00:00",
+      "last_verified_at": "2026-11-26T00:37:17.792080+00:00",
       "locations": [
         "Sunnyvale, California, United States"
       ],
@@ -1169,8 +1169,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.099839+00:00",
       "id": "apple:200692906-0836",
-      "last_seen_at": "2026-11-24T16:02:18.573864+00:00",
-      "last_verified_at": "2026-11-24T16:00:44.652613+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.303138+00:00",
+      "last_verified_at": "2026-11-26T00:36:19.177830+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1309,8 +1309,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.489254+00:00",
       "id": "apple:200695213-0836",
-      "last_seen_at": "2026-11-24T16:02:18.590087+00:00",
-      "last_verified_at": "2026-11-24T16:00:52.921562+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.320584+00:00",
+      "last_verified_at": "2026-11-26T00:36:34.317444+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Vancouver, Washington, United States"
@@ -1343,8 +1343,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.128459+00:00",
       "id": "apple:200696342-0836",
-      "last_seen_at": "2026-11-24T16:02:18.629324+00:00",
-      "last_verified_at": "2026-11-24T16:01:12.454678+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.360758+00:00",
+      "last_verified_at": "2026-11-26T00:37:09.756030+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1376,8 +1376,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.465999+00:00",
       "id": "apple:200690588-0836",
-      "last_seen_at": "2026-11-24T16:02:18.546869+00:00",
-      "last_verified_at": "2026-11-24T16:00:31.715631+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.274348+00:00",
+      "last_verified_at": "2026-11-26T00:35:57.408530+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1444,8 +1444,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-19T03:12:19.522055+00:00",
       "id": "apple:200694630-3543",
-      "last_seen_at": "2026-11-24T16:02:18.640050+00:00",
-      "last_verified_at": "2026-11-24T16:01:18.106015+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.372205+00:00",
+      "last_verified_at": "2026-11-26T00:37:15.205582+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1477,8 +1477,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T01:59:59.441188+00:00",
       "id": "apple:200695246-0836",
-      "last_seen_at": "2026-11-24T16:02:18.563079+00:00",
-      "last_verified_at": "2026-11-24T16:00:39.233202+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.291749+00:00",
+      "last_verified_at": "2026-11-26T00:36:10.820480+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1511,8 +1511,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-21T17:09:35.044310+00:00",
       "id": "apple:200696355-3543",
-      "last_seen_at": "2026-11-24T16:02:18.541194+00:00",
-      "last_verified_at": "2026-11-24T16:00:29.350936+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.268270+00:00",
+      "last_verified_at": "2026-11-26T00:35:54.026205+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -1544,8 +1544,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464055+00:00",
       "id": "apple:200660035-0836",
-      "last_seen_at": "2026-11-24T16:02:18.535445+00:00",
-      "last_verified_at": "2026-11-24T16:00:26.530566+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.262541+00:00",
+      "last_verified_at": "2026-11-26T00:35:47.957002+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -1749,8 +1749,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464774+00:00",
       "id": "apple:200676478-3577",
-      "last_seen_at": "2026-11-24T16:02:18.568482+00:00",
-      "last_verified_at": "2026-11-24T16:00:41.566216+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.297368+00:00",
+      "last_verified_at": "2026-11-26T00:36:17.114180+00:00",
       "locations": [
         "San Francisco, California, United States"
       ],
@@ -1817,8 +1817,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T20:48:30.095920+00:00",
       "id": "apple:200679514-0836",
-      "last_seen_at": "2026-11-22T18:09:30.978516+00:00",
-      "last_verified_at": "2026-11-22T18:09:18.167292+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.314765+00:00",
+      "last_verified_at": "2026-11-26T00:36:30.872016+00:00",
       "locations": [
         "Cupertino, California, United States",
         "Sunnyvale, California, United States"
@@ -1921,8 +1921,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.466706+00:00",
       "id": "apple:200682817-0670",
-      "last_seen_at": "2026-11-24T16:02:18.729244+00:00",
-      "last_verified_at": "2026-11-24T16:02:11.082796+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.464774+00:00",
+      "last_verified_at": "2026-11-26T00:38:22.644199+00:00",
       "locations": [
         "Culver City, California, United States",
         "Cupertino, California, United States"
@@ -1991,8 +1991,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.464682+00:00",
       "id": "apple:200685106-0836",
-      "last_seen_at": "2026-11-24T16:02:18.623667+00:00",
-      "last_verified_at": "2026-11-24T16:01:09.935321+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.355210+00:00",
+      "last_verified_at": "2026-11-26T00:37:06.592963+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2059,8 +2059,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.663745+00:00",
       "id": "apple:200689295-0836",
-      "last_seen_at": "2026-11-24T16:02:18.667536+00:00",
-      "last_verified_at": "2026-11-24T16:01:33.133686+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.401395+00:00",
+      "last_verified_at": "2026-11-26T00:37:41.504815+00:00",
       "locations": [
         "Cupertino, California, United States"
       ],
@@ -2505,8 +2505,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:17:35.467320+00:00",
       "id": "apple:200676717-3543",
-      "last_seen_at": "2026-11-24T16:02:18.634610+00:00",
-      "last_verified_at": "2026-11-24T16:01:14.535803+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.366528+00:00",
+      "last_verified_at": "2026-11-26T00:37:12.166516+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2573,8 +2573,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-17T16:13:26.748015+00:00",
       "id": "apple:200683947-3543",
-      "last_seen_at": "2026-11-24T16:02:18.579536+00:00",
-      "last_verified_at": "2026-11-24T16:00:47.084443+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.309098+00:00",
+      "last_verified_at": "2026-11-26T00:36:21.483414+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2641,8 +2641,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.675843+00:00",
       "id": "apple:200692542",
-      "last_seen_at": "2026-11-24T16:02:18.700737+00:00",
-      "last_verified_at": "2026-11-24T16:01:55.750749+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.435006+00:00",
+      "last_verified_at": "2026-11-26T00:38:08.697916+00:00",
       "locations": [
         "California, United States"
       ],
@@ -2709,8 +2709,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-05T03:20:25.673397+00:00",
       "id": "apple:200692763-3543",
-      "last_seen_at": "2026-11-24T16:02:18.690046+00:00",
-      "last_verified_at": "2026-11-24T16:01:50.339759+00:00",
+      "last_seen_at": "2026-11-26T00:38:30.453134+00:00",
+      "last_verified_at": "2026-11-26T00:38:16.270681+00:00",
       "locations": [
         "San Diego, California, United States"
       ],
@@ -2771,8 +2771,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.760356+00:00",
       "id": "google:125735636333142726",
-      "last_seen_at": "2026-11-24T16:03:39.512666+00:00",
-      "last_verified_at": "2026-11-24T16:02:35.319344+00:00",
+      "last_seen_at": "2026-11-26T00:39:57.157302+00:00",
+      "last_verified_at": "2026-11-26T00:38:47.027113+00:00",
       "locations": [
         "Mountain View, CA, USA"
       ],
@@ -2854,8 +2854,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-02T01:19:04.040799+00:00",
       "id": "google:91932959249965766",
-      "last_seen_at": "2026-11-24T16:03:39.458981+00:00",
-      "last_verified_at": "2026-11-24T16:02:31.308153+00:00",
+      "last_seen_at": "2026-11-26T00:39:57.105179+00:00",
+      "last_verified_at": "2026-11-26T00:38:43.031961+00:00",
       "locations": [
         "Mountain View, CA, USA",
         "Palo Alto, CA, USA"
@@ -2882,8 +2882,8 @@
       "employment_type": "unknown",
       "first_seen_at": "2026-11-01T23:19:25.586236+00:00",
       "id": "google:113305266270675654",
-      "last_seen_at": "2026-11-24T16:03:39.440269+00:00",
-      "last_verified_at": "2026-11-24T16:02:29.293106+00:00",
+      "last_seen_at": "2026-11-26T00:39:57.084692+00:00",
+      "last_verified_at": "2026-11-26T00:38:41.039838+00:00",
       "locations": [
         "Palo Alto, CA, USA",
         "Mountain View, CA, USA"
@@ -2906,13 +2906,42 @@
     {
       "company": "Google",
       "company_priority": 0,
+      "description": "Bachelor's degree or equivalent practical experience. 6 years of experience in front-end development, technical UX design, or prototyping. Experience in application development in one platform/area (e.g., web, iOS, Android, CompDes, XR). Experience building or prototyping across web and native mobile platforms (iOS/SwiftUI, or Android/Jetpack Compose). Experience with UI animation mechanics, gesture dynamics, spring physics, cubic-bezier curves, and rendering performance. Preferred qualifications: 7 years of experience developing responsive, adaptive, and performant websites and applications. 6 years of experience as a front-end developer, UX Engineer, creative or design technologist, or in a prototyping design environment. Experience architecting design token pipelines, developer harnesses, or design system component libraries. Experience integrating AI models, LLMs, prompt engineering, generative UI workflows, or agentic developer tools into daily engineering workflows. About the job At Google, we \"Focus on the user and all else will follow.\" Our UX Engineers are versatile, passionate, and driven to advance the goal for our design teams. Comfortable working across discipline lines, you will develop products and prototypes that bring innovative ideas to life. Joining a multi-disciplinary UX team, you will collaborate with Engineering and Product Management, using user insights to create industry-leading products. In a fast-paced environment, you will use your creativity, analytical skills, and knowledge of user-facing technologies to: create prototypes that define product experiences; launch innovative features; build tools to accelerate UX teams; and bridge design and engineering to ensure efficient, high-quality execution. As a Senior UX Engineer on the motion code team you will help drive motion excellence in Search, bridging design intent and production software through living Google3 code and open developer pipelines. You will work on complex technical issues and you will have a playground to advance modern Search. In this role, you will bring deep AI fluency to your everyday workflow, experimenting across Web, iOS, and Android to translate bleeding-edge AI interaction models into performant, production-ready code alongside motion designers, UX leads, and Search Software Engineers. Join Google Search AI and work at the intersection of industry leading global scale. We apply breakthrough research, leveraging models like Gemini, to launch high-impact products that help billions ask any question and get things done. If you want to drive the future of AI in Search and work with experts to deliver tangible, global impact and continuous innovation, this is the place. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $159000 - $230000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Author production-grade front-end code and reusable Google3 components across Web (TypeScript, HTML5, modern CSS, Web Animations API) and Native Mobile (iOS/SwiftUI and Android/Jetpack Compose). Build Live Experiments (LEs) and interactive sandboxes that validate user feel, frame rates, and latency under real-world LLM streaming conditions. Develop and maintain mo.co.labs tooling, pipelines, and frameworks that empower partner teams, uplevel cross-functional craft, and dramatically shorten the design-to-implementation timeline. Systemize motion tokens, container transforms, and fluid transition frameworks into the Search Design System (SDS) for scalable governance. Provide technical leadership on ambiguous 0-to-1 interaction explorations, partnering across UX, SWE, and Product teams.",
+      "eligibility": "needs_review",
+      "employment_type": "unknown",
+      "first_seen_at": "2026-11-26T00:39:57.243215+00:00",
+      "id": "google:72855872014820038",
+      "last_seen_at": "2026-11-26T00:39:57.243215+00:00",
+      "last_verified_at": "2026-11-26T00:38:53.021096+00:00",
+      "locations": [
+        "San Francisco, CA, USA",
+        "Mountain View, CA, USA"
+      ],
+      "posted_at": null,
+      "reasons": [
+        "Native iOS/Flutter focus requires review",
+        "Full-time employment not verified"
+      ],
+      "salary": null,
+      "salary_match": "unverified",
+      "score": 40,
+      "source": "google",
+      "source_id": "72855872014820038",
+      "summary": "Bachelor's degree or equivalent practical experience. 6 years of experience in front-end development, technical UX design, or prototyping. Experience in application development in one platform/area (e.g., web, iOS, Android, CompDes, XR). Experience building or prototyping across web and native mobile platforms (iOS/SwiftUI, or Android/Jetpack Compo",
+      "title": "Senior UX Engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/72855872014820038-senior-ux-engineer",
+      "verification": "open"
+    },
+    {
+      "company": "Google",
+      "company_priority": 0,
       "description": "Bachelor’s degree or equivalent practical experience. 8 years of experience in software development. Experience integrating generative AI tools or LLM interfaces into workflows. 5 years of experience with software engineering and large-scale or mobile/embedded ML/AI system architecture and development in C++, Kotlin/Java, Swift/Objective-C, or Python. 5 years of experience with mobile and on-device ML runtimes and frameworks (e.g., LiteRT/TFLite, AICore, MediaPipe, CoreML or cross-platform C++ runtimes) and hybrid on-device/cloud orchestration. Preferred qualifications: Master’s degree or PhD in Engineering, Computer Science, or a related technical field. Exceptional cross-organizational influence and communication skills, with a proven ability to align technical strategy and execution across mobile platform (Android/iOS), research (GDM), infrastructure, product management, and hardware/device engineering teams. Proven track record leading model and agent hillclimbing (e.g., SFT, RL, LoRA, quantization, prompt/System Instruction tuning, synthetic data generation) and systematic AI quality and performance hillclimbing (architecting automated evaluation frameworks, autoraters, on-device latency/power benchmarks, and end-to-end loss analysis pipelines). Demonstrated technical leadership setting technical strategy, architecting foundational systems, and leading multiple engineers or cross-functional teams to deliver complex, ambiguous mobile AI, on-device ML, or agentic initiatives from conception to large-scale production across Android or iOS. About the job Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward. Our team is at the forefront of building the next generation of wearable conversational AI. We are developing multimodal, agentic AI solutions across various XR devices, utilizing Gemini to create a unique, proactive, and trusted multimodal experience. By combining on-device intelligence with cloud-scale reasoning, this technology delivers instant, natural conversational and agentic intelligence directly to the user's eye, ear, and mobile device—operating seamlessly within real-world mobile and wearable system constraints. For decades, the computing revolution has reshaped our world driven by breakthroughs in compute, connectivity, mobile, and now, AI. Google's XR team is at the forefront of the next major leap – the convergence of AI and XR. This is more than just new devices – it's about reimagining how we interact with the world around us. We're building a future where lightweight XR devices like smart glasses and headsets pair with helpful AI to augment human intelligence, offering personalized, conversational, and contextually aware experiences.Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $207000 - $300000 (USD) + 20% bonus target + equity + benefits Learn more about benefits at Google . Responsibilities Define the long-term technical solution and lead the architecture, development, and production deployment of scalable, low-latency, multi-turn agentic AI systems across XR devices paired to Android and iOS. Drive the foundational evolution wearable AI and agentic tech stack. Establish the technical direction and lead the architecture for integrating and optimizing on-device LLMs and multimodal models across Android and iOS platforms. Pioneer, prototype, and productionize multimodal AI, agentic reasoning, device-native tool use, and OS/app integrations tailored to always-on streaming audio, video, and mobile context under strict latency and compute constraints. Serve as the principal technical point of contact and bridge across XR, Mobile (Android and iOS), On-Device ML (ODML), and GDM teams.",
       "eligibility": "needs_review",
       "employment_type": "unknown",
       "first_seen_at": "2026-11-10T20:22:42.015741+00:00",
       "id": "google:79215657723273926",
-      "last_seen_at": "2026-11-24T16:03:39.594455+00:00",
-      "last_verified_at": "2026-11-24T16:02:41.353190+00:00",
+      "last_seen_at": "2026-11-26T00:39:57.297674+00:00",
+      "last_verified_at": "2026-11-26T00:38:57.012685+00:00",
       "locations": [
         "San Jose, CA, USA",
         "San Francisco, CA, USA"
@@ -3358,31 +3387,6 @@
       "summary": "Los Angeles Apply for this job Job Description Salary: $130,000 to $140,000 per Annum Job Summary We are seeking a highly skilled and experienced iOS Developer to join our team in Litmus7. In this role, the person will be responsible for designing, developing, and maintaining mobile applications targeting iOS platform for clients of Litmus7, ensuri",
       "title": "Senior iOS Developer",
       "url": "https://www.linkedin.com/jobs/view/senior-ios-developer-at-l7commerce-4477003083",
-      "verification": "open"
-    },
-    {
-      "company": "Eight Sleep",
-      "company_priority": 1,
-      "description": "Join the Sleep Fitness Movement At Eight Sleep, we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Our products power peak mental, physical, and emotional performance by transforming every night of sleep into a personalized, data-driven recovery experience. We are trusted by high performers, professional athletes, and health-conscious consumers in over 30 countries worldwide. Recognized as one of Fast Company's Most Innovative Companies in 2019, 2022, and 2023, 2026 and twice named to TIME's “Best Inventions of the Year.” We operate like a high-performance team: fast, focused, and motivated by impact. We don’t just ship; we iterate, refine, and obsess over the details that help our members sleep better and wake up stronger. Every role at Eight Sleep is a chance to create cutting-edge technology, collaborate with world-class talent, and help shape a future where sleep isn’t passive - it’s a powerful tool for living better. If you’re tired of the ordinary and driven to build at the edge of what’s possible, this is your moment. Join us and lead the movement that’s transforming how the world sleeps and what we’re all capable of when we wake up. High Standards. No Apologies. We operate with intensity because our mission demands it. At Eight Sleep, we bring the same mindset as the world’s top performers: focused, relentless, and always pushing to be in the top 1% of our craft. Think Kobe Bryant’s mamba mentality, applied to bold ideas, next-gen tech, and flawless execution. This isn’t a 9-to-5. Our team is deeply committed, often putting in 60+ hours a week –not because we’re told to, but because we’re invested. We’re here to build fast, push limits, and deliver without compromise. If you thrive under pressure and want to do the most meaningful work of your career, you’ll feel right at home. If you’re looking for something easier –this isn’t it. The Role The mobile app is our primary point of interaction with members. It allows users to control and configure our product and helps them gain insights. You will work very closely with other Engineers (backend, firmware, ML), departments (R&D, Growth, Hardware), and Executives (CEO, CPO, VPs). We are looking for an experienced Senior iOS Software Engineer to join our Engineering team. The ideal candidate has experience within a hyper-growth start-up that has shipped pixel-perfect mobile apps with beautiful animations. We want someone with a high bar for product quality, technical prowess, and a passion for health tech and wellness. You will conduct code reviews, ensure code quality, and optimize the app performance to enhance the experience of our members. What You'll Need To Succeed 6+ years of shipping high-quality features for native iOS apps Expertise with Swift Mastery of SwiftUI and Combine Experience working with various architectures and modularized projects BA/BS in Computer Science or equivalent experience Preferred Experience Familiarity with Swift's evolution in recent years Familiarity with CI/CD, codegen/projectgen tools Experience working at a consumer products company focusing on health and wellness. Experience working with App Extensions (Apple Watch, Widgets, Siri) Why join Eight Sleep? Innovation in a culture of excellence Join us in a workplace where innovation isn’t just encouraged - it’s a standard. Our flagship product, the Pod, is a testament to our culture of excellence, beloved by hundreds of thousands of customers worldwide. At Eight Sleep, you will be part of a team that continuously pushes the boundaries of technology in sleep fitness. Immediate responsibility and accelerated career growth From your first day, you’ll take on substantial responsibilities that have a direct impact on our core business and product success. We are a small team that empowers you to own your projects and see the tangible effects of your efforts, enhancing both your professional growth and our company’s trajectory. Your path will be challenging but rewarding, perfect for those who thrive in fast-paced environments aiming for high standards. Collaboration with exceptional talent Work alongside other bright minds like you: at Eight Sleep exceptional intelligence and a passion for breakthroughs are the norms. Our team members are not only experts in their fields but also avid innovators who thrive in our dynamic, fast-paced environment. Equitable Compensation And Continuous Equity Investment We extend equity participation to every full-time team member, recognizing and rewarding your direct contributions to our success. This includes periodic equity refreshments based on performance, ensuring that as Eight Sleep grows and succeeds, so do you – perfectly aligning your achievements with the broader triumphs of the company. Your Own Pod - And Other Great Benefits Every Eight Sleep employee receives the very product that defines our mission: a Pod of their own. If you join us you’ll get your own Pod, along with*: Full access to health, vision, and dental insurance for you and your dependents Supplemental life insurance Flexible PTO Commuter benefits to ease your daily commute Paid parental leave List of benefits may vary depending on your location At Eight Sleep we continually celebrate the diverse community different individuals cultivate. As an equal opportunity employer, we stay true to our values by ensuring everyone feels they can flourish and grow. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",
-      "eligibility": "match",
-      "employment_type": "full-time",
-      "first_seen_at": "2026-11-21T17:12:24.415165+00:00",
-      "id": "linkedin:4492964718",
-      "last_seen_at": "2026-11-21T17:12:24.415165+00:00",
-      "last_verified_at": "2026-11-21T17:11:50.096876+00:00",
-      "locations": [
-        "San Francisco, CA, US"
-      ],
-      "posted_at": "2026-11-20T17:28:45.000Z",
-      "reasons": [],
-      "salary": null,
-      "salary_match": "unverified",
-      "score": 60,
-      "source": "linkedin",
-      "source_id": "4492964718",
-      "summary": "Join the Sleep Fitness Movement At Eight Sleep, we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Our products power peak mental, physical, and emotion",
-      "title": "Senior Software Engineer - Mobile (iOS)",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-mobile-ios-at-eight-sleep-4492964718",
       "verification": "open"
     },
     {
@@ -3969,5 +3973,5 @@
       "verification": "open"
     }
   ],
-  "update_sequence": 22
+  "update_sequence": 23
 }
